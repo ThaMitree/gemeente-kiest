@@ -1,0 +1,1981 @@
+{
+  "generated_at": "2026-03-09T09:01:57.551512Z",
+  "municipality": {
+    "name": "Leiden",
+    "year": 2026,
+    "election_date": "19 maart 2026",
+    "source_programs_url": "https://www.gemeenteraadleiden.nl/actueel/gemeenteraadsverkiezingen-2026/kandidaten-en-verkiezingsprogrammas",
+    "source_programs_label": "gemeente Leiden",
+    "contact_email": "leidenkiest2026@dimitry.cc",
+    "repo_url": "https://github.com/ThaMitree/gemeente-kiest"
+  },
+  "topics": [
+    {
+      "id": "wonen",
+      "label": "Wonen",
+      "icon": "🏠"
+    },
+    {
+      "id": "mobiliteit",
+      "label": "Mobiliteit & Verkeer",
+      "icon": "🚲"
+    },
+    {
+      "id": "parkeren",
+      "label": "Parkeren",
+      "icon": "🅿️"
+    },
+    {
+      "id": "klimaat",
+      "label": "Klimaat & Energie",
+      "icon": "☀️"
+    },
+    {
+      "id": "groen",
+      "label": "Groen & Natuur",
+      "icon": "🌳"
+    },
+    {
+      "id": "veiligheid",
+      "label": "Veiligheid",
+      "icon": "🏘️"
+    },
+    {
+      "id": "binnenstad",
+      "label": "Binnenstad & Winkels",
+      "icon": "🏪"
+    },
+    {
+      "id": "daklozen",
+      "label": "Daklozen & Opvang",
+      "icon": "🏠"
+    },
+    {
+      "id": "zorg",
+      "label": "Zorg & Welzijn",
+      "icon": "🤝"
+    },
+    {
+      "id": "onderwijs",
+      "label": "Onderwijs",
+      "icon": "📚"
+    },
+    {
+      "id": "economie",
+      "label": "Economie & Werk",
+      "icon": "💼"
+    },
+    {
+      "id": "financien",
+      "label": "Gemeentefinanciën",
+      "icon": "💶"
+    },
+    {
+      "id": "bestuur",
+      "label": "Bestuur & Participatie",
+      "icon": "🗳️"
+    },
+    {
+      "id": "cultuur",
+      "label": "Cultuur & Evenementen",
+      "icon": "🎭"
+    }
+  ],
+  "parties": [
+    {
+      "id": "groenlinks_pvda",
+      "name": "GroenLinks-PvdA Leiden",
+      "abbreviation": "GL-PvdA",
+      "color": "#84BC00",
+      "text_color": "#FFFFFF",
+      "source": "pdf",
+      "positions": {
+        "wonen": {
+          "summary": "GroenLinks-PvdA wil voor 2040 minimaal 10.000 nieuwe woningen bouwen, waarvan minimaal 40% sociale huur en 40% middenhuur of betaalbare koop. Mensen met cruciale beroepen (leraren, agenten, verpleegkundigen) krijgen voorrang op betaalbare woningen. Leegstaande panden worden actief aangeschreven. Woningen zijn voor mensen, niet voor winst.",
+          "key_points": [
+            "Minimaal 10.000 nieuwe woningen voor 2040 in Leiden",
+            "40% sociale huur en 40% middenhuur/betaalbare koop per project",
+            "Cruciale beroepen krijgen voorrang op betaalbare woning",
+            "Leegstand aanpakken met meldplicht en verplichte verhuur",
+            "Optoppen: bouwen bovenop bestaande gebouwen als slimme verdichting",
+            "Housing First voor daklozen: zo snel mogelijk woonruimte regelen"
+          ],
+          "quote": "Woningen zijn voor mensen, niet voor winst. De afgelopen jaren hebben we bewezen dat het anders kan. Leiden bouwt nu meer betaalbare woningen dan ooit.",
+          "coverage": "volledig"
+        },
+        "mobiliteit": {
+          "summary": "Voetgangers en fietsers staan op de eerste plek. GroenLinks-PvdA maakt de binnenstad autoluw, pakt gevaarlijke kruispunten aan (o.a. Groote Vink) en verlaagt de maximumsnelheid naar 30 km/u op de singels. Tussen Leiden Centraal en het Rapenburg komt een voetgangersgebied met een groenere Beestenmarkt.",
+          "key_points": [
+            "Autoluw uitbreiden: meer delen binnenstad zonder doorgaand verkeer",
+            "30 km/u als norm binnen en op de singels, streng gehandhaafd",
+            "Voetgangersgebied Leiden Centraal–Rapenburg met groenere Beestenmarkt",
+            "Gevaarlijk kruispunt Groote Vink aanpakken (Stevenshof–Zuidwest)",
+            "Veilige schoolroutes: kinderen vanaf 8 jaar zelfstandig naar school",
+            "Wie zijn auto inlevert en kiest voor de fiets, krijgt tijdelijk een leenfiets"
+          ],
+          "quote": "Daarom gaan we door met het op de eerste plek zetten van voetgangers en fietsers bij de manier waarop we onze stad inrichten.",
+          "coverage": "volledig"
+        },
+        "parkeren": {
+          "summary": "GroenLinks-PvdA zet in op een autoluwere binnenstad waarbij parkeerruimte geleidelijk verdwijnt ten gunste van groen, fietsen en voetgangers. Er komt een nieuwe Leidse parkeerapp om bezoekers te helpen. Meer laadpunten voor elektrische auto's worden geplaatst, met slim laden via dynamische tarieven.",
+          "key_points": [
+            "Autoluw uitbreiden: meer parkeerruimte omzetten naar groen en verblijfsruimte",
+            "Nieuwe parkeerapp voor makkelijk bezoekers aanmelden en parkeerplek vinden",
+            "Meer laadpunten voor elektrische auto's, kabelgoten netjes weggewerkt",
+            "Slim laden met dynamische tarieven bij openbare laadpunten",
+            "Geluidshinder bij randwegen door omrijdend verkeer verminderen"
+          ],
+          "quote": "We maken meer delen van de binnenstad autoluw. Alleen bestemmingsverkeer mag er rijden. Zo komt er ruimte vrij voor groen, bankjes, fietsers en voetgangers.",
+          "coverage": "volledig"
+        },
+        "klimaat": {
+          "summary": "Elk jaar worden 1.200 woningen van het gas gehaald via een publiek warmtebedrijf. Nieuwe woningen zijn energieneutraal. Het aantal laadpunten wordt verdubbeld. Terrasverwarming wordt verboden. GroenLinks-PvdA steunt lokale energiecoöperaties als De Watergeuzen en wil een gemeentelijk bedrijf voor verduurzaming.",
+          "key_points": [
+            "1.200 woningen per jaar van gas af, beginnen in Leiden Zuidwest",
+            "Publiek warmtebedrijf — gemeente houdt zelf de regie",
+            "Energieneutrale nieuwbouw als standaard",
+            "Laadpunten verdubbelen en slim laden stimuleren",
+            "Terrasverwarming verboden",
+            "Gemeentelijk verduurzamingsbedrijf, zonder winstoogmerk"
+          ],
+          "quote": "Leiden kiest daarom vol overtuiging voor een toekomst met eerlijke, betaalbare en schone energie.",
+          "coverage": "volledig"
+        },
+        "groen": {
+          "summary": "Leiden wordt véél groener: het Singelpark wordt afgemaakt en een Panoramapark rond de stad aangelegd. Elke straatrenovatie maakt de weg groener en hitteresistenter. Overdekte grachten worden heropend, beginnend bij het Kort Rapenburg. Biodiversiteit wordt vergroot met diervriendelijke maatregelen.",
+          "key_points": [
+            "Singelpark afmaken; Panoramapark aanleggen rondom de stad",
+            "Elke gerenoveerde straat wordt groener en beter bestand tegen hitte",
+            "Gracht Kort Rapenburg heropenen als eerste stap",
+            "Stenen vervangen door bomen en planten in buurten met weinig schaduw",
+            "Biologisch gekweekte planten als standaard bij vergroening",
+            "Eetbaar groen (fruitbomen, bessenstruiken) bij scholen en ziekenhuizen"
+          ],
+          "quote": "Meer groen in de stad is geen luxe, maar noodzaak. Zeker in een stad die zo dichtbebouwd is als Leiden en waar veel mensen geen tuin hebben.",
+          "coverage": "volledig"
+        },
+        "veiligheid": {
+          "summary": "Preventie staat centraal: een veilige stad begint met goed onderwijs, sterke zorg en een fijne buurt. Wijkagenten zijn zichtbaar aanwezig. Geen extra camera's in de stad — privacy staat voorop. Vuurwerk door burgers wordt verboden. Rond daklozenopvang komt extra toezicht voor zowel bewoners als cliënten.",
+          "key_points": [
+            "Preventie boven repressie: wijkgerichte aanpak met bewoners en jongerenwerkers",
+            "Wijkagenten zichtbaar en aanspreekbaar in de stad",
+            "Geen nieuwe bewakingscamera's — privacy beschermen",
+            "Vuurwerk door burgers verboden",
+            "Jongeren die de fout ingaan: begeleiding en hersteltraject",
+            "Aanpak straatintimidatie van vrouwen en minderheden"
+          ],
+          "quote": "Veiligheid is een grondrecht. Iedereen moet zich vrij en beschermd voelen in de eigen wijk, op straat en onderweg.",
+          "coverage": "volledig"
+        },
+        "binnenstad": {
+          "summary": "De binnenstad wordt autoluw en groener: een voetgangersgebied van Leiden Centraal tot het Rapenburg met een vergroende Beestenmarkt. Een nachtburgemeester verbindt het nachtleven met de gemeente. Er is een goed uitgaansgebied met ruimere sluitingstijden. Leegstaande panden worden tijdelijk beschikbaar gesteld voor maatschappelijke initiatieven.",
+          "key_points": [
+            "Voetgangersgebied Leiden Centraal–Rapenburg, groenere Beestenmarkt",
+            "Nachtburgemeester aanstellen voor levendig en veilig nachtleven",
+            "Één uitgaansgebied met ruimere sluitingstijden in overleg met omwonenden",
+            "Leegstand in binnenstad benutten voor maatschappelijke initiatieven",
+            "Reclame uit bushokjes en openbare ruimte verwijderen",
+            "Weekmarkten uitbreiden naar meer wijken"
+          ],
+          "quote": "We maakten de binnenstad voor een groot deel autoluw om meer ruimte te maken voor fietsers, voetgangers en vergroening, en voor schone lucht.",
+          "coverage": "volledig"
+        },
+        "daklozen": {
+          "summary": "Dakloosheid is een woonprobleem en vraagt een woonoplossing: Housing First. GroenLinks-PvdA regelt zo snel mogelijk woonruimte voor alle dakloze en thuisloze mensen in Leiden die dat nodig hebben, met passende ondersteuning. Doorstroom vanuit de opvang naar zelfstandig wonen wordt versneld.",
+          "key_points": [
+            "Housing First: zo snel mogelijk woonruimte voor alle daklozen",
+            "Passende ondersteuning bij terugkeer naar zelfstandig wonen",
+            "Snelle doorstroom vanuit opvang naar woning",
+            "Alternatieve huisvesting voor mensen die niet in reguliere woning kunnen wonen",
+            "Voldoende opvangplekken voor vrouwen die vluchten voor huiselijk geweld",
+            "Meer toezicht en begeleiding rond opvanglocaties (o.a. Energiepark)"
+          ],
+          "quote": "Dakloosheid is een woonprobleem. Woningen zijn de belangrijkste oplossing (housing first). We regelen zo snel mogelijk woonruimte voor alle dakloze en thuisloze mensen in Leiden.",
+          "coverage": "volledig"
+        },
+        "zorg": {
+          "summary": "Zorg draait niet om concurrentie en winst, maar om mensen. In elke wijk komt één duidelijk loket voor zorg en hulp. Een maatwerkfunctionaris coördineert hulp voor mensen met meerdere problemen. Woonzorgzones per wijk zorgen dat ouderen langer zelfstandig kunnen wonen. Mantelzorgers worden beter ondersteund.",
+          "key_points": [
+            "Één duidelijk loket per wijk voor alle zorg- en hulpvragen",
+            "Maatwerkfunctionaris voor mensen met meerdere problemen tegelijk",
+            "Woonzorgzones per wijk: woningen, zorg en ontmoetingsplekken bij elkaar",
+            "Bemoeizorg: actief contact met mensen die hulp nodig hebben maar niet vragen",
+            "Mantelzorgers ondersteunen en zorg-op-maat voor hen bereikbaar maken",
+            "Zorg Wmo-beschikkingen voor langere termijn — minder heraanvragen"
+          ],
+          "quote": "Gezondheid is geen eigen verantwoordelijkheid, maar een kwestie van solidariteit en rechtvaardigheid.",
+          "coverage": "volledig"
+        },
+        "onderwijs": {
+          "summary": "GroenLinks-PvdA investeert in gelijke kansen via gezonde schoolgebouwen, uitbreiding van de Sleutelpas voor schoolspullen en bijles, en vergroening van schoolomgevingen. Leren is meer dan taal en rekenen: cultuur, bewegen en burgerschapsvorming horen er ook bij. Jongerenraad en Kinderraad geven jongeren inspraak.",
+          "key_points": [
+            "Schoolgebouwen opknappen: frisse lokalen, goede verlichting en buitenruimte",
+            "Sleutelpas voor schoolspullen, bijles en culturele uitjes voor kinderen met weinig geld",
+            "30 km/u zones en veilige schoolroutes zodat kinderen zelfstandig kunnen fietsen",
+            "Cultuur, kunst en bewegen als vast onderdeel van het schoolcurriculum",
+            "Extra aandacht voor kinderen met lichte verstandelijke beperking",
+            "Hulp stopt niet als jongere 18 wordt"
+          ],
+          "quote": "In Leiden moet ieder kind zich veilig, vrij en gezien voelen. We bouwen aan een stad waar kinderen kunnen opgroeien tot zelfstandige, gelukkige mensen.",
+          "coverage": "volledig"
+        },
+        "economie": {
+          "summary": "Maatschappelijke waarde staat centraal, niet aandeelhouderswinst. DZB helpt mensen met afstand tot de arbeidsmarkt. Grote bedrijven moeten iets terugdoen voor de stad. De groene economie (duurzame logistiek, reparatie, energie-installatie) levert nieuwe banen. Kennis en samenwerking tussen mbo, universiteit en bedrijfsleven worden gestimuleerd.",
+          "key_points": [
+            "Maatschappelijke waarde boven aandeelhouderswinst als uitgangspunt",
+            "DZB ontwikkelbedrijf voor mensen met afstand tot de arbeidsmarkt",
+            "Grote bedrijven: bijdragen aan de stad via verduurzaming of sociale banen",
+            "Groene economie als banenmotor: duurzame logistiek, reparatie, energie",
+            "Mbo-studenten en buurtbewoners verbinden aan kennis en innovatie",
+            "Weekmarkten uitbreiden; leegstand tijdelijk benutten voor maatschappelijk gebruik"
+          ],
+          "quote": "De economie van Leiden moet Leidenaars centraal stellen. Niet de hoogste opbrengst voor aandeelhouders, maar de grootste maatschappelijke waarde staat voorop.",
+          "coverage": "volledig"
+        },
+        "financien": {
+          "summary": "De Leidse financiën zijn gezond. GroenLinks-PvdA investeert vanuit die basis in mensen en de stad. De sterkste schouders dragen de zwaarste lasten: eigenaren van meerdere woningen betalen meer. Als belastingen moeten stijgen, wordt dat eerlijk en transparant gedaan. Begroting kijkt ook naar maatschappelijke opbrengst, niet alleen kosten.",
+          "key_points": [
+            "Gezonde financiën als basis voor ambitieuze investeringen",
+            "Sterkste schouders dragen zwaarste lasten — progressief principe",
+            "Hogere OZB voor eigenaren van tweede woningen onderzoeken",
+            "Begroting beoordeelt ook maatschappelijke opbrengst, niet alleen kosten",
+            "Eventuele lastenstijging eerlijk en transparant onderbouwen",
+            "Pleidooi voor meer Rijkssteun voor gemeentelijke taken (jeugdzorg, energie)"
+          ],
+          "quote": "We zorgen voor eerlijke, transparante en progressieve boekhouding. Het Rijk bepaalt voor een deel hoeveel geld we binnenkrijgen, maar de balans maken we zelf.",
+          "coverage": "volledig"
+        },
+        "bestuur": {
+          "summary": "Bewoners bepalen mee: wijken krijgen een eigen budget van €200.000 voor verbeteringen. Een Jongerenraad en Kinderraad geven jongeren een stem. Inspraak bij bouwplannen is serieus en niet formeel. De generatietoets toetst plannen op effecten voor toekomstige generaties. Anoniem demonstreren is makkelijk gemaakt.",
+          "key_points": [
+            "Wijkbudget van €200.000 per buurt voor bewonersideeën",
+            "Jongerenraad en Kinderraad als vaste inspraakinstituten",
+            "Burgerberaad als succesvol participatie-instrument",
+            "Generatietoets bij nieuwe plannen op effecten toekomstige generaties",
+            "Demonstreren makkelijk: anoniem aanmelden, geen lange vragenlijst",
+            "Ambtenaren getraind in open bestuurscultuur en duidelijke taal"
+          ],
+          "quote": "Samen maken we de stad. Door elkaar te helpen, maar ook door mee te beslissen over veranderingen en verbeteringen.",
+          "coverage": "volledig"
+        },
+        "cultuur": {
+          "summary": "Cultuur geeft kleur en warmte aan de stad en is voor iedereen beschikbaar via de Sleutelpas. Leidse makers en gezelschappen worden structureel gesteund; de subsidiepot wordt vergroot. Een nachtburgemeester verbindt het nachtleven met de gemeente. Erfgoed wordt actief beschermd, inclusief de mogelijkheid het Kort Rapenburg te heropenen.",
+          "key_points": [
+            "Sleutelpas voor gratis of goedkope toegang tot cultuur voor lagere inkomens",
+            "Structureel meer budget voor makers, gezelschappen en kunstenaars",
+            "Nachtburgemeester aanstellen voor levendig en veilig nachtleven",
+            "Uitgaansgebied met ruimere sluitingstijden in goed overleg met buurt",
+            "Actief erfgoedbeleid: monumenten koesteren en beschermen",
+            "Cultuur en Leidens Ontzet als onderdeel van de identiteit van de stad"
+          ],
+          "quote": "Cultuur geeft kleur en warmte aan onze stad. We zijn trots dat Leiden een rijk en divers aanbod heeft, zowel voor Leidenaars als voor bezoekers.",
+          "coverage": "volledig"
+        }
+      }
+    },
+    {
+      "id": "d66",
+      "name": "D66 Leiden",
+      "abbreviation": "D66",
+      "color": "#00A562",
+      "text_color": "#FFFFFF",
+      "source": "pdf",
+      "positions": {
+        "wonen": {
+          "summary": "D66 wil in 7 jaar 11.000 nieuwe woningen bouwen in Leiden en 30.000 in de regio. Minimaal 2/3 moet betaalbaar zijn: sociale huur, middenhuur en betaalbare koop voor starters. Prioriteitslocaties zijn het stationsgebied, Leiden Bio Science Park, Westerpoort en het Werninkterrein. Elke nieuwe woning wordt energieneutraal gebouwd.",
+          "key_points": [
+            "11.000 nieuwe woningen in Leiden de komende 7 jaar",
+            "Minimaal 2/3 betaalbaar (sociale huur, middenhuur, betaalbare koop), waarvan 1/3 sociale huur",
+            "Stationsgebied en LBSP als woon-werklandschap van de toekomst",
+            "Energieneutrale en natuurinclusieve nieuwbouw als standaard",
+            "Leegstaande panden aanpakken en omzetten naar woningen",
+            "Woningen gebouwd voor de lange termijn, ook voor toekomstige generaties"
+          ],
+          "quote": "Wonen is een sociaal grondrecht. Dat houdt in dat iedereen in een veilige, levendige buurt moet kunnen wonen, met speelplekken, groen, goede voorzieningen en ruimte voor ontmoeting.",
+          "coverage": "volledig"
+        },
+        "mobiliteit": {
+          "summary": "D66 zet in op een lightrailverbinding, uitbreiding van het snelfietsnetwerk en beter openbaar vervoer in de regio. Voetgangers en fietsers krijgen voorrang in de stad. De Hogewoerd wordt een voorrangsweg. Leiden Centraal als uitvalspunt voor OV wordt verbeterd.",
+          "key_points": [
+            "Lightrail en snelfietsverbindingen tussen gemeenten in de Leidse regio",
+            "Voetgangers en fietsers op eerste plek; meer ruimte op straat",
+            "Hogewoerd wordt voorrangsweg voor betere doorstroming",
+            "Verkeersveiligheid voor kinderen verbeteren via schoolroutes",
+            "Investeren in betaalbaar openbaar vervoer via samenwerking Rijk, Provincie, regio",
+            "Laad- en lostijden afstemmen op schooltijden voor verkeersveiligheid"
+          ],
+          "quote": "Goed vervoer zorgt dat je mee kunt doen in de samenleving. Het brengt je naar je werk of de kinderopvang, het zorgt ervoor dat je familie of vrienden altijd dichtbij zijn.",
+          "coverage": "volledig"
+        },
+        "parkeren": {
+          "summary": "D66 wil de autoluwe binnenstad doorzetten: straatparkeren verdwijnt stap voor stap binnen de singels. Nieuwe ondergrondse parkeergarages (bijvoorbeeld onder de Oude Vest of Oude Rijn) vervangen het wegvallende straatparkeren. Bezoekers en toeristen parkeren in garages aan de rand. Er komt een uitgebreide parkeerapp.",
+          "key_points": [
+            "Straatparkeren binnensingels stap voor stap verminderen",
+            "Nieuwe ondergrondse parkeergarages, bijv. onder Oude Vest of Oude Rijn",
+            "Bezoekers en toeristen naar parkeergarages, geen straatparkeren meer",
+            "Verbeterde parkeerapp voor bezoekers- en vergunningenbeheer",
+            "Ruimte voor praktische uitzonderingen: thuiszorg, laden/lossen"
+          ],
+          "quote": "D66 gaat verder met het plan voor een autoluwe binnenstad. Binnen de singels verdwijnt stap voor stap het straatparkeren.",
+          "coverage": "volledig"
+        },
+        "klimaat": {
+          "summary": "D66 wil per wijk met bewoners nagaan welke warmtemix het beste past (restwarmte, aardwarmte, warmte uit water). Energieneutrale nieuwbouw is verplicht. Zonnepanelen op alle gemeentelijke gebouwen. Netcongestie wordt aangepakt door sneller stations te bouwen en aansluitingen te prioriteren voor scholen en ziekenhuizen.",
+          "key_points": [
+            "Per wijk én met bewoners de beste warmtemix bepalen",
+            "Energieneutrale nieuwbouw verplicht, ook bij verbouw gemeentelijke panden",
+            "Zonnepanelen en -boilers op daken gemeentelijke gebouwen",
+            "Netcongestie aanpakken: sneller stations bouwen, prioriteit scholen/ziekenhuizen",
+            "Groene daken, gevels en regenwateropvang als standaard bij nieuwbouw",
+            "Afval als grondstof: 60% scheiding in 2030"
+          ],
+          "quote": "Klimaatverandering vraagt dat we ons voorbereiden op de gevolgen van onstuimiger weer: storm, hitte, droogte en langdurige regenval.",
+          "coverage": "volledig"
+        },
+        "groen": {
+          "summary": "D66 brengt overal meer groen aan: een Groene Kaasmarkt, Groene Beestenmarkt en verbinding van alle groengebieden via het Singelpark. Juist in Noord, Stevenshof en andere verstedelijkte gebieden worden straten en parken groener en beter onderhouden. Er komt een Watervisie voor recreatie, waterkwaliteit en biodiversiteit.",
+          "key_points": [
+            "Groene Kaasmarkt en Groene Beestenmarkt realiseren",
+            "Alle groengebieden verbinden via Singelpark en wandelroutes",
+            "Goed groenbeheer in alle wijken, ook Noord en Stevenshof",
+            "Watervisie voor waterkwaliteit, recreatie en biodiversiteit",
+            "Groene daken, gevels en biodiversiteit als norm bij nieuwbouw",
+            "Onderzoek naar tweede historische haven bij de Meelfabriek"
+          ],
+          "quote": "D66 brengt overal in de stad meer groen aan. Wij willen een Groene Kaasmarkt en Groene Beestenmarkt. Wij verbinden al het groen.",
+          "coverage": "volledig"
+        },
+        "veiligheid": {
+          "summary": "D66 is in beginsel tegen cameratoezicht en preventief fouilleren — alleen bij uitzonderlijke en tijdelijke noodzaak. Buurtbewoners worden actief betrokken bij veiligheidsaanpak. Bij kleine overtredingen krijgt iedereen in eerste instantie een waarschuwing. Nachtboa's waarborgen de veiligheid in het nachtleven. Digitale veiligheid en informatiebeveiliging worden verbeterd.",
+          "key_points": [
+            "In beginsel geen cameratoezicht of preventief fouilleren in Leiden",
+            "Buurtbewoners benoemen zelf de prioritaire veiligheidsproblemen",
+            "Eerste overtreding: waarschuwing, geen boete (gemeente is geen boetemachine)",
+            "Nachtboa's voor veiligheid in het nachtleven",
+            "Digitale veiligheid op orde: gegevens bewoners beschermen",
+            "Gemeente spreekt zich uit tegen online shamen van slachtoffers"
+          ],
+          "quote": "D66 is in beginsel tegen cameratoezicht en preventief fouilleren. Slechts als er een hele duidelijke, dringende en bijzondere noodzaak voordoet, zou D66 kunnen instemmen.",
+          "coverage": "volledig"
+        },
+        "binnenstad": {
+          "summary": "De binnenstad is de 'woonkamer van de regio'. D66 wil de levendigheid vergroten via een evenementenfonds en meer activiteiten in het centrum en wijkwinkelcentra. Toerisme is waardevol maar overtoerisme wordt voorkomen. Er wordt onderzocht of een nachtburgemeester of nachtboa's de veiligheid en levendigheid kunnen versterken.",
+          "key_points": [
+            "Binnenstad als woonkamer van de regio: levendigheid vergroten",
+            "Evenementenfonds voor activiteiten in centrum en wijkwinkelcentra",
+            "Waardevol toerisme stimuleren, maar overtoerisme voorkomen",
+            "Nachtburgemeester en nachtboa's onderzoeken voor veiliger nachtleven",
+            "Plein Luifelbaan verbeteren in samenwerking met ondernemers",
+            "Structureel investeren in citymarketing met alle partners"
+          ],
+          "quote": "De binnenstad is de woonkamer voor de hele Leidse regio. Met ondernemers willen we de levendigheid in het centrum en de wijkwinkelcentra vergroten.",
+          "coverage": "volledig"
+        },
+        "daklozen": {
+          "summary": "D66 signaleert dat een groot deel van de daklozen in Leiden arbeidsmigranten zijn. Regionale aanpak en ondersteuning zijn nodig, met betrokkenheid van werkgevers. Ondersteuning moet snel en laagdrempelig beschikbaar zijn bij werkverlies. D66 steunt de Housing First benadering en wil statushouders een goede nieuwe start bieden.",
+          "key_points": [
+            "Regionale brede aanpak voor dakloze arbeidsmigranten",
+            "Snel en laagdrempelig ondersteunen bij dakloosheid door werkverlies",
+            "Regionaal Werkcentrum als bemiddelaar tussen arbeidsmigranten en ondernemers",
+            "Statushouders en vluchtelingen opvangen conform Spreidingswet",
+            "Taallessen beschikbaar voor arbeidsmigranten en statushouders",
+            "Housing First benadering: woning als eerste stap"
+          ],
+          "quote": "Een groot deel van de daklozen in Leiden zijn arbeidsmigranten. D66 wil een brede regionale aanpak en ondersteuning voor deze doelgroep.",
+          "coverage": "volledig"
+        },
+        "zorg": {
+          "summary": "Gezondheid en preventie zijn de kern van het D66-beleid: gezondheidsparagraaf in elk groot beleidsstuk. Één loket met vaste contactpersoon voor hulpvragen. De Sleutelpas geeft toegang tot sport en cultuur voor lage inkomens. Jeugdhulp met minder formele drempels en meer samenwerking tussen instanties.",
+          "key_points": [
+            "Gezondheidsparagraaf verplicht in alle grote gemeentelijke beleidsstukken",
+            "Één loket met vaste contactpersoon voor hulp bij schulden en zorg",
+            "Sleutelpas uitbreiden voor sport, cultuur en activiteiten voor iedereen tot 130% sociaal minimum",
+            "Jeugdzorg: meer samenwerking, minder formele drempels",
+            "Schuldenpreventie via gratis cursussen en vroege begeleiding",
+            "Zorg op de juiste plek, dichtbij en zonder lange wachtlijsten"
+          ],
+          "quote": "Een gezonde samenleving begint bij gezonde mensen. Als je zorg nodig hebt, wil je die snel en dichtbij, zonder moeilijke regels of lange wachtlijsten.",
+          "coverage": "volledig"
+        },
+        "onderwijs": {
+          "summary": "D66 wil een Rijke Schooldag: meer dan lezen, schrijven en rekenen, met ruimte voor cultuur, sport en talentontwikkeling. Schoolgebouwen worden verduurzaamd en toegankelijk gemaakt. Een Taalakkoord moet laaggeletterdheid terugdringen. MBO-studenten verdienen gelijke rechten als andere studenten.",
+          "key_points": [
+            "Rijke Schooldag: cultuur, bewegen en talentontwikkeling naast kernvakken",
+            "Schoolgebouwen verduurzamen: acht prioriteitsscholen als eerste",
+            "Taalakkoord om laaggeletterdheid te verminderen",
+            "Schoolzwemmen onderzoeken om te herinvoeren",
+            "MBO-studenten: gelijke rechten en eerlijke stagevergoedingen",
+            "Bi- en omscholingsbudget voor werknemers, werkzoekenden en ZZP'ers"
+          ],
+          "quote": "Onderwijs, kunst en cultuur dagen uit en geven iedereen de kans om het maximale uit zichzelf te halen. Ze dragen de belofte van de grote gelijkmaker in zich.",
+          "coverage": "volledig"
+        },
+        "economie": {
+          "summary": "De Leidse regio is een internationaal kenniscentrum in biotech, life sciences, AI en quantumtechnologie. D66 versterkt deze kenniseconomie via Kennisstad en samenwerkingen als Key Region Leiden. Ondernemers (startups, MKB, ZZP) krijgen ruimte en vertrouwen. Asielzoekers worden snel ingezet in werk via de pilot 'Asielzoekers aan het werk'.",
+          "key_points": [
+            "Fors investeren in biotech, life sciences, AI en quantumtechnologie",
+            "Kennisstad-programma en 'Leren met de Stad' doorzetten",
+            "Ruimte en vertrouwen voor startups, scale-ups, MKB en ZZP",
+            "Key Region Leiden als herkenbare eenheid richting Rijk en EU",
+            "Pilot 'Asielzoekers aan het werk' uitbreiden",
+            "Leer- en ontwikkeltrajecten aansluitend op regionale arbeidsmarkt"
+          ],
+          "quote": "De Leidse regio is een internationale kennis- en innovatieregio. We versterken die positie — en zorgen dat iedereen profiteert.",
+          "coverage": "volledig"
+        },
+        "financien": {
+          "summary": "D66 wil een structureel sluitende meerjarenbegroting met reserves voor schokken. Publiek geld heeft een publieke waarde: opbrengsten van deelnemingen gaan naar maatschappelijke doelen. Solidariteit tussen gemeenten in de regio staat centraal. Transparantie en digitale efficiëntie worden structureel verbeterd.",
+          "key_points": [
+            "Structureel sluitende meerjarenbegroting met buffers voor schokken",
+            "Publiek geld = publieke waarde (duurzaamheid, leefbaarheid, sociale zekerheid)",
+            "Solidariteit in de regio: voorzieningen delen en gezamenlijk financieren",
+            "Gemeentelijke belastingen eenvoudiger maandelijks betalen",
+            "Digitale efficiëntie om kosten te besparen",
+            "Transparant financieel beleid met eerlijke keuzes"
+          ],
+          "quote": "Een gezonde financiële huishouding is de basis voor goed lokaal bestuur. Elke euro die de gemeente uitgeeft, moet bijdragen aan een duurzame, leefbare en sociale stad en regio.",
+          "coverage": "volledig"
+        },
+        "bestuur": {
+          "summary": "D66 staat voor een open bestuurscultuur met vroege betrokkenheid van inwoners. Wijkregisseurs en projectleiders zijn herkenbaar en bereikbaar. De gemeente communiceert in begrijpelijke taal en beantwoordt berichten tijdig. Regionale samenwerking in Holland Rijnland wordt versterkt, waarbij lokale identiteit behouden blijft.",
+          "key_points": [
+            "Vroege betrokkenheid van inwoners bij belangrijke beslissingen",
+            "Vaste wijkregisseurs en aanspreekpunten die wijk echt kennen",
+            "Begrijpelijke communicatie: e-mails en brieven tijdig beantwoorden",
+            "Openbare fractievergaderingen in wijken en buurten",
+            "Regionale samenwerking Holland Rijnland versterken",
+            "Raadsleden gaan de wijk in: scholen, ondernemers, sportverenigingen"
+          ],
+          "quote": "D66 wil een gemeente die begrijpelijke taal spreekt, die luistert, die zorgt dat ook jouw belang wordt gezien, eerlijk is over de keuzes die ze maakt.",
+          "coverage": "volledig"
+        },
+        "cultuur": {
+          "summary": "D66 wil het rijke culturele aanbod in de Leidse regio behouden en uitbreiden. Makers krijgen broedplaatsen en betere subsidiemogelijkheden. Een nachtburgemeester en nachtboa's worden overwogen voor een levendiger en veiliger nachtleven. Wekelijkse culturele activiteiten voor jongeren onder de 18. Cultuur en onderwijs worden beter verbonden.",
+          "key_points": [
+            "Culturele basisinfrastructuur behouden en uitbreiden",
+            "Broedplaatsen voor makers in leegstaand vastgoed",
+            "Nachtburgemeester en nachtboa's onderzoeken",
+            "Wekelijkse activiteiten voor jongeren onder de 18",
+            "Scholen ondersteunen bij toegang tot culturele subsidies",
+            "Sleutelpas uitbreiden met cultuuractiviteiten"
+          ],
+          "quote": "Cultuur is het voedsel voor het brein en geeft nieuwe perspectieven op maatschappelijke vraagstukken. Makers in de culturele sector zijn ontzettend belangrijk.",
+          "coverage": "volledig"
+        }
+      }
+    },
+    {
+      "id": "vvd",
+      "name": "VVD Leiden",
+      "abbreviation": "VVD",
+      "color": "#FF6600",
+      "text_color": "#FFFFFF",
+      "source": "pdf",
+      "positions": {
+        "wonen": {
+          "summary": "VVD zet in op versneld bouwen met nadruk op betaalbare koop, doorstroming en minder lokale regels. De partij wil zonder taboes naar nieuwe locaties kijken, inclusief Oostvlietpolder, en vooral woningen realiseren voor starters, gezinnen en senioren. Hoogbouw kan op geschikte plekken, maar volgens VVD niet ten koste van leefbaarheid.",
+          "key_points": [
+            "Tempo op woningbouw: 'bouwen, bouwen, bouwen'",
+            "Meer betaalbare koopwoningen en minder lokale bouwbelemmeringen",
+            "Oostvlietpolder als extra bouwlocatie",
+            "Meer seniorenappartementen voor doorstroming"
+          ],
+          "quote": "De VVD kiest daarom voor tempo en zekerheid: bouwen, bouwen, bouwen en vooral de juiste woningen.",
+          "coverage": "volledig"
+        },
+        "mobiliteit": {
+          "summary": "Mobiliteit is bij VVD een kernhoofdstuk: de stad moet beter bereikbaar en verkeersveiliger worden voor alle modaliteiten. De partij koppelt bereikbaarheid expliciet aan economie en leefbaarheid en wil knelpunten rond station en hoofdwegen versneld aanpakken. Ook steunt VVD 30 km/u waar dat werkt, met ruimte voor maatwerk op sommige wegen.",
+          "key_points": [
+            "Betere doorstroming voor auto, fiets, OV en voetgangers",
+            "Extra inzet op gevaarlijke verkeerspunten",
+            "Meer controles en handhaving op verkeersveiligheid",
+            "Stationsgebied toekomstbestendig en overzichtelijk inrichten"
+          ],
+          "quote": "Of je nu kiest voor auto, fiets, openbaar vervoer of lopen: iedereen moet zich in Leiden makkelijk, snel en veilig kunnen verplaatsen.",
+          "coverage": "volledig"
+        },
+        "parkeren": {
+          "summary": "VVD verzet zich tegen verdere afbouw van parkeerruimte en wil voldoende plekken in de buurt van woningen. Betaald parkeren wordt alleen geaccepteerd bij aantoonbare hoge druk. Daarnaast wil VVD maatwerk voor mantelzorgers, zorgverleners en bewoners bij sloop/nieuwbouwsituaties.",
+          "key_points": [
+            "Geen verdere vermindering van parkeerplekken",
+            "Landelijke parkeernormen hanteren bij nieuwbouw",
+            "Betaald parkeren alleen als het echt nodig is",
+            "Parkeerruimte en regelingen voor mantelzorgers en zorgverleners"
+          ],
+          "quote": "We willen genoeg parkeerplekken en halen geen parkeerplekken meer weg.",
+          "coverage": "volledig"
+        },
+        "klimaat": {
+          "summary": "Klimaat en verduurzaming komen terug, maar VVD benadert dit vooral vanuit betaalbaarheid, keuzevrijheid en praktische uitvoerbaarheid. De partij wil verduurzaming zonder extra regeldruk en met aandacht voor financiële risico's voor inwoners en gemeente. Klimaatbeleid krijgt minder nadruk dan bereikbaarheid, wonen en veiligheid.",
+          "key_points": [
+            "Verduurzaming moet betaalbaar en praktisch zijn",
+            "Keuzevrijheid voor bewoners bij duurzaamheidsmaatregelen",
+            "Kritisch op financiële risico's van warmtenetbeleid",
+            "Klimaatmaatregelen niet als ideologisch doel op zichzelf"
+          ],
+          "quote": "Duurzaamheid doen we verstandig en betaalbaar, met keuzevrijheid voor bewoners.",
+          "coverage": "beperkt"
+        },
+        "groen": {
+          "summary": "VVD koppelt groen vooral aan leefbaarheid en ruimtelijke kwaliteit bij bouw en mobiliteit. De partij noemt een groene, natuurvriendelijke invulling van Oostvlietpolder en wil balans tussen bouwen, bereikbaarheid en een prettige woonomgeving. Groenbeleid is aanwezig, maar minder uitgebreid uitgewerkt dan bij sommige andere partijen.",
+          "key_points": [
+            "Oostvlietpolder als groene en natuurvriendelijke wijk",
+            "Groen meenemen in gebiedsontwikkeling",
+            "Leefbaarheid als toets bij ruimtelijke keuzes"
+          ],
+          "quote": "De Oostvlietpolder wordt een groene, natuurvriendelijke en circulaire wijk.",
+          "coverage": "beperkt"
+        },
+        "veiligheid": {
+          "summary": "Veiligheid is een hoofdprioriteit voor VVD. De partij wil meer zichtbare handhaving, camera's, aanpak van straatintimidatie en versterking van het ondermijningsteam. Ook sociale veiligheid voor vrouwen en lhbtiqia+ personen krijgt expliciete aandacht, inclusief verlichting en gerichte maatregelen op risicoplekken.",
+          "key_points": [
+            "Extra BOA's en politie-inzet",
+            "Meer cameratoezicht en mobiele inzet op hotspots",
+            "Straatintimidatie stevig aanpakken",
+            "Versterken aanpak ondermijning en overlast"
+          ],
+          "quote": "Leiden is een stad waar iedereen zich veilig moet voelen.",
+          "coverage": "volledig"
+        },
+        "binnenstad": {
+          "summary": "Voor de binnenstad kiest VVD voor bereikbaarheid, levendigheid en economisch functioneren. De partij wil geen verdere uitbreiding van autoluwe zones, wel betere logistiek en bereikbaarheidsoplossingen. Ook zet VVD in op een bruisende binnenstad met horeca, evenementen, musea en toerisme.",
+          "key_points": [
+            "Geen verdere uitbreiding van autoluwe binnenstad",
+            "Binnenstad bereikbaar houden voor bewoners en ondernemers",
+            "Meer levendigheid via evenementen en nachtcultuur",
+            "Toeristische en culturele aantrekkingskracht versterken"
+          ],
+          "quote": "De autoluwe binnenstad is af. Verdere uitbreiding van de autoluwe zones schaadt de bereikbaarheid voor alle inwoners.",
+          "coverage": "volledig"
+        },
+        "daklozen": {
+          "summary": "Dakloosheid komt bij VVD vooral terug in de veiligheidscontext. De partij noemt ondersteuning via opvang, maar combineert dit met een harde lijn op overlast in de openbare ruimte en afwijzing van tentenkampen. Het onderwerp is aanwezig, maar niet als apart uitgewerkt beleidsdomein.",
+          "key_points": [
+            "Ondersteuning via opvang (Binnenvest) benoemd",
+            "Geen tentenkampen in de openbare ruimte",
+            "Gebiedsverboden bij aanhoudende overlast"
+          ],
+          "quote": "We helpen daklozen en drugsverslaafden en voorkomen overlast.",
+          "coverage": "beperkt"
+        },
+        "zorg": {
+          "summary": "VVD wil toegankelijke en betaalbare zorg met nadruk op Wmo, jeugdzorg en huisartsenzorg. De partij benoemt wachttijden en organisatorische versnippering als probleem en wil doelgerichter sturen. Ook mantelzorg en praktische ondersteuning krijgen aandacht in relatie tot dagelijkse leefbaarheid.",
+          "key_points": [
+            "Wmo betaalbaar en toegankelijk houden",
+            "Wachtlijsten in jeugdzorg terugdringen",
+            "Actief zoeken naar ruimte voor huisartsenzorg",
+            "Zorgondersteuning koppelen aan praktische uitvoerbaarheid"
+          ],
+          "quote": "Wmo-zorg betaalbaar en voor iedereen",
+          "coverage": "volledig"
+        },
+        "onderwijs": {
+          "summary": "Onderwijs is bij VVD gericht op gelijke kansen, taal, passend onderwijs en goede huisvesting. De partij benadrukt dat schoolgebouwen veilig, gezond en toekomstbestendig moeten zijn. Daarnaast wil VVD vrije schoolkeuze behouden en de samenwerking tussen onderwijs en jeugdhulp verbeteren.",
+          "key_points": [
+            "Investeren in onderwijshuisvesting",
+            "Gericht taalonderwijs en aanpak thuiszitters",
+            "Behoud van vrije schoolkeuze",
+            "Betere samenwerking onderwijs en jeugdhulp"
+          ],
+          "quote": "Onze jongeren en leerkrachten hebben recht op fatsoenlijke onderwijshuisvesting die veilig, gezond en toekomstbestendig is.",
+          "coverage": "volledig"
+        },
+        "economie": {
+          "summary": "VVD positioneert economie als voorwaarde voor banen, welvaart en een levendige stad. De partij wil regeldruk verlagen, lasten beperken en ondernemers structureel betrekken via onder meer een MKB-toets. Binnenstad, bedrijventerreinen en bereikbaarheid worden gekoppeld aan economisch herstel en groei.",
+          "key_points": [
+            "MKB-toets voor nieuwe gemeentelijke plannen",
+            "Minder regeldruk en eenvoudiger vergunningen",
+            "Lagere lasten voor ondernemers",
+            "Ruimte voor bedrijvigheid en ontwikkeling van terreinen"
+          ],
+          "quote": "Leiden moet een stad zijn waar het loont om te werken en waar het leuk is om te ondernemen.",
+          "coverage": "volledig"
+        },
+        "financien": {
+          "summary": "VVD waarschuwt voor oplopende gemeentelijke schuld en wil strakker begroten rond kerntaken. De partij wil transparante financiën, minder uitgaven aan niet-kerntaken en rem op groei van het ambtelijk apparaat. Leges en kosten moeten volgens VVD zoveel mogelijk kostprijsvolgend zijn.",
+          "key_points": [
+            "Schuldquote terugbrengen en schuldenlast beperken",
+            "Focussen op kerntaken van de gemeente",
+            "Transparanter financieel beleid",
+            "Leges en tarieven baseren op werkelijke kosten"
+          ],
+          "quote": "Onder het huidige stadsbestuur stevent de gemeente Leiden af op een schuld van 1 miljard euro.",
+          "coverage": "volledig"
+        },
+        "bestuur": {
+          "summary": "VVD wil een kleinere, snellere en dienstbare gemeente met minder regels en minder bureaucratie. De partij zet in op versimpeling, kortere lijnen en een overheid die faciliteert in plaats van overneemt. Ook wil VVD kritisch zijn op informatie-uitvraag en externe inhuur.",
+          "key_points": [
+            "Gemeente terug naar kerntaken en dienstverlening",
+            "Regels en verplichtingen schrappen waar mogelijk",
+            "Minder bureaucratie en snellere processen",
+            "Rem op groei ambtelijk apparaat"
+          ],
+          "quote": "Leiden verdient een wendbare, betrouwbare gemeente die doet wat nodig is en laat wat niet nodig is.",
+          "coverage": "volledig"
+        },
+        "cultuur": {
+          "summary": "VVD ziet cultuur als onderdeel van een bruisende stad en wil betere zichtbaarheid, toegankelijkheid en werkbare subsidieregels. De partij combineert cultuurbeleid met toerisme, evenementen en binnenstadseconomie. Subsidies worden gezien als middel met duidelijke maatschappelijke doelen, niet als structurele afhankelijkheid.",
+          "key_points": [
+            "Cultuuraanbod toegankelijker voor brede doelgroepen",
+            "Leidse musea en culturele evenementen actiever promoten",
+            "Subsidies koppelen aan maatschappelijke waarde",
+            "Minder bureaucratische beperkingen voor instellingen"
+          ],
+          "quote": "Cultuur wordt voor iedereen toegankelijk gemaakt.",
+          "coverage": "volledig"
+        }
+      }
+    },
+    {
+      "id": "pvdd",
+      "name": "PvdD Leiden",
+      "abbreviation": "PvdD",
+      "color": "#0A5C36",
+      "text_color": "#FFFFFF",
+      "source": "pdf",
+      "positions": {
+        "wonen": {
+          "summary": "PvdD beschouwt wonen als basisrecht en wil de wooncrisis aanpakken via volkshuisvesting, duurzame bouw en eerlijke verdeling van ruimte. De partij verzet zich tegen volbouwen ten koste van leefbaarheid en natuur. Nieuwbouw moet klimaatpositief, natuurinclusief en toegankelijk zijn.",
+          "key_points": [
+            "Volkshuisvesting boven marktdenken",
+            "Duurzaam, circulair en natuurinclusief bouwen",
+            "Toegankelijke woningen voor verschillende doelgroepen",
+            "Ruimtelijke keuzes met bescherming van natuur"
+          ],
+          "quote": "Een goede woning is een basisrecht voor iedereen.",
+          "coverage": "volledig"
+        },
+        "mobiliteit": {
+          "summary": "PvdD wil een rechtvaardige straat met prioriteit voor lopen, fietsen en openbaar vervoer. De partij wil de auto minder dominant maken om ruimte terug te winnen voor gezondheid, groen en ontmoeting. Mobiliteitsbeleid wordt gekoppeld aan klimaat, luchtkwaliteit en verkeersveiligheid.",
+          "key_points": [
+            "Voetgangers en fietsers centraal in straatinrichting",
+            "Duurzaam en uitstootvrij OV versterken",
+            "Minder auto-afhankelijkheid in de openbare ruimte",
+            "Schoon vervoer en gezonde lucht als uitgangspunt"
+          ],
+          "quote": "Daarom is de auto niet langer de baas en stellen we voetgangers, fietsers en openbaar vervoer centraal.",
+          "coverage": "volledig"
+        },
+        "parkeren": {
+          "summary": "Parkeren wordt door PvdD benaderd vanuit ruimtelijke herverdeling: minder verharding en meer groen. De partij wil versteende parkeerplekken omvormen en de auto minder ruimte laten innemen. Parkeerbeleid staat daarmee in dienst van klimaatadaptatie en leefkwaliteit.",
+          "key_points": [
+            "Versteende parkeerplaatsen omvormen naar groene varianten",
+            "Minder ruimte voor geparkeerde auto's in drukke gebieden",
+            "Parkeerkeuzes koppelen aan vergroening en hitteaanpak"
+          ],
+          "quote": "Leiden verandert versteende parkeerplaatsen in ‘groene’ parkeerplaatsen.",
+          "coverage": "volledig"
+        },
+        "klimaat": {
+          "summary": "Klimaatbeleid is een hoofdpijler bij PvdD, met een ambitie richting klimaatneutraliteit in 2030 en sterke nadruk op natuurherstel. De partij wil beleid integraal toetsen op duurzaamheid en klimaatrechtvaardigheid. Isolatie, energiebesparing en eerlijke verdeling van kosten en baten vormen de kern.",
+          "key_points": [
+            "Klimaatneutraal zo snel mogelijk, met 2030 als richting",
+            "Duurzaamheidstoets op al het gemeentelijk beleid",
+            "Energietransitie sociaal en rechtvaardig vormgeven",
+            "Actieve steun voor isolatie en schone energie"
+          ],
+          "quote": "Leiden kan en moet klimaatneutraal zijn, met 2030 als uitgangspunt.",
+          "coverage": "volledig"
+        },
+        "groen": {
+          "summary": "PvdD kiest voor radicale vergroening en herstel van biodiversiteit in en rond Leiden. De partij wil een stevige groennorm, bescherming van bestaande parken en uitbreiding van natuurrijke zones in wijken. Groenbeleid wordt uitgewerkt met ecologisch beheer, minder verharding en meer ruimte voor soorten.",
+          "key_points": [
+            "Leidse groennorm en meer groen per inwoner",
+            "Bescherming van bestaande parken en natuurwaarden",
+            "Ecologisch beheer en versterking biodiversiteit",
+            "Vergroening van versteende wijken en pleinen"
+          ],
+          "quote": "Minder steen, meer groen: kappen met kappen!",
+          "coverage": "volledig"
+        },
+        "veiligheid": {
+          "summary": "Veiligheid bij PvdD combineert openbare orde met gezondheid, preventie en rechten. De partij benadrukt vroegsignalering, wijkgerichte inzet en terughoudendheid met instrumenten die privacy schaden. Ook demonstratierecht en bescherming van kwetsbare groepen krijgen een duidelijke plek.",
+          "key_points": [
+            "Preventie en vroegsignalering in wijken versterken",
+            "Investeren in straatmedewerkers en wijkagenten",
+            "Terughoudend cameratoezicht vanuit privacyprincipe",
+            "Demonstreren als grondrecht beschermen"
+          ],
+          "quote": "Want ook bij criminaliteit is voorkomen beter dan genezen.",
+          "coverage": "volledig"
+        },
+        "binnenstad": {
+          "summary": "Binnenstad komt bij PvdD vooral terug via vergroening en klimaatadaptatie van versteende plekken. De partij noemt concrete centrumlocaties zoals Beestenmarkt en Kaasmarkt voor herinrichting met meer biodiversiteit en koelte. Binnenstad wordt daarmee vooral ecologisch en leefbaar benaderd.",
+          "key_points": [
+            "Beestenmarkt en Kaasmarkt vergroenen",
+            "Minder steen en meer koelte in centrum",
+            "Binnenstad klimaatadaptief en biodivers inrichten"
+          ],
+          "quote": "De Beestenmarkt maken we toekomstbestendig door deze weer te vergroenen met bomen en planten die zorgen voor koelte, biodiversiteit.",
+          "coverage": "beperkt"
+        },
+        "daklozen": {
+          "summary": "PvdD benoemt dak- en thuisloosheid expliciet in het woonhoofdstuk en verbindt dit aan basisrechten en bestaanszekerheid. De partij ziet onvrijwillige dakloosheid als onacceptabel en wil structurele oplossingen in plaats van symptoombestrijding. Het thema is duidelijk aanwezig binnen de woonagenda.",
+          "key_points": [
+            "Dak- en thuisloosheid als expliciet woononderwerp",
+            "Onvrijwillige dakloosheid normatief afgewezen",
+            "Koppeling met rechtvaardig woon- en zorgbeleid"
+          ],
+          "quote": "In een rijk land als Nederland is het onacceptabel dat er onvrijwillig dak- en thuisloze inwoners zijn.",
+          "coverage": "volledig"
+        },
+        "zorg": {
+          "summary": "PvdD wil zorg op maat met menselijke maat, zonder lange wachtlijsten en met stevige preventieve inzet. De partij koppelt zorgbeleid aan gezonde leefomgeving, voeding, beweging en mentale gezondheid. Ook ondersteuning voor mensen met beperking en betere toegankelijkheid spelen een centrale rol.",
+          "key_points": [
+            "Zorg op maat en toegankelijk voor iedereen",
+            "Meer preventie via gezonde leefomgeving",
+            "Aandacht voor mentale gezondheid en welzijn",
+            "Kleinschalige en mensgerichte ondersteuning"
+          ],
+          "quote": "Iedereen die zorg en hulp behoeft, heeft daar recht op, zonder lange wachtlijsten en met oog voor de menselijke maat.",
+          "coverage": "volledig"
+        },
+        "onderwijs": {
+          "summary": "Onderwijs bij PvdD is gericht op brede ontwikkeling, gelijke kansen en gezondheid. De partij wil structureel investeren in onderwijs en stelt dat alle kinderen toegang moeten hebben tot goed, inclusief en toegankelijk onderwijs. Ook digitale vaardigheden, cultuur en duurzaamheid krijgen plaats in het curriculum.",
+          "key_points": [
+            "Investeren in gelijke kansen en toegankelijk onderwijs",
+            "Brede ontwikkeling naast cognitieve prestaties",
+            "Gezonde schoolomgeving en voedzaam aanbod",
+            "Meer aandacht voor inclusiviteit en mediawijsheid"
+          ],
+          "quote": "De Partij voor de Dieren wil dat er structureel wordt geïnvesteerd in het onderwijs.",
+          "coverage": "volledig"
+        },
+        "economie": {
+          "summary": "PvdD kiest voor een economie van bestaanszekerheid binnen ecologische grenzen, met welzijn boven groei. De partij wil een circulaire en regionale economie, minder vervuiling en meer maatschappelijke waarde als toets. Werk, inkomen en bedrijvigheid moeten passen bij klimaat- en natuurdoelen.",
+          "key_points": [
+            "Welzijn boven welvaart en groeidenken",
+            "Sterke inzet op circulaire economie en hergebruik",
+            "Lokale economie versterken met maatschappelijke criteria",
+            "Vervuilende activiteiten afbouwen en vergroenen"
+          ],
+          "quote": "De Partij voor de Dieren is de enige politieke partij die welzijn boven welvaart plaatst.",
+          "coverage": "volledig"
+        },
+        "financien": {
+          "summary": "PvdD werkt financiën vooral uit binnen de economische koers en de verdeling van publieke middelen naar duurzame en sociale doelen. De partij pleit voor keuzes waarin vervuiling minder wordt beloond en investeringen in welzijn, natuur en gelijke kansen voorrang krijgen. Er is minder nadruk op een technisch begrotingshoofdstuk dan bij sommige andere partijen.",
+          "key_points": [
+            "Publieke middelen richten op welzijn en duurzaamheid",
+            "Vervuilende prikkels afbouwen",
+            "Gemeentelijke keuzes toetsen op maatschappelijke meerwaarde"
+          ],
+          "quote": "Welvaart wordt niet meer gemeten of nagestreefd via BBP-groei of hoge plekken in economische ranglijstjes.",
+          "coverage": "beperkt"
+        },
+        "bestuur": {
+          "summary": "PvdD wil een open, eerlijke en participatieve gemeente met sterke democratische controle en bescherming van privacy. De partij pleit voor referenda, vroege bewonersbetrokkenheid en maximale transparantie van besluitvorming. Digitale onafhankelijkheid en zorgvuldig datagebruik zijn expliciete bestuurlijke uitgangspunten.",
+          "key_points": [
+            "Open bestuur met maximale openbaarmaking",
+            "Referenda en vroege participatie bij grote besluiten",
+            "Sterke privacywaarborgen en terughoudend datagebruik",
+            "Democratische controle ook in regionale samenwerking"
+          ],
+          "quote": "Leiden zet in op een open en transparant bestuur waarbij wederzijds vertrouwen tussen inwoners en gemeente het uitgangspunt is.",
+          "coverage": "volledig"
+        },
+        "cultuur": {
+          "summary": "PvdD behandelt cultuur samen met onderwijs als fundament van een vrije en democratische samenleving. De partij wil cultuur en erfgoed breed toegankelijk houden en makers eerlijk belonen. Cultuurbeleid is gekoppeld aan inclusie, persoonlijke ontwikkeling en publieke toegankelijkheid.",
+          "key_points": [
+            "Cultuur en erfgoed toegankelijk voor iedereen",
+            "Sterke kunst- en cultuursector met eerlijke beloning",
+            "Cultuur als onderdeel van levenslange ontplooiing"
+          ],
+          "quote": "Daar hoort ook een sterke kunst- en cultuursector bij, die de ruimte krijgt om vernieuwend en kritisch te zijn en waarin makers eerlijk worden beloond.",
+          "coverage": "volledig"
+        }
+      }
+    },
+    {
+      "id": "partij_sleutelstad",
+      "name": "Partij Sleutelstad",
+      "abbreviation": "PS",
+      "color": "#2B7A8D",
+      "text_color": "#FFFFFF",
+      "source": "web",
+      "positions": {
+        "wonen": {
+          "summary": "Partij Sleutelstad committeert zich aan het bouwen van 8.000 woningen tot 2030. Tegelijk waarschuwt de partij dat Leiden de dichtstbevolkte stad van Nederland is en dat groei na 2030 grenzen heeft. Een burgerberaad gevolgd door een referendum moet bepalen hoe ver de stad nog kan groeien. Ouderen krijgen een seniorenmakelaar en voorrang bij doorstroming in de eigen wijk.",
+          "key_points": [
+            "8.000 woningen realiseren tot 2030 conform vastgelegd doel",
+            "Burgerberaad + referendum over groei van Leiden na 2030",
+            "Ouderen: seniorenmakelaar, verhuisvergoeding en voorrang in eigen wijk",
+            "Minimumpercentage seniorenwoningen bij nieuwbouw",
+            "Buurgemeenten aanspreken op hun aandeel in de regionale woningopgave",
+            "Levensloopbestendig maken van bestaande woningvoorraad via corporaties en VvE's"
+          ],
+          "quote": "Leiden loopt tegen haar grenzen aan: voorzieningen raken overbelast, het verkeer slibt dicht, het stroomnet piept en kraakt en zelfs de drinkwatervoorziening staat onder druk.",
+          "coverage": "volledig"
+        },
+        "mobiliteit": {
+          "summary": "Verkeersveiligheid is de hoogste prioriteit — ook boven biodiversiteit of recreatieve fietspaden. Bekende knelpunten worden gericht aangepakt: de fietstunnel bij de Haagweg, het kruispunt Lammenschansweg–Tomatenstraat en de Breestraat–Korevaarstraat. Rondom scholen komen extra veilige oversteekplaatsen.",
+          "key_points": [
+            "Verkeersveiligheid krijgt hoogste prioriteit, boven biodiversiteit",
+            "Aanpak bekende knelpunten: fietstunnel Haagweg, Lammenschansweg–Tomatenstraat",
+            "Veilige oversteekplaatsen en routes rondom scholen",
+            "Gemeente grijpt actief in op plekken met meldingen of slechte veiligheidscijfers"
+          ],
+          "quote": "Verkeersveiligheid hoort de hoogste prioriteit te krijgen, boven zaken als biodiversiteit of recreatieve fietspaden.",
+          "coverage": "volledig"
+        },
+        "parkeren": {
+          "summary": "Parkeertarieven gaan omlaag: verhogingen van de afgelopen jaren worden teruggedraaid. Dubbeltjesparkeren keert terug in zone B. Het eerste uur bij winkelcentra is gratis. Parkeerinkomsten mogen uitsluitend worden gebruikt voor het parkeerbeleid zelf. De zero-emissiezone — die marktkooplieden zwaar treft — wordt afgeschaft.",
+          "key_points": [
+            "Parkeertariefverhogingen van afgelopen jaren terugdraaien",
+            "Dubbeltjesparkeren terugbrengen in zone B",
+            "Eerste uur parkeren gratis bij winkelcentra",
+            "Parkeerinkomsten alleen voor parkeerkosten, niet voor gemeentekas",
+            "Zero-emissiezone afschaffen (te nadelig voor marktkooplieden en ondernemers)",
+            "Overcapaciteit in garages en bedrijfsterreinen beschikbaar stellen aan bewoners"
+          ],
+          "quote": "Parkeerinkomsten zijn er om de kosten van het parkeersysteem te dekken, niet om de gemeentekas te spekken.",
+          "coverage": "volledig"
+        },
+        "klimaat": {
+          "summary": "Partij Sleutelstad wil fors meer inzetten op woningisolatie als effectiefste klimaatmaatregel. Belastinggeld gaat liever naar isolatie dan naar de kosten van een zero-emissiezone. De gemeente moet isolatie actief ondersteunen met deskundigen. Een goed geïsoleerde woning is ook een voorwaarde voor warmtepompen en lage-temperatuurwarmtenetten.",
+          "key_points": [
+            "Fors meer gemeentelijk budget voor woningisolatie",
+            "Isoleren op plekken met de meeste winst voor betaalbaarheid",
+            "Zero-emissiezone afschaffen — budget liever naar isolatie",
+            "Gemeente ondersteunt isolatie met deskundigen die echt verstand van zaken hebben",
+            "Isolatie als voorwaarde voor warmtepompen en lage-temperatuurwarmtenetten"
+          ],
+          "quote": "De schoonste energie is immers de energie die u niet verbruikt. Bovendien is een goed geïsoleerd huis een voorwaarde voor veel duurzame alternatieven.",
+          "coverage": "volledig"
+        },
+        "groen": {
+          "summary": "Partij Sleutelstad steunt vergroening van parken en pleinen, mits de kosten verantwoord blijven. Bomen worden beter beschermd: illegale kap wordt actief bestreden en het dalende bomenbestand wordt gekeerd. Nieuwe bomen worden samen met inwoners geplant. Veiligheid gaat boven biodiversiteitsoverwegingen bij straatverlichting.",
+          "key_points": [
+            "Vergroenen van parken, pleinen en verharde plekken (mits kosten verantwoord)",
+            "Betere bescherming van bomen; illegale kap actief bestrijden",
+            "Samen met inwoners nieuwe bomen aanplanten",
+            "Bomenbestand was te lang dalende — trend moet worden gekeerd",
+            "Veiligheid gaat boven biodiversiteit bij besluiten over straatverlichting"
+          ],
+          "quote": "Bomen spelen een cruciale rol in de leefbaarheid, schoonheid en biodiversiteit van de stad, maar worden te vaak opgeofferd aan andere belangen.",
+          "coverage": "volledig"
+        },
+        "veiligheid": {
+          "summary": "Politie en BOA's moeten zichtbaar en aanspreekbaar aanwezig zijn op straat, ook 's avonds en in weekenden. BOA's worden ingezet op échte overlast (hanggroepen, zwerfafval, verkeersveiligheid), niet op onzinnige parkeerboetes. Goede straatverlichting op alle routes is verplicht. Veiligheid van mensen gaat altijd boven biodiversiteitsoverwegingen.",
+          "key_points": [
+            "Politie en BOA's zichtbaar op straat, ook avonden en weekenden",
+            "BOA's inzetten op echte overlast, niet op kleine parkeerboetes",
+            "Goede straatverlichting op alle straten, stoepen en fietspaden",
+            "Veiligheid gaat boven biodiversiteit bij verlichtingskeuzes",
+            "Gemeente dringt bij OM aan op serieus oppakken van aangiftes",
+            "Tijdelijk opschalen politie/BOA-inzet bij specifieke problemen"
+          ],
+          "quote": "Iedere Leidenaar — en zeker vrouwen en meisjes — moet zich ten alle tijden veilig voelen in de stad, waar dan ook.",
+          "coverage": "volledig"
+        },
+        "binnenstad": {
+          "summary": "De Leidse markt en evenementen zijn het kloppend hart van de binnenstad. Partij Sleutelstad wil een marktmeester voor eerlijke en transparante marktregels. De zero-emissiezone wordt afgeschaft omdat die marktkooplieden en binnenstedelijke ondernemers zwaar schaadt. Bureaucratie bij evenementenvergunningen wordt verminderd.",
+          "key_points": [
+            "Zero-emissiezone afschaffen — te nadelig voor marktkooplieden en ondernemers binnenstad",
+            "Marktmeester invoeren voor eerlijke regels en transparante vergunningverlening",
+            "Evenementen (Leidens Ontzet, Werfpop, Lakenfeesten) actief ondersteunen",
+            "Regeldruk en bureaucratie bij evenementenorganisatie verminderen",
+            "Schaarse vergunningen eerlijk en transparant uitgeven met redelijke looptijd"
+          ],
+          "quote": "Van de bruisende Peurbakkentocht tot Het Wijn Festijn, van de iconische Lakenfeesten en Werfpop tot de viering van het Leidens Ontzet op 3 oktober. Leiden leeft van haar evenementen.",
+          "coverage": "volledig"
+        },
+        "daklozen": {
+          "summary": "Partij Sleutelstad behandelt dakloosheid niet als apart thema, maar pleit in algemene zin voor toegankelijke en onvoorwaardelijke ondersteuning van kwetsbare Leidenaren via het sociaal domein. Bezuinigingen op minimavoorzieningen worden verzet.",
+          "key_points": [
+            "Geen bezuinigingen op het sociaal domein",
+            "Ondersteuning voor kwetsbare inwoners toegankelijk en zo onvoorwaardelijk mogelijk",
+            "Herstel collectieve gemeentepolis voor minima"
+          ],
+          "quote": "Leidenaren die niet rond kunnen komen, moeten kunnen rekenen op de gemeente. Deze ondersteuning moet toegankelijk en beginsel onvoorwaardelijk zijn.",
+          "coverage": "beperkt"
+        },
+        "zorg": {
+          "summary": "Partij Sleutelstad verzet zich tegen verdere bezuinigingen op het sociaal domein. De collectieve gemeentepolis voor minima moet worden hersteld. Langdurig zieken met een laag inkomen krijgen gerichte compensatie via bijzondere bijstand. Het maatwerkbudget wordt herzien omdat het leidt tot willekeur en rechtsongelijkheid.",
+          "key_points": [
+            "Geen verdere bezuinigingen op het sociaal domein",
+            "Collectieve gemeentepolis voor minima herstellen",
+            "Gerichte compensatie zorgkosten voor langdurig zieken met laag inkomen",
+            "Maatwerkbudget herzien — nu te veel willekeur en rechtsongelijkheid",
+            "Reguliere minimavoorzieningen herstellen naast maatwerk",
+            "Ouderen ondersteunen bij langer zelfstandig wonen in eigen omgeving"
+          ],
+          "quote": "Gezien de aankomende bezuinigingen wil Partij Sleutelstad blijven opkomen voor de kwetsbare Leidenaren.",
+          "coverage": "volledig"
+        },
+        "onderwijs": {
+          "summary": "Partij Sleutelstad wil dat leerlingen en docenten zich veilig voelen op school. De gemeente speelt een actieve rol via een krachtig anti-pestprotocol en door mee te denken met scholen over hun behoeften. Jongeren worden via de jongerenraad actief betrokken bij beleid dat hen raakt.",
+          "key_points": [
+            "Gemeente stelt krachtig anti-pestprotocol op samen met scholen",
+            "Gemeente luistert en denkt actief mee met scholen",
+            "Veilige leeromgeving als basis voor alle kinderen",
+            "Jongerenraad verbreden zodat ook jongeren zonder politieke affiniteit deelnemen"
+          ],
+          "quote": "Leerlingen en docenten moeten zich in alle opzichten veilig kunnen voelen op school. Partij Sleutelstad vindt dat de gemeente een actieve rol moet spelen om dit mogelijk te maken.",
+          "coverage": "beperkt"
+        },
+        "economie": {
+          "summary": "De Leidse markt is een economisch en sociaal ankerpunt dat actief ondersteund moet worden. Een marktmeester zorgt voor eerlijke regels en transparante vergunningen. Sportverenigingen worden beschermd tegen gedwongen fusies. Zelfstandige ondernemers en marktkooplieden worden niet opgezadeld met de kosten van de zero-emissiezone.",
+          "key_points": [
+            "Markt actief ondersteunen via een marktmeester",
+            "Transparante vergunningverlening met eerlijke looptijden",
+            "Sportverenigingen beschermen tegen gedwongen fusies door bezuinigingen",
+            "Zero-emissiezone afschaffen voor ondernemers in binnenstad",
+            "Jongeren betrekken bij beleid via jongerenraad"
+          ],
+          "quote": "De Leidse markt is van oudsher een belangrijk onderdeel van het stadsleven, die de Leidenaren samenbrengt.",
+          "coverage": "volledig"
+        },
+        "financien": {
+          "summary": "Partij Sleutelstad wil geen lastenverzwaring boven de inflatie. Zelfs inflatiecorrectie is geen automatisme: de koopkrachtontwikkeling is leidend. Parkeerinkomsten zijn uitsluitend bestemd voor parkeerkosten, niet voor de algemene gemeentekas. Het college verhoogt heffingen al jaren meer dan nodig — dat stopt.",
+          "key_points": [
+            "Geen lastenverzwaring boven inflatie voor inwoners en ondernemers",
+            "Koopkrachtontwikkeling is leidend voor belastingverhogingen, niet inflatie alleen",
+            "Parkeerinkomsten uitsluitend besteden aan parkeerbeleid",
+            "College verhoogt heffingen al jaren meer dan nodig — dit moet stoppen",
+            "Nuttige besteding van belastinggeld: liever isolatie dan zero-emissiezone"
+          ],
+          "quote": "Wat Partij Sleutelstad betreft staat de gemeente geen lastenverzwaring toe boven op de inflatie. Zelfs indexatie op basis van inflatie mag wat ons betreft geen automatisme zijn.",
+          "coverage": "volledig"
+        },
+        "bestuur": {
+          "summary": "Partij Sleutelstad wil de sleutels teruggeven aan de Leidenaar via bindende referenda en volksinitiatieven. Inspraak betekent meebeslissen vanaf het begin, niet achteraf een vinkje zetten. Bij grote en ingrijpende besluiten wordt standaard een referendum uitgeschreven. Transparantie is geen gunst maar een plicht.",
+          "key_points": [
+            "Bindend referendum met lagere drempel: minder handtekeningen, eerlijkere spelregels",
+            "Buurtreferendum mogelijk bij besluiten die één wijk raken",
+            "Volksinitiatief: burgers kunnen eigen voorstellen ter stemming brengen",
+            "Inspraak vanaf het begin, niet pas als alles al vaststaat",
+            "Transparantie als actieve plicht: zorgvuldig omgaan met WOO-verzoeken",
+            "Onafhankelijke regionale journalistiek als democratische hoeksteen"
+          ],
+          "quote": "Besluiten over onze stad moeten niet van bovenaf worden opgelegd. De Leidenaar moet het laatste woord kunnen hebben, zeker bij grote en ingrijpende keuzes.",
+          "coverage": "volledig"
+        },
+        "cultuur": {
+          "summary": "Leidse evenementen zijn het culturele DNA van de stad: Leidens Ontzet, Werfpop, Lakenfeesten en de wekelijkse markt moeten blijven bestaan. Partij Sleutelstad wil bureaucratie bij vergunningen verminderen en waar nodig financieel steunen. De Leidse identiteit — met rood-witte vlag en Leidse sleutels — moet zichtbaarder worden uitgedragen.",
+          "key_points": [
+            "Evenementen (Leidens Ontzet, Werfpop, Lakenfeesten, Peurbakkentocht) actief behouden",
+            "Regeldruk en bureaucratie voor evenementenorganisatoren verminderen",
+            "Financiële steun waar nodig voor evenementen en tradities",
+            "Leidse identiteit en trots zichtbaarder maken in de stad",
+            "Wekelijkse markt als cultureel en sociaal ankerpunt ondersteunen"
+          ],
+          "quote": "Van de bruisende Peurbakkentocht tot Het Wijn Festijn, van de iconische Lakenfeesten en Werfpop tot de viering van het Leidens Ontzet op 3 oktober. Leiden leeft van haar evenementen.",
+          "coverage": "volledig"
+        }
+      }
+    },
+    {
+      "id": "svl",
+      "name": "Studenten Voor Leiden",
+      "abbreviation": "SVL",
+      "color": "#E8650A",
+      "text_color": "#FFFFFF",
+      "source": "pdf",
+      "positions": {
+        "wonen": {
+          "summary": "SVL zet wonen centraal voor jongeren, studenten en starters. De partij wil meer verkamering mogelijk maken, opkoopbescherming beter laten aansluiten op de NHG-grens en woningbouw versnellen met oog voor doorstroming. Ook alternatieve woonvormen en bescherming van het traditionele studentenhuis worden sterk benadrukt.",
+          "key_points": [
+            "Verkamering verruimen om meer kamers te realiseren",
+            "Opkoopbescherming automatisch koppelen aan NHG-grens",
+            "Doorstroom stimuleren met passende bouw voor starters en senioren",
+            "Traditionele studentenhuizen beschermen"
+          ],
+          "quote": "SVL wil een toekomstbestendig woonklimaat, met ruimte en aandacht voor jongeren, studenten en starters.",
+          "coverage": "volledig"
+        },
+        "mobiliteit": {
+          "summary": "Mobiliteit valt bij SVL binnen klimaat en omgeving, met inzet op minder autodominantie, deelmobiliteit en veiligere stedelijke routes. De partij wil de binnenstad anders inrichten, met meer ruimte voor voetganger en fiets. Mobiliteitsbeleid wordt nadrukkelijk gekoppeld aan leefkwaliteit en klimaatadaptatie.",
+          "key_points": [
+            "Minder auto's in binnenstad en meer ruimte voor leefbare inrichting",
+            "Stimuleren van deelmobiliteit met duidelijke randvoorwaarden",
+            "Veiligere kruispunten en fietsverbindingen",
+            "Mobiliteit koppelen aan klimaatdoelen"
+          ],
+          "quote": "In het groene Leiden van de toekomst is er geen plek voor auto’s in de binnenstad.",
+          "coverage": "volledig"
+        },
+        "parkeren": {
+          "summary": "SVL ziet parkeerbeleid als sturingsinstrument voor een leefbare en groenere stad. De partij wil minder autoparkeerdruk in het centrum, gecombineerd met investeringen in infrastructuur en alternatieven. In het financiele hoofdstuk kiest SVL voor hogere tarieven voor kort parkeren in de binnenstad en betaalbaar vergunningparkeren buiten de singels.",
+          "key_points": [
+            "Kort parkeren in binnenstad duurder maken",
+            "Vergunningen buiten singels betaalbaar houden",
+            "Parkeerinkomsten inzetten voor infrastructuur",
+            "Parkeerplekken deels omvormen naar groen en verblijf"
+          ],
+          "quote": "Kort parkeren in de binnenstad wordt duurder, maar parkeervergunningen buiten de singels blijven betaalbaar.",
+          "coverage": "volledig"
+        },
+        "klimaat": {
+          "summary": "SVL kiest voor een ambitieuze klimaatkoers met klimaatneutraliteit in 2040 als doel. De partij wil investeren in verduurzaming, isolatie en lokale energie-oplossingen en is kritisch op Warmtelinq. Klimaatmaatregelen moeten volgens SVL praktisch uitvoerbaar zijn en jongerenperspectief meenemen.",
+          "key_points": [
+            "Leiden klimaatneutraal in 2040",
+            "Structureel isolatieoffensief, ook voor moeilijke panden",
+            "Lokale oplossingen voor energie en netcongestie",
+            "Kritisch op grootschalige fossiel-gerelateerde warmtenetroute"
+          ],
+          "quote": "Wat SVL betreft is Leiden in 2040 klimaatneutraal.",
+          "coverage": "volledig"
+        },
+        "groen": {
+          "summary": "Vergroening is een van de expliciete SVL-speerpunten. De partij wil versteende delen van de stad transformeren, met onder meer een groenere binnenstad, meer schaduw en klimaatadaptieve inrichting. Groen wordt gekoppeld aan gezondheid, ontmoetingsruimte en toekomstbestendig stadsontwerp.",
+          "key_points": [
+            "Plan voor vergroening van Breestraat en andere drukke plekken",
+            "Meer schaduw, beplanting en klimaatadaptieve inrichting",
+            "Vergroening koppelen aan verblijfskwaliteit in de stad",
+            "Meetbare doelen voor biodiversiteit en klimaatadaptatie"
+          ],
+          "quote": "Een groene stad is geen luxe, maar noodzaak.",
+          "coverage": "volledig"
+        },
+        "veiligheid": {
+          "summary": "SVL benadrukt sociale veiligheid op straat en in het uitgaansleven, met focus op preventie van straatintimidatie. De partij wil betere ondersteuning, veilige nachtmaatregelen en behoud van demonstratierecht zonder onnodige drempels. Veiligheid wordt ook gekoppeld aan weerbaarheid in crisissituaties.",
+          "key_points": [
+            "Preventieve aanpak van straatintimidatie",
+            "Veilig uitgaan met samenwerking en training",
+            "Demonstratierecht actief faciliteren",
+            "Betere crisis- en weerbaarheidsvoorbereiding"
+          ],
+          "quote": "SVL pleit voor preventief beleid om straatintimidatie tegen te gaan.",
+          "coverage": "volledig"
+        },
+        "binnenstad": {
+          "summary": "Binnenstad krijgt bij SVL veel aandacht als gebied voor vergroening, cultuur en een levendig uitgaansklimaat. De partij wil minder dominantie van verkeer en meer ruimte voor terrassen, evenementen en ontmoeting. Ook de inrichting rond Stations- en Cultuurkwartier en evenementenbeleid speelt hierin mee.",
+          "key_points": [
+            "Groenere en minder versteende binnenstad",
+            "Meer ruimte voor evenementen en uitgaan",
+            "Binnenstad inrichten als verblijfsgebied in plaats van doorgangsruimte",
+            "Combinatie van cultuur, horeca en veiligheid"
+          ],
+          "quote": "SVL kiest voor een bruisende binnenstad en het toejuichen van meer evenementen in de stad past hierbij.",
+          "coverage": "volledig"
+        },
+        "daklozen": {
+          "summary": "SVL benoemt dakloosheid expliciet bij wonen en wil gerichte opvang voor jongeren die dakloos zijn of dat dreigen te worden. De partij verwijst naar kleinschalige woonvormen en jongerenopvang als alternatief voor generieke noodopvang. Daarmee richt SVL zich vooral op preventie en snelle stabilisatie van jongeren.",
+          "key_points": [
+            "Meer aandacht voor dakloosheid onder jongeren",
+            "Jongerenopvang in passende en veilige setting",
+            "Woonvormen zoals Skeave Huse verder uitbouwen",
+            "Vroegtijdige ondersteuning om langdurige dakloosheid te voorkomen"
+          ],
+          "quote": "SVL pleit voor een jongerenopvang naar het model Housing First.",
+          "coverage": "beperkt"
+        },
+        "zorg": {
+          "summary": "Zorg komt bij SVL vooral terug als mentaal en fysiek welzijn, met jeugdzorg als apart onderdeel. De partij wil preventie, betere toegankelijkheid en structurele verbeteringen in jeugdzorg in plaats van tijdelijke noodgrepen. Gezondheid wordt daarnaast gekoppeld aan sport, leefstijl en laagdrempelige voorzieningen.",
+          "key_points": [
+            "Mentaal en fysiek welzijn als kernprioriteit",
+            "Structurele herinrichting van jeugdzorg",
+            "Meer preventie en gezonde leefstijl",
+            "Betere toegang tot laagdrempelige zorgvoorzieningen"
+          ],
+          "quote": "SVL wil een mentaal en fysiek gezond Leiden met gepaste zorg en ondersteuning voor iedereen.",
+          "coverage": "volledig"
+        },
+        "onderwijs": {
+          "summary": "SVL profileert Leiden als onderwijsstad en wil investeren in toegankelijk en vernieuwend onderwijs met gelijke kansen. De partij legt nadruk op lerarentekort, passende schoolgebouwen en actieve jongerenparticipatie in en rond onderwijs. Ook bibliotheken en burgerschapsvorming krijgen expliciete aandacht.",
+          "key_points": [
+            "Aanpak lerarentekort met stedelijke bonus en ondersteuning",
+            "Toekomstbestendige schoolgebouwen en flexibele functies",
+            "Investeren in jongerenparticipatie en democratie-educatie",
+            "Bibliotheken versterken als brede onderwijsvoorziening"
+          ],
+          "quote": "Goed onderwijs begint met voldoende leraren.",
+          "coverage": "volledig"
+        },
+        "economie": {
+          "summary": "SVL ziet jongeren en starters als motor van de Leidse economie en wil ondernemerschap laagdrempeliger maken. De partij zet in op betere informatie over subsidies en vergunningen, versterking van beroepsonderwijsverbindingen en een beter stageklimaat. Economische groei moet aansluiten bij het profiel van Leiden als kennis- en studentenstad.",
+          "key_points": [
+            "Jongeren en starters actief ondersteunen bij ondernemen",
+            "Gemeentelijke informatievoorziening voor ondernemers verbeteren",
+            "Beroepsonderwijs en lokale economie sterker verbinden",
+            "Stageklimaat verbeteren via stagejager en betere vergoedingen"
+          ],
+          "quote": "Jongeren en (jonge) ondernemers tillen de Leidse economie naar een hoger niveau met hun unieke ideeën.",
+          "coverage": "volledig"
+        },
+        "financien": {
+          "summary": "SVL wil financieel degelijke en transparante keuzes met focus op doelmatige besteding van middelen. De partij waarschuwt voor schuldenrisico's en wil inzichtelijke begroting voor inwoners. Belastingen en heffingen moeten kritischer worden bekeken, met aandacht voor betaalbaarheid voor bewoners en studenten.",
+          "key_points": [
+            "Financieel degelijke koers met aandacht voor schulden",
+            "Doelmatig gebruik van publieke middelen",
+            "Begroting toegankelijker maken voor inwoners",
+            "Kritisch kijken naar lokale belastingdruk"
+          ],
+          "quote": "SVL wil daarom transparant beleid waarbij het geld doelmatig wordt besteed.",
+          "coverage": "volledig"
+        },
+        "bestuur": {
+          "summary": "Bestuur en participatie zijn voor SVL sterk gericht op jongereninvloed in Leiden. De partij wil participatie toegankelijker maken, jongerenraad structureel verankeren en nieuwe vormen zoals burgerberaad inzetten. Ook digitalisering van bestuur moet transparanter en beter controleerbaar worden.",
+          "key_points": [
+            "Jongerenparticipatie structureel opnemen in lokaal bestuur",
+            "Democratie071-achtige integrale aanpak voor betrokkenheid",
+            "Burgerberaad en online participatie versterken",
+            "Meer transparantie rond inzet van algoritmes"
+          ],
+          "quote": "SVL staat voor een jonge, sterke en toegankelijke lokale democratie.",
+          "coverage": "volledig"
+        },
+        "cultuur": {
+          "summary": "Cultuur en nachtleven zijn bij SVL een groot, zelfstandig beleidsterrein. De partij wil meer evenementenruimte, versoepelde horecaregels, structurele steun aan makers en hogere cultuurbudgetten. Cultuur wordt gezien als essentieel voor welzijn, economie en de identiteit van Leiden als studentenstad.",
+          "key_points": [
+            "Bruisender dag- en nachtcultuur met meer ruimte voor evenementen",
+            "Vergunningstelsel voor horeca en nachtevenementen versoepelen",
+            "Cultuurbudget verhogen en subsidieaanpak verbeteren",
+            "Makers en podia meer zekerheid en ontwikkelruimte geven"
+          ],
+          "quote": "Cultuur maakt Leiden aantrekkelijk voor jong en oud, stimuleert de economie en is goed voor de mentale gezondheid van alle Leidenaren.",
+          "coverage": "volledig"
+        }
+      }
+    },
+    {
+      "id": "cda",
+      "name": "CDA Leiden",
+      "abbreviation": "CDA",
+      "color": "#007B5E",
+      "text_color": "#FFFFFF",
+      "source": "pdf",
+      "positions": {
+        "wonen": {
+          "summary": "Het CDA wil blijven bouwen met oog voor de wijk en leefomgeving, met nadruk op doorstroming en ontmoeting. Prioriteitslocaties zijn rondom Centraal Station, Willem de Zwijgerlaan en Westerpoort. In elke wijk komt een ouderenhofje voor senioren, zodat woningen vrijkomen voor gezinnen. Koopstarters worden geholpen via een Starters Garantiefonds bij nieuwbouw.",
+          "key_points": [
+            "Bouwen op aangewezen locaties: Centraal Station, Willem de Zwijgerlaan, Westerpoort",
+            "In elke Leidse wijk een ouderenhofje voor doorstroming",
+            "Starters Garantiefonds bij nieuwbouw voor koopstarters",
+            "Hoogbouw passend bij de wijk; wel langs station en hoofdwegen",
+            "Participatie bij bouwprojecten: op voorhand duidelijkheid over wat kan"
+          ],
+          "quote": "Een huis is meer dan een stapel stenen: wij willen wijken waar mensen elkaar kennen, ontmoeten, helpen en waar mensen zich veilig voelen.",
+          "coverage": "volledig"
+        },
+        "mobiliteit": {
+          "summary": "Verkeersveiligheid heeft de hoogste prioriteit bij nieuwe projecten. Het CDA wil schoolzones met 15 km/h bij elke school en duidelijke loop- en fietsroutes vanuit de wijken naar het centrum. Onoverzichtelijke kruispunten zoals bij het station worden aangepakt. Leiden Centraal moet een beter visitekaartje worden.",
+          "key_points": [
+            "Schoolzones met maximaal 15 km/h bij elke school",
+            "Duidelijke loop- en fietsroutes van wijken naar centrum",
+            "Stoppen met onoverzichtelijke kruispunten (station, Hogewoerd/Breestraat)",
+            "1500 publieke oplaadpunten voor elektrische auto's en fietsen",
+            "Verbetering OV en uitstraling Leiden Centraal"
+          ],
+          "quote": "Bij nieuwe projecten in de stad zoals bouwprojecten of openbare ruimte projecten geeft het CDA de grootste prioriteit aan verkeersveiligheid.",
+          "coverage": "volledig"
+        },
+        "parkeren": {
+          "summary": "Het CDA accepteert betaald parkeren als nodig voor leefbaarheid in de wijk, maar wil dat bewoners, visite, werknemers en zorgprofessionals voldoende parkeerrechten houden. Parkeergarages aan de randen van de binnenstad worden gekoesterd. Parkeerbelasting wordt in samenhang met andere gemeentelijke heffingen bekeken.",
+          "key_points": [
+            "Betaald parkeren acceptabel maar bewoners en zorgprofessionals houden vergunning",
+            "Parkeergarages aan randen binnenstad behouden en verbeteren",
+            "Kleine campereigenaren houden hun parkeervergunning",
+            "Parkeerbelasting in samenhang met OZB, riool- en afvalstoffenheffing bekijken",
+            "Bij wijkvernieuwing balans tussen verkeersveiligheid, vergroening en parkeerruimte"
+          ],
+          "quote": "Betaald parkeren is niet leuk maar wel nodig. Door het betaald parkeren wordt de parkeeroverlast teruggedrongen en verbetert de leefbaarheid in de wijk.",
+          "coverage": "volledig"
+        },
+        "klimaat": {
+          "summary": "Het CDA wil verduurzaming combineren met leefbaarheid en gezondheid. Een burgerberaad over de energietransitie (2023) heeft al plaatsgevonden en de meeste adviezen zijn overgenomen. Verdere stappen zijn meer oplaadpunten, faciliteren van zonnestroom via kabelgoottegels en onderzoek naar biobased alternatieven.",
+          "key_points": [
+            "Burgerberaad energietransitie gehouden, adviezen overgenomen",
+            "1500 publieke oplaadpunten voor elektrische voertuigen",
+            "Kabelgoottegels legaliseren zodat bewoners thuis zonnestroom kunnen laden",
+            "Onderzoek naar biobased alternatieven voor traditionele grondstoffen",
+            "Verduurzaming klaslokalen basisonderwijs en voortgezet onderwijs"
+          ],
+          "quote": "In 2023 heeft het eerste Leidse Burgerberaad, een belangrijke belofte uit het programma van 2022, plaatsgevonden over de energietransitie. De meeste adviezen van het Burgerberaad zijn overgenomen.",
+          "coverage": "volledig"
+        },
+        "groen": {
+          "summary": "Vergroening van straten en pleinen is een expliciet speerpunt van het CDA. Bij wijkvernieuwingsprojecten wordt steeds gevraagd om de balans tussen verkeersveiligheid, vergroening en parkeerruimte. Het Cultuurkwartier bij de Beestenmarkt en Lammermarkt verdient een vergroeningsimpuls.",
+          "key_points": [
+            "Vergroenen van straten en pleinen in alle wijken",
+            "Bij wijkvernieuwing expliciet aandacht voor vergroening",
+            "Cultuurkwartier (Beestenmarkt, Lammermarkt) vergroeningsimpuls",
+            "Groene, schone en veilige wijken als kernkwaliteit"
+          ],
+          "quote": "Het CDA kiest voor een leefbaar Leiden. Dat betekent groene, schone en veilige wijken. We blijven ons inzetten op het vergroenen van straten en pleinen.",
+          "coverage": "volledig"
+        },
+        "veiligheid": {
+          "summary": "De handhavingscapaciteit staat onder druk en het CDA wil opnieuw uitbreiden, inclusief vrijwillige handhavers ('stadsreservisten') naar Amsterdams voorbeeld. Cameratoezicht en een digitale wijkagent worden ingezet naast de reguliere wijkagent. Weerbaarheid van de samenleving is een apart aandachtspunt.",
+          "key_points": [
+            "Uitbreiding handhavingscapaciteit (BOA's)",
+            "Vrijwillige handhavers ('stadsreservisten') naar Amsterdams voorbeeld",
+            "Cameratoezicht (vast en mobiel)",
+            "Digitale wijkagent naast wijkagent op straat",
+            "Burgerhulpverleningsorganisatie voor weerbaarheid samenleving"
+          ],
+          "quote": "De handhavingscapaciteit staat nog altijd onder druk. Het CDA wil opnieuw een capaciteitsuitbreiding.",
+          "coverage": "volledig"
+        },
+        "binnenstad": {
+          "summary": "De binnenstad wordt omschreven als 'een juweel dat we moeten koesteren'. Het CDA wil de leefbaarheid en uitstraling verbeteren via snellere vergunningen voor ondernemers, aanpak van glasvezeloverlast en handhaving op zwerfafval en graffiti. Het Cultuurkwartier (station–Meelfabriek) krijgt een kwaliteitsimpuls.",
+          "key_points": [
+            "Snellere vergunningen voor ondernemers (al gerealiseerd, versterken)",
+            "Meldpunt overlast glasvezel aanleggers succesvol, verder aanpakken",
+            "Handhaving zwerfafval en graffiti versterken, o.a. in Lammenschansdriehoek",
+            "Meer openbare prullenbakken en ruimere openingstijden Milieustraat",
+            "Cultuurkwartier (station–Meelfabriek) kwaliteitsimpuls",
+            "Lokale lasten voor ondernemers omlaag (één-na-hoogste van Nederland)"
+          ],
+          "quote": "Onze binnenstad is een juweel waar we zuinig op moeten zijn. Ze is rijk aan erfgoed, cultuur, ondernemers en studenten. De binnenstad moeten we koesteren!",
+          "coverage": "volledig"
+        },
+        "daklozen": {
+          "summary": "Dak- en thuisloosheid is een groeiend probleem dat het CDA erkent. De partij wil het 'Wonen Eerst principe' toepassen, met name voor gezinnen met kinderen: direct een woning toewijzen geeft rust en kans op herstel. In de nieuwbouwwijk Westerpoort worden op initiatief van het CDA speciale voorzieningen opgenomen.",
+          "key_points": [
+            "'Wonen Eerst principe' voor dakloze gezinnen met kinderen",
+            "Direct een woning toewijzen als effectiefste aanpak",
+            "Westerpoort krijgt op CDA-initiatief daklozenvoorzieningen"
+          ],
+          "quote": "Dak- en thuisloosheid is een groeiend probleem, ook in Leiden. Het CDA wil, nu meer sociale huurwoningen beschikbaar zijn, inzetten op het 'Wonen Eerst principe', met name voor gezinnen met kinderen.",
+          "coverage": "beperkt"
+        },
+        "zorg": {
+          "summary": "Het CDA wil een einde aan marktwerking in het sociaal domein: 'zorg is geen markt'. Mantelzorgers verdienen een respijthuis. Wijkteams moeten voldoende ruimte krijgen om echt de wijk in te gaan voor vroegsignalering, zodat instroom in WMO en jeugdzorg wordt geremd. Eenzaamheid is een expliciet aandachtspunt.",
+          "key_points": [
+            "Einde aan aanbesteding in sociaal domein — zorg is geen markt",
+            "Respijthuis voor mantelzorgers",
+            "Wijkteams als oren en ogen in de wijk, met meer bewegingsvrijheid",
+            "Samenwerking jeugdhulp, jongerenwerk, onderwijs en sport per wijk",
+            "Lief & Leed-straten voor sociale samenhang en aanpak eenzaamheid",
+            "Jeugdige mantelzorgers extra ondersteunen"
+          ],
+          "quote": "Het CDA wil een einde aan de aanbesteding in het sociaal domein. De zorg is geen markt.",
+          "coverage": "volledig"
+        },
+        "onderwijs": {
+          "summary": "Leiden ademt onderwijs en onderzoek via het programma Leiden Kennisstad. Het CDA investeerde al in verduurzaming van klaslokalen en wil leraren voorrang geven op een woning. Samenwerking tussen beroepsonderwijs en bedrijfsleven (Smartlabs, Techhubs) wordt actief gestimuleerd.",
+          "key_points": [
+            "Leiden Kennisstad: samenwerking universiteit, hogeschool, mbo en musea",
+            "Leraren krijgen voorrang op een woning in Leiden",
+            "Investeren in renovatie en verduurzaming van klaslokalen",
+            "Smartlabs en Techhubs voor samenwerking studenten en ondernemers",
+            "Aansluiting beroepsonderwijs en bedrijfsleven verbeteren"
+          ],
+          "quote": "Leiden ademt onderwijs en onderzoek. Met het programma Leiden Kennisstad heeft onze stad een goed draaiend voertuig om de samenwerking tussen universiteit, hogeschool, mbo, musea en de stad te versterken.",
+          "coverage": "volledig"
+        },
+        "economie": {
+          "summary": "Leiden heeft de één-na-hoogste lokale lasten voor ondernemers in Nederland; het CDA wil deze in stapjes verlagen. Snellere vergunningverlening is al gerealiseerd en wordt voortgezet. De samenwerking tussen beroepsonderwijs en bedrijfsleven draagt bij aan een sterke kenniseconomie.",
+          "key_points": [
+            "Lokale lasten voor ondernemers verlagen (één-na-hoogste van Nederland)",
+            "Snellere vergunningverlening voor ondernemers continueren",
+            "Samenwerking beroepsonderwijs en bedrijfsleven via Smartlabs en Techhubs",
+            "Leiden Healthy Society Center als brug tussen kennis, beleid en praktijk"
+          ],
+          "quote": "De lokale lasten voor Leidse ondernemers zijn de één-na-hoogste van Nederland. Het CDA wil deze lasten in stapjes omlaag brengen, primair voor het Leidse MKB.",
+          "coverage": "volledig"
+        },
+        "financien": {
+          "summary": "Het CDA verhoogt de OZB niet en wil elk jaar een sluitende begroting zonder tekortfinanciering. Parkeerbelasting, rioolheffing en afvalstoffenheffing moeten kostendekkend blijven en niet hoger. Het weerstandsvermogen is op orde en er komt één risicoreserve voor de hele gemeente.",
+          "key_points": [
+            "OZB niet verhogen — expliciete belofte",
+            "Elk jaar sluitende begroting, geen rekeningen doorschuiven",
+            "Rioolheffing en afvalstoffenheffing kostendekkend en niet hoger",
+            "Gemeentelijke belastingen in samenhang bekijken",
+            "Één risicoreserve voor de hele gemeente"
+          ],
+          "quote": "Het CDA verhoogt de Onroerendzaakbelasting (OZB) niet. In de afgelopen 4 jaar is de OZB niet verhoogd. Dat was een expliciete wens van het CDA.",
+          "coverage": "volledig"
+        },
+        "bestuur": {
+          "summary": "Fatsoenlijk en participatief bestuur is een kernwaarde voor het CDA. De gemeente heeft niet alle oplossingen — inwoners en organisaties worden actief betrokken. Het burgerberaad over de energietransitie is een voorbeeld. Regionale samenwerking wordt gesteund als dat nodig is.",
+          "key_points": [
+            "Participatie bevorderen via aanvullende vormen zoals burgerraden",
+            "Cursus Politiek Actief voor geïnteresseerde inwoners",
+            "Burgerberaad energietransitie als succesvol voorbeeld",
+            "Gemeente toegankelijker maken voor inwoners die bureaucratie niet kennen",
+            "Regionale samenwerking ook via minder vrijblijvende oplossingen mogelijk"
+          ],
+          "quote": "De gemeente heeft niet alle oplossingen. Politici ook niet. Het CDA wil daarom blijven bijdragen aan aanvullende en vernieuwende vormen van participatie.",
+          "coverage": "volledig"
+        },
+        "cultuur": {
+          "summary": "Leiden is een museumstad van wereldformaat met dertien musea en een brede culturele sector. Het CDA wil de culturele basisinfrastructuur vitaal houden, maar subsidies zijn in principe tijdelijk. Het Cultuurkwartier tussen station en Meelfabriek verdient een kwaliteitsimpuls met meer groen en leefbaarheid.",
+          "key_points": [
+            "Leiden heeft 13 musea — culturele sector maakt de stad uniek",
+            "Focus op culturele basisinfrastructuur, niet alles subsidiëren",
+            "Subsidies tijdelijk — nieuwe initiatieven op eigen benen",
+            "Cultuurkwartier (station–Meelfabriek) kwaliteitsimpuls",
+            "Cultuur en erfgoed als tweede pijler van de stad naast kennis"
+          ],
+          "quote": "Met dertien musea is Leiden ook een museumstad van wereldformaat. Het is juist die culturele sector die ons anders maakt dan zoveel andere steden en die bezoekers naar onze stad trekt.",
+          "coverage": "volledig"
+        }
+      }
+    },
+    {
+      "id": "sp",
+      "name": "SP Leiden",
+      "abbreviation": "SP",
+      "color": "#E3000F",
+      "text_color": "#FFFFFF",
+      "source": "pdf",
+      "positions": {
+        "wonen": {
+          "summary": "SP benadert wonen als grondrecht en kiest voor betaalbare, voldoende en gezonde woningen. De partij wil 100% betaalbare huur- en koop bij nieuwbouwambities, streng optreden tegen huisjesmelkers en betere benutting van bestaande woonruimte. Ook doorstroming en bescherming van huurders krijgen veel aandacht.",
+          "key_points": [
+            "Wonen als grondrecht in plaats van marktlogica",
+            "100% betaalbare huur- en koopwoningen bijbouwen",
+            "Strenge aanpak van huisjesmelkers en schimmelwoningen",
+            "Huurteam versterken voor bescherming van huurders"
+          ],
+          "quote": "Wij zeggen: wonen is geen markt, maar een grondrecht.",
+          "coverage": "volledig"
+        },
+        "mobiliteit": {
+          "summary": "SP wil betaalbaar en betrouwbaar vervoer met nadruk op verkeersveiligheid voor fietsers en voetgangers. De partij noemt Leiden nu te onveilig voor fietsers en wil hotspots versneld aanpakken. Ook openbaar vervoer in publieke handen en betere bereikbaarheid tussen wijken en binnenstad zijn speerpunten.",
+          "key_points": [
+            "Van gevaarlijkste naar veiligste fietsstad",
+            "Onveilige verkeerslocaties versneld aanpakken",
+            "Betrouwbaar en betaalbaar openbaar vervoer",
+            "Beter vervoer tussen buitenwijken en binnenstad"
+          ],
+          "quote": "Leiden moet de veiligste fietsstad worden.",
+          "coverage": "volledig"
+        },
+        "parkeren": {
+          "summary": "SP wil het parkeerbeleid opnieuw vormgeven met de stad via co-creatie, omdat baten en lasten nu ongelijk uitpakken. De partij wil parkeren niet als melkkoe gebruiken en ruimte voor maatwerk bij bewoners die afhankelijk zijn van de auto. Ook mantelzorg en bijzondere situaties krijgen aparte aandacht.",
+          "key_points": [
+            "Nieuw parkeerbeleid samen met bewoners opstellen",
+            "Parkeren mag geen melkkoe zijn",
+            "Behoud parkeervergunningen bij sloop/nieuwbouw",
+            "Ontheffingen voor wie niet zonder auto kan"
+          ],
+          "quote": "Parkeren is geen melkkoe.",
+          "coverage": "volledig"
+        },
+        "klimaat": {
+          "summary": "SP koppelt klimaatbeleid aan sociale rechtvaardigheid: verduurzaming moet ongelijkheid verkleinen en energiearmoede bestrijden. De partij wil collectieve isolatieprogramma's, zonnepanelen en energiecooperaties. Klimaatmaatregelen moeten volgens SP financieel voordeel opleveren voor inwoners met de slechtste woningen.",
+          "key_points": [
+            "Collectieve isolatie per wijk, start in slechtste buurten",
+            "Uitrol van zonnepanelen op school- en bedrijfspanden",
+            "Ondersteuning van energiecooperaties en publieke grip",
+            "Energietransitie inzetten tegen energiearmoede"
+          ],
+          "quote": "De SP kiest voor vergroening die voorkomt dat mensen rood staan.",
+          "coverage": "volledig"
+        },
+        "groen": {
+          "summary": "Groen is bij SP een kernonderwerp voor gezondheid, biodiversiteit en leefbaarheid. De partij wil meer groen in alle wijken, bescherming van parken en volkstuinen, en expliciet behoud van de Oostvlietpolder als groen gebied. Ook wijkgerichte vergroening en burgercollectieven worden genoemd.",
+          "key_points": [
+            "Meer groen in alle wijken",
+            "Monumentale bescherming voor parken en volkstuinen",
+            "Extra bomen en wijkgerichte vergroening",
+            "Oostvlietpolder groen houden"
+          ],
+          "quote": "Investeren in meer groen in alle wijken.",
+          "coverage": "volledig"
+        },
+        "veiligheid": {
+          "summary": "SP verbindt veiligheid met sociale zekerheid, verlichting, verkeersveiligheid en inclusie. De partij wil dat iedereen dag en nacht veilig over straat kan, met speciale aandacht voor discriminatie, nachtroutes en preventie. Veiligheid wordt dus breder ingevuld dan alleen handhaving.",
+          "key_points": [
+            "Veilige en verlichte nachtroutes",
+            "Aanpak van discriminatie vanuit artikel 1",
+            "Veiligere verkeerssituaties en fietsinfrastructuur",
+            "Preventieve aanpak in buurten en wijken"
+          ],
+          "quote": "Iedereen moet dag en nacht veilig over straat kunnen.",
+          "coverage": "volledig"
+        },
+        "binnenstad": {
+          "summary": "SP ziet de binnenstad als belangrijk, maar wil investeringen eerlijker verdelen richting wijken. De partij waarschuwt voor een te toeristische eenzijdige economie en wil voorzieningen op loop- en fietsafstand in de hele stad. Binnenstad moet aantrekkelijk blijven zonder dat andere wijken achterblijven.",
+          "key_points": [
+            "Binnenstad aantrekkelijk houden zonder monocultuur",
+            "Meer economische investeringen in wijken naast centrum",
+            "Lokale markten en wijkwinkelcentra versterken",
+            "Openbare toiletten en betaalbaarheid verbeteren"
+          ],
+          "quote": "De binnenstad wordt een steeds aantrekkelijkere plek om in te zijn.",
+          "coverage": "beperkt"
+        },
+        "daklozen": {
+          "summary": "SP werkt dakloosheid uit met een duidelijke Housing First-benadering en koppeling aan zorg en bestaanszekerheid. De partij wil menswaardige opvang en toegang tot basisvoorzieningen, ook voor ongedocumenteerden. Dakloosheid moet structureel worden teruggedrongen in lijn met het Nationaal Actieplan Dakloosheid.",
+          "key_points": [
+            "Niemand meer dakloos via Housing First",
+            "Menswaardige opvang met zorg en begeleiding",
+            "Toegang tot basiszorg, noodopvang en juridische hulp",
+            "Dakloosheidsbeleid koppelen aan armoede- en woonbeleid"
+          ],
+          "quote": "Niemand meer dakloos. We gaan uit van Housing First: eerst een veilige plek om te wonen.",
+          "coverage": "volledig"
+        },
+        "zorg": {
+          "summary": "Zorg is bij SP sterk sociaal georienteerd: minder marktwerking, meer menselijke maat en betere toegankelijkheid. De partij wil kwaliteit boven aanbesteding, versterking van wijkteams en meer steun voor mantelzorgers. Ook mentale gezondheid en preventie worden nadrukkelijk genoemd.",
+          "key_points": [
+            "Regie terug op zorg en welzijn zonder winstoogmerk",
+            "Wijkteams en jeugdhulp versterken",
+            "Mantelzorgers ondersteunen met respijtzorg en regelingen",
+            "Meer aandacht voor mentale gezondheid en preventie"
+          ],
+          "quote": "Zorg op basis van kwaliteit en de menselijke maat, geen aanbestedingen in zorg en welzijn.",
+          "coverage": "volledig"
+        },
+        "onderwijs": {
+          "summary": "SP zet in op gelijke kansen in onderwijs, onder meer via gratis schoolontbijt en ondersteuning van jeugd. De partij koppelt onderwijs aan sociale basisvoorzieningen, gezondheid en toekomstperspectief voor jongeren. Onderwijsbeleid maakt deel uit van de bredere sociale agenda van de partij.",
+          "key_points": [
+            "Jeugd en onderwijs als apart hoofdthema",
+            "Gratis schoolontbijt voor kinderen",
+            "Meer ondersteuning voor gezinnen en jongeren",
+            "Onderwijs verbinden met gelijke kansen"
+          ],
+          "quote": "Jeugd en onderwijs met toekomst.",
+          "coverage": "beperkt"
+        },
+        "economie": {
+          "summary": "SP wil een eerlijke lokale economie waarin werk en ondernemen lonen zonder uitbuiting. De partij benadrukt lokaal inkopen, steun aan wijkwinkels en versterking van cooeperatieve modellen. Economisch beleid moet volgens SP direct bijdragen aan leefbaarheid, werkgelegenheid en sociale samenhang.",
+          "key_points": [
+            "Lokale economie en wijkwinkels versterken",
+            "Gemeentelijk inkopen zoveel mogelijk lokaal",
+            "Ondersteuning van starters en cooeperaties",
+            "Voorkomen dat binnenstad alleen op toerisme drijft"
+          ],
+          "quote": "Eerlijke economie zorgt ervoor dat werken en ondernemen loont.",
+          "coverage": "volledig"
+        },
+        "financien": {
+          "summary": "SP wil de begroting realistischer maken, gesloten reserves heroverwegen en middelen inzetten op sociale prioriteiten. De partij bekritiseert grote projecten met beperkte maatschappelijke opbrengst en wil scherper sturen op uitvoerbaarheid. Financieel beleid moet volgens SP menselijke waardigheid, gelijkwaardigheid en solidariteit versterken.",
+          "key_points": [
+            "Realistischer begroten op uitvoerbaarheid",
+            "Gesloten reserves zoals binnenstadshek heroverwegen",
+            "Kritisch op dure prestige-uitgaven",
+            "Financiën richten op sociale en publieke basis"
+          ],
+          "quote": "Realistisch begroten haalt de begroting van het slot.",
+          "coverage": "volledig"
+        },
+        "bestuur": {
+          "summary": "SP wil een dienstbare, toegankelijke gemeente met echte participatie en transparante besluitvorming. De partij pleit voor vroegtijdige betrokkenheid van bewoners, hogere participatieniveaus bij complexe dossiers en een open bestuursstijl zonder achterkamertjes. Bestuur moet meedenken, niet ontmoedigen.",
+          "key_points": [
+            "Eeen digitaal en fysiek loket in toegankelijke taal",
+            "Participatie op hoger niveau bij grote dossiers",
+            "Open en transparante politiek zonder achterkamertjes",
+            "Bewonersinitiatieven ruimte geven via right to challenge"
+          ],
+          "quote": "De SP kiest voor een menselijke, toegankelijke gemeente die luistert en levert.",
+          "coverage": "volledig"
+        },
+        "cultuur": {
+          "summary": "SP ziet cultuur als basisvoorziening en wil brede toegankelijkheid in alle wijken. De partij pleit voor structurele steun aan makers, podia en wijkcultuurhuizen, met eerlijke beloning en betaalbare toegang. Ook niet-commerciele muziekscene, cultuureducatie en openbare kunst krijgen nadruk.",
+          "key_points": [
+            "Structurele steun voor wijkcultuur en makersplekken",
+            "Meer ruimte voor podia en nieuw muzikaal talent",
+            "Cultuuronderwijs en openbare kunst versterken",
+            "Evenementen en cultuur betaalbaar voor alle Leidenaren"
+          ],
+          "quote": "Cultuur maakt Leiden het waard om in te leven.",
+          "coverage": "volledig"
+        }
+      }
+    },
+    {
+      "id": "christenunie",
+      "name": "ChristenUnie Leiden",
+      "abbreviation": "CU",
+      "color": "#4A90D9",
+      "text_color": "#FFFFFF",
+      "source": "pdf",
+      "positions": {
+        "wonen": {
+          "summary": "De ChristenUnie kiest voor 'ruimtelijk rentmeesterschap': verstandig bouwen zonder groengebieden op te offeren. Bij nieuwbouw geldt minimaal 35% sociale huur en 50% middensegment. Doorstroom van senioren wordt gestimuleerd via een doorstroommakelaar en verhuisbudgetten. Hospitaverhuur en leegstandsomvorming worden ingezet als extra instrumenten.",
+          "key_points": [
+            "35% sociale huur en 50% middensegment bij nieuwbouwprojecten",
+            "Geen bouwen in schaarse groengebieden (Oostvlietpolder, wijkparken)",
+            "Doorstroommakelaar en verhuisbudgetten voor senioren",
+            "Stimuleringsfonds voor hospitaverhuur",
+            "Leegstaand vastgoed versneld omzetten naar woonplekken",
+            "Nieuwe studentenwoningen met gezamenlijke voorzieningen"
+          ],
+          "quote": "Huizen bouwen is gemeenschappen bouwen. Stenen bouwen geen samenleving, mensen wel.",
+          "coverage": "volledig"
+        },
+        "mobiliteit": {
+          "summary": "De ChristenUnie wil de fiets als duurzame hoofdvervoersvorm versterken: meer fietsparkeerplaatsen, handhaving op foutgeparkeerde fietsen en 30 km/u zones als norm. Fatbikes worden ontmoedigd. Voor OV wordt ingezet op minder uitval en verdubbeling van de spoorverbinding naar Utrecht.",
+          "key_points": [
+            "Meer fietsparkeerplaatsen; handhaving op foutgestalde fietsen",
+            "30 km/u zones als norm, ook rondom scholen",
+            "Fietsenbank voor inwoners met een laag inkomen",
+            "Fatbikes ontmoedigen in afwachting landelijk verbod",
+            "Betrouwbaar OV: minder uitval via samenwerking met provincie",
+            "Spoorverbinding Leiden–Utrecht verdubbelen"
+          ],
+          "quote": "Fietsveiligheid staat voorop, onnodig autoverkeer wordt uit de binnenstad geweerd en 30 km/u-zones worden de norm.",
+          "coverage": "volledig"
+        },
+        "parkeren": {
+          "summary": "De ChristenUnie wil een sociaal parkeerbeleid: geen betaald parkeren in de Merenwijk, Roombrug en Stevenshof, en vrij parkeren op zondag blijft gehandhaafd. Parkeren mag geen winstdoel zijn voor de gemeente. Bij sloopnieuwbouw mogen terugkerende bewoners hun parkeerplek niet verliezen. Deelmobiliteit zoals buurtauto's en deelfietsen wordt gestimuleerd.",
+          "key_points": [
+            "Geen betaald parkeren invoeren in Merenwijk, Roombrug en Stevenshof",
+            "Vrij parkeren op zondag blijft behouden",
+            "Parkeren mag geen winstdoel zijn voor de gemeente",
+            "Bij sloopnieuwbouw: terugkerende bewoners behouden parkeerrecht",
+            "Voldoende parkeerplaatsen, deels ondergronds als nodig",
+            "Deelmobiliteit stimuleren: buurtauto's en deelfietsen"
+          ],
+          "quote": "Betaald parkeren belemmert mensen om visite te ontvangen en treft vooral mensen met een lager inkomen, ouderen, praktisch werkenden en mensen met weinig sociale contacten.",
+          "coverage": "volledig"
+        },
+        "klimaat": {
+          "summary": "De energietransitie moet sociaal en rechtvaardig zijn: corporatiewoningen en slecht geïsoleerde woningen gaan als eerste. Een isolatiebrigade helpt wijk voor wijk. WarmtelinQ wordt afgewezen als te duur en niet duurzaam. Nieuwbouw moet altijd energieneutraal zijn. Laadpalen en kabelgoten worden uitgebreid voor toegankelijke elektrische mobiliteit.",
+          "key_points": [
+            "Isolatiebrigade voor corporatiewoningen en slecht geïsoleerde huizen",
+            "WarmtelinQ afwijzen — niet duurzaam, niet betaalbaar",
+            "Nieuwbouw altijd energieneutraal en klimaatbestendig",
+            "Zero-emissiezone invoeren, met aandacht voor kleine ondernemers",
+            "Laadpalen en kabelgoten uitbreiden voor iedereen",
+            "Wijkbatterijen en gedeelde netcapaciteit als innovatieve oplossingen"
+          ],
+          "quote": "De energietransitie moet sociaal en rechtvaardig zijn. Daarom beginnen we met het verduurzamen van corporatiewoningen en slecht geïsoleerde huizen.",
+          "coverage": "volledig"
+        },
+        "groen": {
+          "summary": "Bouwen en vergroening moeten hand in hand gaan. De ChristenUnie wil geen bebouwing in schaarse groengebieden en wil wijkparken als Roombrug en Merenwijk behouden. Subsidie voor groene bewonersinitiatieven wordt uitgebreid. Schaduwdoeken en koele publieke gebouwen bieden verlichting bij hittegolven.",
+          "key_points": [
+            "Geen bouwen in schaarse groengebieden (Oostvlietpolder, wijkparken)",
+            "Wijkpark Roombrug en Merenwijk blijven groen",
+            "Subsidie voor bewoners om tuin of straat groener te maken",
+            "Hittestress aanpakken met schaduwdoeken en koele publieke gebouwen",
+            "Verdichting en vergroening gaan altijd samen",
+            "Biodiversiteit vergroten en waterkwaliteit verbeteren via natuurvriendelijke oevers"
+          ],
+          "quote": "Voldoende parken en plantsoenen zorgen ervoor dat Leidenaren kunnen ontspannen, elkaar ontmoeten en genieten van de natuur. Bouwen en vergroening moeten samengaan.",
+          "coverage": "volledig"
+        },
+        "veiligheid": {
+          "summary": "Handhaving gaat bij de ChristenUnie altijd samen met preventie en zorg. Cameratoezicht wordt alleen ingezet waar het bewezen nut heeft. Het bedelverbod wordt afgeschaft. De aanpak van mensenhandel, illegale prostitutie en uitbuiting van arbeidsmigranten krijgt prioriteit. Graffiti wordt binnen een week na melding verwijderd.",
+          "key_points": [
+            "Handhaving altijd gecombineerd met preventie en zorg",
+            "Cameratoezicht alleen waar bewezen meerwaarde",
+            "Bedelverbod afschaffen — daklozen niet beboeten",
+            "Stevige aanpak mensenhandel, illegale prostitutie en uitbuiting",
+            "Graffiti binnen een week verwijderd na melding",
+            "Geen casino's in Leiden; reclame voor gokken verbieden"
+          ],
+          "quote": "We voeren alleen cameratoezicht in waar dat echt meerwaarde heeft. We treden op een goede manier op tegen wetsovertreding en overlast.",
+          "coverage": "volledig"
+        },
+        "binnenstad": {
+          "summary": "De ChristenUnie wil de binnenstad leefbaar houden door toerisme en evenementen in balans te brengen met de woonkwaliteit. Geen verplichte zondagsopenstelling voor winkeliers. De zero-emissiezone verbetert de luchtkwaliteit. Historische schepen mogen langer aanmeren voor varend erfgoed. Het Kort Rapenburg wordt niet heropend.",
+          "key_points": [
+            "Balans toerisme en leefbaarheid in alle stadsdelen inclusief binnenstad",
+            "Geen verplichte zondagsopenstelling voor winkeliers",
+            "Zero-emissiezone als investering in leefbaarheid binnenstad",
+            "Geen heropening van de gracht bij het Kort Rapenburg",
+            "Historische schepen laten aanmeren voor varend erfgoed",
+            "Toeristenbelasting losmaken van citymarketing"
+          ],
+          "quote": "In vrijwel alle stadsdelen van Leiden is het altijd zoeken naar een balans tussen levendigheid en leefbaarheid van de wijk. Dat geldt zeker ook voor de binnenstad.",
+          "coverage": "volledig"
+        },
+        "daklozen": {
+          "summary": "Housing First is het centrale uitgangspunt: eerst wonen regelen. Perspectiefwoningen ('Friends woningen') bieden begeleide huisvesting voor jongeren die dakloos waren. Een passantenhotel biedt tijdelijke woonruimte voor economisch daklozen. Kleinschalige opvang voor ongedocumenteerde asielzoekers wordt structureel gefinancierd.",
+          "key_points": [
+            "Housing First als centraal principe — eerst wonen, dan begeleiding",
+            "Perspectiefwoningen ('Friends woningen') voor jongvolwassenen die dakloos waren",
+            "Passantenhotel voor economisch dak- en thuisloze inwoners",
+            "Kleinschalige opvang en begeleiding voor ongedocumenteerde asielzoekers",
+            "Regionale aanpak dakloosheid samen met buurgemeenten",
+            "Housing First plekken uitbreiden"
+          ],
+          "quote": "Op voorstel van de ChristenUnie is er een begin gemaakt met Housing First (eerst wonen regelen) om dakloosheid te verminderen.",
+          "coverage": "volledig"
+        },
+        "zorg": {
+          "summary": "De ChristenUnie investeert in de samenleving zelf als basis voor zorg: vrijwilligersorganisaties, kerken en wijkinitiatieven worden actief betrokken. Geen bezuinigingen op specialistische jeugdhulp. Respijtzorg voor mantelzorgers. Een 'Leids Deltaplan' moet armoede in 2035 halveren en kinderarmoede in 2050 elimineren.",
+          "key_points": [
+            "Geen bezuinigingen op specialistische jeugdhulp",
+            "Respijtzorg voor mantelzorgers die overbelast dreigen te raken",
+            "Lief-en-leedstraten voor buurtbetrokkenheid structureel regelen",
+            "Leids Deltaplan: armoede halveren in 2035, geen kinderarmoede in 2050",
+            "Persoonlijk begeleidingsplan voor elke bijstandsgerechtigde",
+            "Vrijwilligers en ervaringsdeskundigen als erkende schakel in de zorg"
+          ],
+          "quote": "De ChristenUnie zet zich in voor een zorgzame samenleving waarin omzien naar elkaar vanzelfsprekend blijft.",
+          "coverage": "volledig"
+        },
+        "onderwijs": {
+          "summary": "Kansengelijkheid in het onderwijs staat centraal: gratis leermiddelen voor kwetsbare kinderen, actieplan voor thuiszitters en extra aandacht voor zij-instroom om het lerarentekort aan te pakken. Studenten krijgen structurele steun voor mentaal welzijn. De muziekbank geeft kinderen uit armere gezinnen toegang tot muziekonderwijs.",
+          "key_points": [
+            "Gratis leermiddelen voor kwetsbare kinderen en jongeren",
+            "Actieplan thuiszitters in samenwerking met scholen en zorgorganisaties",
+            "30 km/u zone verplicht rondom elke school",
+            "Zij-instroom faciliteren om lerarentekort aan te pakken",
+            "Structurele ondersteuning mentaal welzijn studenten",
+            "Muziekbank: instrumenten lenen voor kinderen uit armere gezinnen"
+          ],
+          "quote": "Goed onderwijs is van groot belang voor de toekomst van onze kinderen. Voorschoolse en vroegschoolse educatie helpen leer- en taalachterstanden goed tegen te gaan.",
+          "coverage": "volledig"
+        },
+        "economie": {
+          "summary": "Economische groei moet iedereen ten goede komen, ook praktisch geschoolden. De ChristenUnie wil een betere aansluiting tussen MBO-opleidingen en de arbeidsmarkt, en werkt bij inkopen met 'social return on investment'. Bio Science Park krijgt meer basisvoorzieningen. Geen verplichte zondagsopenstelling om kleine ondernemers te beschermen.",
+          "key_points": [
+            "Betere aansluiting MBO-opleidingen op regionale arbeidsmarkt",
+            "Social return on investment bij gemeentelijke inkopen en aanbestedingen",
+            "Geen verplichte zondagsopenstelling voor winkeliers",
+            "Onderzoek naar basisvoorzieningen (supermarkt) op het Leiden Bio Science Park",
+            "Economisch beleid gericht op inclusie van praktisch geschoolden",
+            "Kritisch op langdurige gemeentelijke steun aan private partijen"
+          ],
+          "quote": "De ChristenUnie wil dat de gemeente samen met bedrijven en onderwijsinstellingen zorgt voor een betere aansluiting tussen opleiding en arbeidsmarkt.",
+          "coverage": "volledig"
+        },
+        "financien": {
+          "summary": "De ChristenUnie staat voor realistisch begroten: lokale lasten voor inwoners stijgen niet en rekeningen worden niet doorgeschoven. Dure en weinig nuttige projecten (bibliotheekplan, muziekschool, Kort Rapenburg) worden kritisch beoordeeld. Toeristenbelasting wordt losgekoppeld van citymarketing en teruggeleid naar de algemene middelen.",
+          "key_points": [
+            "Lokale lasten voor inwoners stijgen niet",
+            "Realistisch begroten — geen financieel wensdenken",
+            "Toeristenbelasting naar algemene middelen (los van citymarketing)",
+            "Kritisch op dure projecten: bibliotheek, muziekschool, Kort Rapenburg",
+            "Meer transparantie: beïnvloedbare ruimte per begrotingsprogramma inzichtelijk",
+            "Geen langdurige gemeentelijke steun aan private partijen"
+          ],
+          "quote": "Belastinggeld is geen budget voor dadendrang van bestuurders. Het blijft geld van de bevolking waarmee we zorgvuldig om moeten gaan.",
+          "coverage": "volledig"
+        },
+        "bestuur": {
+          "summary": "Dienstbare en betrouwbare politiek is de kern van de ChristenUnie. Inspraaktrajecten moeten écht open zijn: meerdere scenario's voorleggen, niet een dichtgetimmerd plan. Één fysiek loket voor alle gemeentelijke vragen. Fractieondersteuning in de raad wordt versterkt voor kwalitatief beter lokaal democratisch werk.",
+          "key_points": [
+            "Inspraak serieus nemen: meerdere scenario's voorleggen, niet dichtgetimmerde plannen",
+            "Één fysiek overheidsloket voor alle vragen van inwoners",
+            "Meer fractieondersteuning voor kwalitatief beter raadswerk",
+            "Toegankelijke gemeentewebsite in begrijpelijke taal",
+            "Gemeente maakt inwoners weerbaar tegen digitale dreigingen",
+            "Transparant financieel inzicht voor raad en stad"
+          ],
+          "quote": "De ChristenUnie staat voor een heel andere, dienstbare en betrouwbare politiek. Wij willen werken vanuit de inhoud, respecteren de rechtsstaat en vertellen een eerlijk verhaal aan onze inwoners.",
+          "coverage": "volledig"
+        },
+        "cultuur": {
+          "summary": "Cultuur is voor iedereen toegankelijk, ook voor kinderen uit armere gezinnen. De ChristenUnie wil een muziekbank voor het lenen van instrumenten en soberheid bij grote culturele investeringen (nieuwe bibliotheek, muziekschool). Leegstaande kerken krijgen een sociaal-maatschappelijke bestemming. Het Leids Mediafonds wordt structureel gefinancierd.",
+          "key_points": [
+            "Muziekbank: instrumenten lenen voor kinderen uit minder bedeelde gezinnen",
+            "Geen te luxe plannen voor nieuwe bibliotheek of muziekschool",
+            "Leegstaande kerken: sociaal-maatschappelijke bestemming, geen horeca",
+            "Leids Mediafonds structureel financieren",
+            "Cultureel erfgoed (kerken, historische gebouwen) actief ondersteunen",
+            "City-marketingbudget doelmatiger besteden aan musea en cultuur"
+          ],
+          "quote": "Wij vinden het belangrijk dat alle kinderen in Leiden zich kunnen leren uitdrukken in muziek, dans en andere creativiteit.",
+          "coverage": "volledig"
+        }
+      }
+    },
+    {
+      "id": "volt",
+      "name": "Volt Leiden",
+      "abbreviation": "Volt",
+      "color": "#502379",
+      "text_color": "#FFFFFF",
+      "source": "pdf",
+      "positions": {
+        "wonen": {
+          "summary": "Volt wil de woningbouwopgave fors verhogen met 8.800 woningen tot 2030 en daarna nog 5.000 extra tot 2035. De partij legt nadruk op betaalbaarheid, levensloopbestendige woningen en betere doorstroming. Ook wil Volt samenwonen zonder vergunningen eenvoudiger maken en extra studentenkamers realiseren.",
+          "key_points": [
+            "Tot 2030 8.800 woningen en daarna 5.000 extra",
+            "Mix van sociale huur, middenhuur en betaalbare koop",
+            "Samenwonen zonder vergunning makkelijker maken",
+            "Ten minste 1.000 extra studentenkamers"
+          ],
+          "quote": "We willen tot 2030 ten minste 8.800 woningen bijbouwen in Leiden.",
+          "coverage": "volledig"
+        },
+        "mobiliteit": {
+          "summary": "Mobiliteit bij Volt draait om 30 km/u, meer ruimte voor voetgangers en fietsers, en slimme logistiek aan de stadsrand. De partij wil vervoer veiliger en schoner maken, met Europese voorbeelden en financiering als versneller. OV, deelmobiliteit en leefbaarheid worden samen benaderd in de publieke ruimte.",
+          "key_points": [
+            "30 km/u binnen de singels",
+            "Uitbreiding autoluwe zones en logistieke hubs",
+            "Meer ruimte voor voetgangers en fietsers",
+            "Slimme mobiliteitsoplossingen met Europese samenwerking"
+          ],
+          "quote": "We willen 30 km/u invoeren voor de hele stad binnen de singels.",
+          "coverage": "volledig"
+        },
+        "parkeren": {
+          "summary": "Volt beschrijft parkeren als onderdeel van de bredere herinrichting van de publieke ruimte. De partij wil minder ruimtedruk van stilstaande auto's en kiest voor alternatieven zoals logistieke hubs en betere bereikbaarheid zonder de auto dominant te maken. Parkeren wordt daarmee vooral via gebiedsontwerp en mobiliteitstransitie aangepakt.",
+          "key_points": [
+            "Parkeren benaderen als onderdeel van publieke ruimte",
+            "Minder ruimtedruk door stilstaande auto's",
+            "Bereikbaarheid combineren met minder autodominantie"
+          ],
+          "quote": "Onze Leidse auto’s nemen veel plek in.",
+          "coverage": "beperkt"
+        },
+        "klimaat": {
+          "summary": "Volt heeft een ambitieuze klimaatlijn met energieneutraliteit in 2035 en een volledig duurzame economie in 2040. De partij combineert isolatie, energiehubs en wateradaptatie met Europese subsidies en kennisnetwerken. Klimaatbeleid moet volgens Volt sociaal haalbaar en betaalbaar zijn voor wijken met hoge energielasten.",
+          "key_points": [
+            "Energieneutraal in 2035, duurzaam in 2040",
+            "Grote inzet op isolatie en energiebesparing",
+            "Lokale energiehubs en oplossingen voor netcongestie",
+            "Klimaatadaptatie met wadi's, buffers en vergroening"
+          ],
+          "quote": "In 2035 energieneutraal en in 2040 economisch compleet duurzaam.",
+          "coverage": "volledig"
+        },
+        "groen": {
+          "summary": "Volt wil Leiden transformeren van versteende stad naar een groenere en klimaatbestendige leefomgeving. De partij noemt meer bomen, schaduw, groene daken en een grotere groene ring (Singelpark XL). Vergroening wordt gekoppeld aan hitteaanpak, gezondheid en kwaliteit van de openbare ruimte.",
+          "key_points": [
+            "Meer bomen, schaduw en groene daken",
+            "Aanleg van wadi's en regentuinen",
+            "Singelpark XL als grotere groene ring",
+            "Vergroening als middel tegen hittestress"
+          ],
+          "quote": "Leiden moet een groene spons worden, die water opvangt en hittestress tegengaat.",
+          "coverage": "volledig"
+        },
+        "veiligheid": {
+          "summary": "Veiligheid is bij Volt zowel fysiek als digitaal. De partij wil weerbaarheidstrainingen, beter opgeleide handhavers, ondersteuning van wijkteams en een cyberveiligheidsplan. Daarnaast benadrukt Volt sociale cohesie via burgerberaden en verbinding tussen groepen als onderdeel van veiligheidsbeleid.",
+          "key_points": [
+            "Combinatie van fysieke en digitale veiligheid",
+            "Weerbaarheidstrainingen en cyberveiligheidsplan",
+            "Ondersteuning wijkteams en wijkagenten",
+            "Burgerberaden en buurtinitiatieven tegen polarisatie"
+          ],
+          "quote": "Leiden is een gastvrije stad; voor intimidatie, geweld en criminaliteit is hier geen plaats.",
+          "coverage": "volledig"
+        },
+        "binnenstad": {
+          "summary": "Volt wil de binnenstad leefbaarder maken door autoluw beleid, vergroening en betere voetgangers- en fietsruimte. De partij kijkt nadrukkelijk naar Europese voorbeelden, zoals Gent en Barcelona, om bereikbaarheid en kwaliteit te combineren. Binnenstad is voor Volt onderdeel van een bredere visie op inclusieve publieke ruimte.",
+          "key_points": [
+            "Autoluwe binnenstad verder ontwikkelen",
+            "Meer ruimte voor wandelen, fietsen en ontmoeten",
+            "Publieke ruimte klimaatbestendig en inclusief maken",
+            "Europese best practices toepassen in binnenstad"
+          ],
+          "quote": "We gaan daarnaast autoluwe zones uitbreiden, geïnspireerd op het model van Gent (autovrije binnenstad met logistieke ringen).",
+          "coverage": "volledig"
+        },
+        "daklozen": {
+          "summary": "Volt noemt dak- en thuisloosheid vooral binnen zorg en welzijn, onder meer via de Binnenvest en integrale ondersteuning. Het onderwerp is aanwezig, maar niet als zelfstandig groot hoofdstuk met uitgewerkte lokale instrumenten. De dekking is daarom inhoudelijk relevant maar beperkt.",
+          "key_points": [
+            "Dak- en thuisloosheid genoemd in zorghoofdstuk",
+            "Samenwerking met partijen zoals De Binnenvest",
+            "Koppeling met bredere welzijns- en preventieaanpak"
+          ],
+          "quote": "Volt wil volle steun voor de zorgprofessionals. Bijvoorbeeld voor verpleegkundig specialisten in de ouderenzorg, zoals Marente of begeleiders van dak- en thuislozen bij De Binnenvest.",
+          "coverage": "beperkt"
+        },
+        "zorg": {
+          "summary": "Volt wil toegankelijke, betaalbare geestelijke en lichamelijke zorg met sterke nadruk op preventie. De partij wil wachttijden terugdringen, professionals beter ondersteunen en digitale zorg slim inzetten. Daarnaast wordt zorgbeleid verbonden met wonen, mobiliteit en leefomgeving.",
+          "key_points": [
+            "Preventie als leidend zorgprincipe",
+            "Toegankelijke zorg voor verschillende doelgroepen",
+            "Ruimte en ondersteuning voor zorgprofessionals",
+            "Digitale hulpverlening als aanvulling op fysieke zorg"
+          ],
+          "quote": "Volt wil geestelijke en lichamelijke gezondheidszorg die betaalbaar en bereikbaar is voor iedereen.",
+          "coverage": "volledig"
+        },
+        "onderwijs": {
+          "summary": "Onderwijsbeleid van Volt richt zich op gelijke kansen, inclusie en toekomstbestendige schoolgebouwen. De partij wil samenwerking tussen onderwijsniveaus versterken en thuiszitters beter ondersteunen. Ook Europese uitwisseling en democratische betrokkenheid van jongeren krijgen expliciete aandacht.",
+          "key_points": [
+            "Gelijke kansen en inclusiviteit in het onderwijs",
+            "Routekaart voor thuiszitters",
+            "Investeren in gezonde en moderne schoolgebouwen",
+            "Ondersteuning via Erasmus+ en internationale samenwerking"
+          ],
+          "quote": "Onderwijs blijft de sleutel tot gelijke kansen.",
+          "coverage": "volledig"
+        },
+        "economie": {
+          "summary": "Volt positioneert Leiden als kennis- en innovatiestad met regionale samenwerking rond Key Region Leiden. De partij wil ruimte voor MKB, werklandschappen en koppeling tussen onderwijs en bedrijfsleven. Economie wordt nadrukkelijk verbonden met welzijn, duurzaamheid en internationale oriëntatie.",
+          "key_points": [
+            "Doorontwikkeling van de kenniseconomie",
+            "Versterking Key Region Leiden en innovatieclusters",
+            "Ruimte-intensief MKB en werklandschappen ondersteunen",
+            "Koppeling onderwijs, innovatie en lokale banen"
+          ],
+          "quote": "We zetten in op regionale samenwerking ‘Key Region Leiden’, ‘Science for life’ en doorontwikkeling van de kenniseconomie.",
+          "coverage": "volledig"
+        },
+        "financien": {
+          "summary": "Volt kiest voor financieel voorzichtig beleid met stress-tests, heldere stop-/door-momenten en structurele dekking voor structurele uitgaven. De partij wil cofinanciering via regio, Rijk en EU actief benutten. Transparantie richting inwoners via toegankelijke uitleg en infographics is een expliciet onderdeel van de aanpak.",
+          "key_points": [
+            "Elke structurele uitgave vraagt structurele dekking",
+            "Stress-tests bij grote investeringen",
+            "Actieve inzet op Europese en regionale cofinanciering",
+            "Meer financiële transparantie voor inwoners"
+          ],
+          "quote": "Volt staat voor een zorgvuldig financieel beleid. Elke euro telt.",
+          "coverage": "volledig"
+        },
+        "bestuur": {
+          "summary": "Volt wil bestuurlijke vernieuwing via burgerberaden, participatie en een sterke Europese component in het stadsbestuur. De voorgestelde wethouder Europese Zaken moet beleid, subsidies en kennisuitwisseling versterken. Digitale dienstverlening moet mensgericht blijven en democratische betrokkenheid vergroten.",
+          "key_points": [
+            "Invoering van een wethouder Europese Zaken",
+            "Meer burgerberaden en lotingstrajecten",
+            "Bestuur dat actief leert van Europese steden",
+            "Digitale dienstverlening in dienst van mens en democratie"
+          ],
+          "quote": "We willen mensen betrekken bij de invulling van hun stad, door burgerberaden.",
+          "coverage": "volledig"
+        },
+        "cultuur": {
+          "summary": "Volt ziet cultuur als basis voor een open en toegankelijke stad, met focus op talentontwikkeling en brede deelname. De partij wil culturele drempels verlagen en een eerlijker subsidiestelsel met ruimte voor experiment en kleine podia. Cultuurbeleid wordt gekoppeld aan toerisme, economie en internationale positionering.",
+          "key_points": [
+            "Toegankelijke cultuur voor alle inkomens en doelgroepen",
+            "Steun voor jonge makers, ateliers en kleine podia",
+            "Meer samenwerking tussen cultuur en zakelijke partners",
+            "Kwaliteitstoerisme via culturele programmering"
+          ],
+          "quote": "Cultuur moet letterlijk en figuurlijk drempelloos zijn.",
+          "coverage": "volledig"
+        }
+      }
+    },
+    {
+      "id": "fvd",
+      "name": "FvD Leiden",
+      "abbreviation": "FvD",
+      "color": "#8B0000",
+      "text_color": "#FFFFFF",
+      "source": "web",
+      "positions": {
+        "wonen": {
+          "summary": "FvD zet op wonen in op lokale voorrang, meer betaalbare koop en minder regels rond bouwen. De partij wil statushouders geen voorrang geven op sociale huur en kiest voor transformatie van leegstand naar woningen. Doorstroming voor ouderen en behoud van herkenbare wijken zijn terugkerende accenten.",
+          "key_points": [
+            "Lokale binding voorrang geven bij sociale huur en betaalbare koop",
+            "Afschaffen voorrangsregelingen voor statushouders",
+            "Meer betaalbare koopwoningen voor starters en gezinnen",
+            "Leegstaande panden transformeren naar woonruimte"
+          ],
+          "quote": "Forum voor Democratie kiest voor bouwen met gezond verstand.",
+          "coverage": "volledig"
+        },
+        "mobiliteit": {
+          "summary": "FvD kiest voor mobiliteitsbeleid waarin automobiliteit expliciet niet wordt ontmoedigd. De partij wil bereikbaarheid en doorstroming verbeteren, geen extra drempels zonder aantoonbaar effect, en beter OV waarborgen. Vrije vervoerskeuze staat centraal in de benadering.",
+          "key_points": [
+            "Autogebruik faciliteren in plaats van ontmoedigen",
+            "Geen extra snelheids- of drempelmaatregelen zonder bewezen effect",
+            "OV-verbindingen betaalbaar en betrouwbaar houden",
+            "Sociale veiligheid in OV en op haltes versterken"
+          ],
+          "quote": "Autogebruik moet daarom nooit worden ontmoedigd of bestraft, maar juist gefaciliteerd waar dat nodig is.",
+          "coverage": "volledig"
+        },
+        "parkeren": {
+          "summary": "Parkeren wordt bij FvD gekoppeld aan bereikbaarheid van wijkcentra en binnenstad. De partij wil parkeerruimte behouden en uitbreiden, en verzet zich tegen beleidsmaatregelen die autobezit indirect beperken. Parkeertarieven worden ook genoemd in het kader van lastenverlichting.",
+          "key_points": [
+            "Parkeerruimte behouden en waar nodig creëren",
+            "Bereikbaarheid van voorzieningen voor automobilisten behouden",
+            "Kritisch op beleid dat parkeren als sturingsinstrument gebruikt"
+          ],
+          "quote": "Wij behouden en creëren parkeerruimte in wijkcentra en rond de binnenstad, zodat winkels en voorzieningen bereikbaar blijven.",
+          "coverage": "volledig"
+        },
+        "klimaat": {
+          "summary": "FvD verwerpt een groot deel van lokaal klimaatbeleid zoals CO2-doelsturing, verplichte energietransitie en grootschalige opwek in de omgeving. De partij wil energiebeleid primair betrouwbaar en betaalbaar houden. Klimaatmaatregelen worden vooral beoordeeld op kosten en direct lokaal nut.",
+          "key_points": [
+            "Stoppen met kostbare klimaatmaatregelen",
+            "Geen windmolens of zonnevelden in beperkt buitengebied",
+            "Vrijheid in energiekeuze, inclusief behoud aardgas",
+            "Isolatie alleen vrijwillig en waar technisch-financieel zinvol"
+          ],
+          "quote": "Forum voor Democratie verzet zich tegen ideologisch gedreven klimaatmaatregelen.",
+          "coverage": "volledig"
+        },
+        "groen": {
+          "summary": "Groen komt bij FvD vooral terug als onderdeel van leefbaarheidsgericht milieubeleid: schone straten, goed onderhoud en openbare ruimte op orde. De partij koppelt milieu minder aan transitiebeleid en meer aan lokale netheid en beheer. Het accent ligt daarmee op beheer in plaats van vergrotingsagenda.",
+          "key_points": [
+            "Groenonderhoud als gemeentelijke basistaak",
+            "Schone openbare ruimte en zwerfafvalbestrijding",
+            "Milieubeleid gericht op directe lokale leefbaarheid"
+          ],
+          "quote": "Milieubeleid betekent aandacht voor groenonderhoud, waterbeheer, het bestrijden van zwerfafval en een schone openbare ruimte.",
+          "coverage": "beperkt"
+        },
+        "veiligheid": {
+          "summary": "Veiligheid is een kernthema: FvD wil zichtbare politie-inzet, hard optreden tegen overlast en gerichte instrumenten zoals gebiedsverboden en tijdelijk cameratoezicht. De partij legt nadruk op handhaving met duidelijke normen en snelle ingreep bij herhaald gedrag. Veiligheid wordt gekoppeld aan leefbaarheid in wijken en binnenstad.",
+          "key_points": [
+            "Meer zichtbare agenten en politieposten",
+            "Two-strikes-aanpak en gebiedsverboden bij overlast",
+            "Preventief fouilleren in risicogebieden",
+            "Duidelijke scheiding tussen politie en BOA-taken"
+          ],
+          "quote": "Forum voor Democratie kiest voor zichtbare, daadkrachtige veiligheid.",
+          "coverage": "volledig"
+        },
+        "binnenstad": {
+          "summary": "Binnenstad wordt door FvD vooral benaderd vanuit bereikbaarheid, lokale economie en leefbaarheid. Winkels, horeca en markten worden gezien als dragers van een levendig stadscentrum. Parkeerruimte en mobiliteitsvrijheid horen in die lijn bij het economisch functioneren van de binnenstad.",
+          "key_points": [
+            "Binnenstad economisch aantrekkelijk houden",
+            "Bereikbaarheid voor winkels en voorzieningen behouden",
+            "Lokale bedrijvigheid en markten ondersteunen"
+          ],
+          "quote": "Winkels, horeca en markten maken de binnenstad en wijkcentra aantrekkelijk en herkenbaar.",
+          "coverage": "beperkt"
+        },
+        "daklozen": {
+          "summary": "In het beschikbare FvD-programma komt dakloosheid niet als zelfstandig gemeentelijk beleidsdomein naar voren. Er zijn wel passages over opvang en overlast in bredere veiligheids- en asielkaders, maar zonder uitgewerkt daklozenbeleid voor Leiden.",
+          "key_points": [],
+          "quote": "",
+          "coverage": "geen"
+        },
+        "zorg": {
+          "summary": "FvD wil zorg dichterbij organiseren met minder bureaucratie en meer directe hulp. De partij benadrukt fysieke toegankelijkheid naast digitale opties en wil gemeentelijke regie in jeugdzorg versterken. Ook ouderenzorg, mantelzorgondersteuning en lokale voorzieningen worden expliciet benoemd.",
+          "key_points": [
+            "Minder administratieve lasten in zorg",
+            "Zorg fysiek en persoonlijk toegankelijk houden",
+            "Gemeentelijke regie terug in jeugdzorg",
+            "Meer aandacht voor waardige ouderenzorg"
+          ],
+          "quote": "Forum voor Democratie kiest voor zorg die dichtbij is, toegankelijk en gericht op directe hulp.",
+          "coverage": "volledig"
+        },
+        "onderwijs": {
+          "summary": "Onderwijs is opgenomen in hetzelfde hoofdstuk als zorg en welzijn. FvD wil ruimte voor nieuwe onderwijsinitiatieven en benadrukt gemeentelijke verantwoordelijkheid voor toegang en ondersteuning. Het onderwerp is aanwezig, maar minder gedetailleerd dan veiligheid, bestuur en wonen.",
+          "key_points": [
+            "Toegang tot goed onderwijs als gemeentelijke opgave",
+            "Ruimte voor nieuwe onderwijsinitiatieven",
+            "Onderwijs koppelen aan lokale behoeften van ouders en kinderen"
+          ],
+          "quote": "De gemeente heeft een belangrijke taak in het bieden van toegang tot goed onderwijs.",
+          "coverage": "beperkt"
+        },
+        "economie": {
+          "summary": "FvD wil lasten verlagen, regeldruk terugdringen en vergunningverlening versnellen om ondernemerschap te stimuleren. De partij positioneert lokale economie als basis voor werkgelegenheid en leefbare centra. Klimaat- en ideologische voorwaarden bij aanbestedingen wil FvD juist schrappen.",
+          "key_points": [
+            "Lagere OZB, heffingen en parkeertarieven",
+            "Snellere en eenvoudiger vergunningen",
+            "Lokale ondernemers en MKB voorrang geven",
+            "Minder beleidsvoorwaarden bij aanbestedingen"
+          ],
+          "quote": "Ondernemerschap moet worden beloond, niet ontmoedigd.",
+          "coverage": "volledig"
+        },
+        "financien": {
+          "summary": "Financieel kiest FvD voor lagere lasten, slankere gemeentelijke organisatie en strengere projectdiscipline. De partij verzet zich tegen prestigeprojecten zonder aantoonbaar publiek nut en wil minder externe inhuur. Financiële meevallers moeten volgens FvD direct vertaald worden in lastenverlichting.",
+          "key_points": [
+            "Geen prestigeprojecten zonder publiek nut",
+            "Minder externe inhuur en advieskosten",
+            "Slankere gemeentelijke organisatie",
+            "Financiële meevallers terug naar inwoners"
+          ],
+          "quote": "Wij stoppen met miljoenenverslindende prestigeprojecten zonder publiek nut en zonder economisch rendement.",
+          "coverage": "volledig"
+        },
+        "bestuur": {
+          "summary": "Bestuur is het meest uitgewerkte FvD-thema. De partij wil bindende referenda, direct gekozen burgemeester, minder coalitiedwang en maximale lokale autonomie tegenover landelijke en regionale druk. Transparantie, kerntaken en een kleiner bestuurlijk apparaat vormen de kern van de bestuursvisie.",
+          "key_points": [
+            "Bindend lokaal referendum invoeren",
+            "Direct gekozen burgemeester",
+            "Akkoorden op hoofdlijnen in plaats van dichtgetimmerde coalities",
+            "Radicaal transparanter gemeentebestuur"
+          ],
+          "quote": "Forum voor Democratie wil de gemeente weer teruggeven aan haar inwoners.",
+          "coverage": "volledig"
+        },
+        "cultuur": {
+          "summary": "Cultuurbeleid van FvD richt zich op lokale identiteit, erfgoed en tradities. De partij wil vergunningen voor lokale evenementen versoepelen en historische symboliek beschermen. Cultuur wordt gepresenteerd als bindmiddel voor gemeenschapszin en stedelijke eigenheid.",
+          "key_points": [
+            "Beschermen van lokale tradities en evenementen",
+            "Behoud van erfgoed, straatnamen en monumenten",
+            "Ruimte voor verenigingen en buurtactiviteiten",
+            "Leidse identiteit expliciet versterken"
+          ],
+          "quote": "Forum voor Democratie staat voor cultuur die gedragen en gewaardeerd wordt door inwoners zelf.",
+          "coverage": "volledig"
+        }
+      }
+    }
+  ]
+}

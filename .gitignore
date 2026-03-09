@@ -1,0 +1,42 @@
+.DS_Store
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+cloudflared/
+*.pem
+*.key
+*.crt
+*.backup
+
+# Node / Next.js artifacts
+node_modules/
+web/node_modules/
+web/.next/
+web/out/
+web/.turbo/
+web/tsconfig.tsbuildinfo
+web/.git.backup/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Publishing tool (private workflow, not for public repo)
+publish.sh
+
+# Project-local source material and working notes (not for deployment repo)
+PDFs/
+texts/
+texts_clean/
+PROJECT_STATE.md
+CHAPTER_MAPS.md
+HANDOVER_CLAUDE_CODE.md

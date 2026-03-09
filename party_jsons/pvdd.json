@@ -1,0 +1,157 @@
+{
+  "party_id": "pvdd",
+  "party_name": "PvdD Leiden",
+  "analyzed_at": "2026-03-08",
+  "source": "pdf",
+  "topics": {
+    "wonen": {
+      "summary": "PvdD beschouwt wonen als basisrecht en wil de wooncrisis aanpakken via volkshuisvesting, duurzame bouw en eerlijke verdeling van ruimte. De partij verzet zich tegen volbouwen ten koste van leefbaarheid en natuur. Nieuwbouw moet klimaatpositief, natuurinclusief en toegankelijk zijn.",
+      "key_points": [
+        "Volkshuisvesting boven marktdenken",
+        "Duurzaam, circulair en natuurinclusief bouwen",
+        "Toegankelijke woningen voor verschillende doelgroepen",
+        "Ruimtelijke keuzes met bescherming van natuur"
+      ],
+      "quote": "Een goede woning is een basisrecht voor iedereen.",
+      "coverage": "volledig"
+    },
+    "mobiliteit": {
+      "summary": "PvdD wil een rechtvaardige straat met prioriteit voor lopen, fietsen en openbaar vervoer. De partij wil de auto minder dominant maken om ruimte terug te winnen voor gezondheid, groen en ontmoeting. Mobiliteitsbeleid wordt gekoppeld aan klimaat, luchtkwaliteit en verkeersveiligheid.",
+      "key_points": [
+        "Voetgangers en fietsers centraal in straatinrichting",
+        "Duurzaam en uitstootvrij OV versterken",
+        "Minder auto-afhankelijkheid in de openbare ruimte",
+        "Schoon vervoer en gezonde lucht als uitgangspunt"
+      ],
+      "quote": "Daarom is de auto niet langer de baas en stellen we voetgangers, fietsers en openbaar vervoer centraal.",
+      "coverage": "volledig"
+    },
+    "parkeren": {
+      "summary": "Parkeren wordt door PvdD benaderd vanuit ruimtelijke herverdeling: minder verharding en meer groen. De partij wil versteende parkeerplekken omvormen en de auto minder ruimte laten innemen. Parkeerbeleid staat daarmee in dienst van klimaatadaptatie en leefkwaliteit.",
+      "key_points": [
+        "Versteende parkeerplaatsen omvormen naar groene varianten",
+        "Minder ruimte voor geparkeerde auto's in drukke gebieden",
+        "Parkeerkeuzes koppelen aan vergroening en hitteaanpak"
+      ],
+      "quote": "Leiden verandert versteende parkeerplaatsen in ‘groene’ parkeerplaatsen.",
+      "coverage": "volledig"
+    },
+    "klimaat": {
+      "summary": "Klimaatbeleid is een hoofdpijler bij PvdD, met een ambitie richting klimaatneutraliteit in 2030 en sterke nadruk op natuurherstel. De partij wil beleid integraal toetsen op duurzaamheid en klimaatrechtvaardigheid. Isolatie, energiebesparing en eerlijke verdeling van kosten en baten vormen de kern.",
+      "key_points": [
+        "Klimaatneutraal zo snel mogelijk, met 2030 als richting",
+        "Duurzaamheidstoets op al het gemeentelijk beleid",
+        "Energietransitie sociaal en rechtvaardig vormgeven",
+        "Actieve steun voor isolatie en schone energie"
+      ],
+      "quote": "Leiden kan en moet klimaatneutraal zijn, met 2030 als uitgangspunt.",
+      "coverage": "volledig"
+    },
+    "groen": {
+      "summary": "PvdD kiest voor radicale vergroening en herstel van biodiversiteit in en rond Leiden. De partij wil een stevige groennorm, bescherming van bestaande parken en uitbreiding van natuurrijke zones in wijken. Groenbeleid wordt uitgewerkt met ecologisch beheer, minder verharding en meer ruimte voor soorten.",
+      "key_points": [
+        "Leidse groennorm en meer groen per inwoner",
+        "Bescherming van bestaande parken en natuurwaarden",
+        "Ecologisch beheer en versterking biodiversiteit",
+        "Vergroening van versteende wijken en pleinen"
+      ],
+      "quote": "Minder steen, meer groen: kappen met kappen!",
+      "coverage": "volledig"
+    },
+    "veiligheid": {
+      "summary": "Veiligheid bij PvdD combineert openbare orde met gezondheid, preventie en rechten. De partij benadrukt vroegsignalering, wijkgerichte inzet en terughoudendheid met instrumenten die privacy schaden. Ook demonstratierecht en bescherming van kwetsbare groepen krijgen een duidelijke plek.",
+      "key_points": [
+        "Preventie en vroegsignalering in wijken versterken",
+        "Investeren in straatmedewerkers en wijkagenten",
+        "Terughoudend cameratoezicht vanuit privacyprincipe",
+        "Demonstreren als grondrecht beschermen"
+      ],
+      "quote": "Want ook bij criminaliteit is voorkomen beter dan genezen.",
+      "coverage": "volledig"
+    },
+    "binnenstad": {
+      "summary": "Binnenstad komt bij PvdD vooral terug via vergroening en klimaatadaptatie van versteende plekken. De partij noemt concrete centrumlocaties zoals Beestenmarkt en Kaasmarkt voor herinrichting met meer biodiversiteit en koelte. Binnenstad wordt daarmee vooral ecologisch en leefbaar benaderd.",
+      "key_points": [
+        "Beestenmarkt en Kaasmarkt vergroenen",
+        "Minder steen en meer koelte in centrum",
+        "Binnenstad klimaatadaptief en biodivers inrichten"
+      ],
+      "quote": "De Beestenmarkt maken we toekomstbestendig door deze weer te vergroenen met bomen en planten die zorgen voor koelte, biodiversiteit.",
+      "coverage": "beperkt"
+    },
+    "daklozen": {
+      "summary": "PvdD benoemt dak- en thuisloosheid expliciet in het woonhoofdstuk en verbindt dit aan basisrechten en bestaanszekerheid. De partij ziet onvrijwillige dakloosheid als onacceptabel en wil structurele oplossingen in plaats van symptoombestrijding. Het thema is duidelijk aanwezig binnen de woonagenda.",
+      "key_points": [
+        "Dak- en thuisloosheid als expliciet woononderwerp",
+        "Onvrijwillige dakloosheid normatief afgewezen",
+        "Koppeling met rechtvaardig woon- en zorgbeleid"
+      ],
+      "quote": "In een rijk land als Nederland is het onacceptabel dat er onvrijwillig dak- en thuisloze inwoners zijn.",
+      "coverage": "volledig"
+    },
+    "zorg": {
+      "summary": "PvdD wil zorg op maat met menselijke maat, zonder lange wachtlijsten en met stevige preventieve inzet. De partij koppelt zorgbeleid aan gezonde leefomgeving, voeding, beweging en mentale gezondheid. Ook ondersteuning voor mensen met beperking en betere toegankelijkheid spelen een centrale rol.",
+      "key_points": [
+        "Zorg op maat en toegankelijk voor iedereen",
+        "Meer preventie via gezonde leefomgeving",
+        "Aandacht voor mentale gezondheid en welzijn",
+        "Kleinschalige en mensgerichte ondersteuning"
+      ],
+      "quote": "Iedereen die zorg en hulp behoeft, heeft daar recht op, zonder lange wachtlijsten en met oog voor de menselijke maat.",
+      "coverage": "volledig"
+    },
+    "onderwijs": {
+      "summary": "Onderwijs bij PvdD is gericht op brede ontwikkeling, gelijke kansen en gezondheid. De partij wil structureel investeren in onderwijs en stelt dat alle kinderen toegang moeten hebben tot goed, inclusief en toegankelijk onderwijs. Ook digitale vaardigheden, cultuur en duurzaamheid krijgen plaats in het curriculum.",
+      "key_points": [
+        "Investeren in gelijke kansen en toegankelijk onderwijs",
+        "Brede ontwikkeling naast cognitieve prestaties",
+        "Gezonde schoolomgeving en voedzaam aanbod",
+        "Meer aandacht voor inclusiviteit en mediawijsheid"
+      ],
+      "quote": "De Partij voor de Dieren wil dat er structureel wordt geïnvesteerd in het onderwijs.",
+      "coverage": "volledig"
+    },
+    "economie": {
+      "summary": "PvdD kiest voor een economie van bestaanszekerheid binnen ecologische grenzen, met welzijn boven groei. De partij wil een circulaire en regionale economie, minder vervuiling en meer maatschappelijke waarde als toets. Werk, inkomen en bedrijvigheid moeten passen bij klimaat- en natuurdoelen.",
+      "key_points": [
+        "Welzijn boven welvaart en groeidenken",
+        "Sterke inzet op circulaire economie en hergebruik",
+        "Lokale economie versterken met maatschappelijke criteria",
+        "Vervuilende activiteiten afbouwen en vergroenen"
+      ],
+      "quote": "De Partij voor de Dieren is de enige politieke partij die welzijn boven welvaart plaatst.",
+      "coverage": "volledig"
+    },
+    "financien": {
+      "summary": "PvdD werkt financiën vooral uit binnen de economische koers en de verdeling van publieke middelen naar duurzame en sociale doelen. De partij pleit voor keuzes waarin vervuiling minder wordt beloond en investeringen in welzijn, natuur en gelijke kansen voorrang krijgen. Er is minder nadruk op een technisch begrotingshoofdstuk dan bij sommige andere partijen.",
+      "key_points": [
+        "Publieke middelen richten op welzijn en duurzaamheid",
+        "Vervuilende prikkels afbouwen",
+        "Gemeentelijke keuzes toetsen op maatschappelijke meerwaarde"
+      ],
+      "quote": "Welvaart wordt niet meer gemeten of nagestreefd via BBP-groei of hoge plekken in economische ranglijstjes.",
+      "coverage": "beperkt"
+    },
+    "bestuur": {
+      "summary": "PvdD wil een open, eerlijke en participatieve gemeente met sterke democratische controle en bescherming van privacy. De partij pleit voor referenda, vroege bewonersbetrokkenheid en maximale transparantie van besluitvorming. Digitale onafhankelijkheid en zorgvuldig datagebruik zijn expliciete bestuurlijke uitgangspunten.",
+      "key_points": [
+        "Open bestuur met maximale openbaarmaking",
+        "Referenda en vroege participatie bij grote besluiten",
+        "Sterke privacywaarborgen en terughoudend datagebruik",
+        "Democratische controle ook in regionale samenwerking"
+      ],
+      "quote": "Leiden zet in op een open en transparant bestuur waarbij wederzijds vertrouwen tussen inwoners en gemeente het uitgangspunt is.",
+      "coverage": "volledig"
+    },
+    "cultuur": {
+      "summary": "PvdD behandelt cultuur samen met onderwijs als fundament van een vrije en democratische samenleving. De partij wil cultuur en erfgoed breed toegankelijk houden en makers eerlijk belonen. Cultuurbeleid is gekoppeld aan inclusie, persoonlijke ontwikkeling en publieke toegankelijkheid.",
+      "key_points": [
+        "Cultuur en erfgoed toegankelijk voor iedereen",
+        "Sterke kunst- en cultuursector met eerlijke beloning",
+        "Cultuur als onderdeel van levenslange ontplooiing"
+      ],
+      "quote": "Daar hoort ook een sterke kunst- en cultuursector bij, die de ruimte krijgt om vernieuwend en kritisch te zijn en waarin makers eerlijk worden beloond.",
+      "coverage": "volledig"
+    }
+  }
+}

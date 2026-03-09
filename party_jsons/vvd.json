@@ -1,0 +1,160 @@
+{
+  "party_id": "vvd",
+  "party_name": "VVD Leiden",
+  "analyzed_at": "2026-03-08",
+  "source": "pdf",
+  "topics": {
+    "wonen": {
+      "summary": "VVD zet in op versneld bouwen met nadruk op betaalbare koop, doorstroming en minder lokale regels. De partij wil zonder taboes naar nieuwe locaties kijken, inclusief Oostvlietpolder, en vooral woningen realiseren voor starters, gezinnen en senioren. Hoogbouw kan op geschikte plekken, maar volgens VVD niet ten koste van leefbaarheid.",
+      "key_points": [
+        "Tempo op woningbouw: 'bouwen, bouwen, bouwen'",
+        "Meer betaalbare koopwoningen en minder lokale bouwbelemmeringen",
+        "Oostvlietpolder als extra bouwlocatie",
+        "Meer seniorenappartementen voor doorstroming"
+      ],
+      "quote": "De VVD kiest daarom voor tempo en zekerheid: bouwen, bouwen, bouwen en vooral de juiste woningen.",
+      "coverage": "volledig"
+    },
+    "mobiliteit": {
+      "summary": "Mobiliteit is bij VVD een kernhoofdstuk: de stad moet beter bereikbaar en verkeersveiliger worden voor alle modaliteiten. De partij koppelt bereikbaarheid expliciet aan economie en leefbaarheid en wil knelpunten rond station en hoofdwegen versneld aanpakken. Ook steunt VVD 30 km/u waar dat werkt, met ruimte voor maatwerk op sommige wegen.",
+      "key_points": [
+        "Betere doorstroming voor auto, fiets, OV en voetgangers",
+        "Extra inzet op gevaarlijke verkeerspunten",
+        "Meer controles en handhaving op verkeersveiligheid",
+        "Stationsgebied toekomstbestendig en overzichtelijk inrichten"
+      ],
+      "quote": "Of je nu kiest voor auto, fiets, openbaar vervoer of lopen: iedereen moet zich in Leiden makkelijk, snel en veilig kunnen verplaatsen.",
+      "coverage": "volledig"
+    },
+    "parkeren": {
+      "summary": "VVD verzet zich tegen verdere afbouw van parkeerruimte en wil voldoende plekken in de buurt van woningen. Betaald parkeren wordt alleen geaccepteerd bij aantoonbare hoge druk. Daarnaast wil VVD maatwerk voor mantelzorgers, zorgverleners en bewoners bij sloop/nieuwbouwsituaties.",
+      "key_points": [
+        "Geen verdere vermindering van parkeerplekken",
+        "Landelijke parkeernormen hanteren bij nieuwbouw",
+        "Betaald parkeren alleen als het echt nodig is",
+        "Parkeerruimte en regelingen voor mantelzorgers en zorgverleners"
+      ],
+      "quote": "We willen genoeg parkeerplekken en halen geen parkeerplekken meer weg.",
+      "coverage": "volledig"
+    },
+    "klimaat": {
+      "summary": "Klimaat en verduurzaming komen terug, maar VVD benadert dit vooral vanuit betaalbaarheid, keuzevrijheid en praktische uitvoerbaarheid. De partij wil verduurzaming zonder extra regeldruk en met aandacht voor financiële risico's voor inwoners en gemeente. Klimaatbeleid krijgt minder nadruk dan bereikbaarheid, wonen en veiligheid.",
+      "key_points": [
+        "Verduurzaming moet betaalbaar en praktisch zijn",
+        "Keuzevrijheid voor bewoners bij duurzaamheidsmaatregelen",
+        "Kritisch op financiële risico's van warmtenetbeleid",
+        "Klimaatmaatregelen niet als ideologisch doel op zichzelf"
+      ],
+      "quote": "Duurzaamheid doen we verstandig en betaalbaar, met keuzevrijheid voor bewoners.",
+      "coverage": "beperkt"
+    },
+    "groen": {
+      "summary": "VVD koppelt groen vooral aan leefbaarheid en ruimtelijke kwaliteit bij bouw en mobiliteit. De partij noemt een groene, natuurvriendelijke invulling van Oostvlietpolder en wil balans tussen bouwen, bereikbaarheid en een prettige woonomgeving. Groenbeleid is aanwezig, maar minder uitgebreid uitgewerkt dan bij sommige andere partijen.",
+      "key_points": [
+        "Oostvlietpolder als groene en natuurvriendelijke wijk",
+        "Groen meenemen in gebiedsontwikkeling",
+        "Leefbaarheid als toets bij ruimtelijke keuzes"
+      ],
+      "quote": "De Oostvlietpolder wordt een groene, natuurvriendelijke en circulaire wijk.",
+      "coverage": "beperkt"
+    },
+    "veiligheid": {
+      "summary": "Veiligheid is een hoofdprioriteit voor VVD. De partij wil meer zichtbare handhaving, camera's, aanpak van straatintimidatie en versterking van het ondermijningsteam. Ook sociale veiligheid voor vrouwen en lhbtiqia+ personen krijgt expliciete aandacht, inclusief verlichting en gerichte maatregelen op risicoplekken.",
+      "key_points": [
+        "Extra BOA's en politie-inzet",
+        "Meer cameratoezicht en mobiele inzet op hotspots",
+        "Straatintimidatie stevig aanpakken",
+        "Versterken aanpak ondermijning en overlast"
+      ],
+      "quote": "Leiden is een stad waar iedereen zich veilig moet voelen.",
+      "coverage": "volledig"
+    },
+    "binnenstad": {
+      "summary": "Voor de binnenstad kiest VVD voor bereikbaarheid, levendigheid en economisch functioneren. De partij wil geen verdere uitbreiding van autoluwe zones, wel betere logistiek en bereikbaarheidsoplossingen. Ook zet VVD in op een bruisende binnenstad met horeca, evenementen, musea en toerisme.",
+      "key_points": [
+        "Geen verdere uitbreiding van autoluwe binnenstad",
+        "Binnenstad bereikbaar houden voor bewoners en ondernemers",
+        "Meer levendigheid via evenementen en nachtcultuur",
+        "Toeristische en culturele aantrekkingskracht versterken"
+      ],
+      "quote": "De autoluwe binnenstad is af. Verdere uitbreiding van de autoluwe zones schaadt de bereikbaarheid voor alle inwoners.",
+      "coverage": "volledig"
+    },
+    "daklozen": {
+      "summary": "Dakloosheid komt bij VVD vooral terug in de veiligheidscontext. De partij noemt ondersteuning via opvang, maar combineert dit met een harde lijn op overlast in de openbare ruimte en afwijzing van tentenkampen. Het onderwerp is aanwezig, maar niet als apart uitgewerkt beleidsdomein.",
+      "key_points": [
+        "Ondersteuning via opvang (Binnenvest) benoemd",
+        "Geen tentenkampen in de openbare ruimte",
+        "Gebiedsverboden bij aanhoudende overlast"
+      ],
+      "quote": "We helpen daklozen en drugsverslaafden en voorkomen overlast.",
+      "coverage": "beperkt"
+    },
+    "zorg": {
+      "summary": "VVD wil toegankelijke en betaalbare zorg met nadruk op Wmo, jeugdzorg en huisartsenzorg. De partij benoemt wachttijden en organisatorische versnippering als probleem en wil doelgerichter sturen. Ook mantelzorg en praktische ondersteuning krijgen aandacht in relatie tot dagelijkse leefbaarheid.",
+      "key_points": [
+        "Wmo betaalbaar en toegankelijk houden",
+        "Wachtlijsten in jeugdzorg terugdringen",
+        "Actief zoeken naar ruimte voor huisartsenzorg",
+        "Zorgondersteuning koppelen aan praktische uitvoerbaarheid"
+      ],
+      "quote": "Wmo-zorg betaalbaar en voor iedereen",
+      "coverage": "volledig"
+    },
+    "onderwijs": {
+      "summary": "Onderwijs is bij VVD gericht op gelijke kansen, taal, passend onderwijs en goede huisvesting. De partij benadrukt dat schoolgebouwen veilig, gezond en toekomstbestendig moeten zijn. Daarnaast wil VVD vrije schoolkeuze behouden en de samenwerking tussen onderwijs en jeugdhulp verbeteren.",
+      "key_points": [
+        "Investeren in onderwijshuisvesting",
+        "Gericht taalonderwijs en aanpak thuiszitters",
+        "Behoud van vrije schoolkeuze",
+        "Betere samenwerking onderwijs en jeugdhulp"
+      ],
+      "quote": "Onze jongeren en leerkrachten hebben recht op fatsoenlijke onderwijshuisvesting die veilig, gezond en toekomstbestendig is.",
+      "coverage": "volledig"
+    },
+    "economie": {
+      "summary": "VVD positioneert economie als voorwaarde voor banen, welvaart en een levendige stad. De partij wil regeldruk verlagen, lasten beperken en ondernemers structureel betrekken via onder meer een MKB-toets. Binnenstad, bedrijventerreinen en bereikbaarheid worden gekoppeld aan economisch herstel en groei.",
+      "key_points": [
+        "MKB-toets voor nieuwe gemeentelijke plannen",
+        "Minder regeldruk en eenvoudiger vergunningen",
+        "Lagere lasten voor ondernemers",
+        "Ruimte voor bedrijvigheid en ontwikkeling van terreinen"
+      ],
+      "quote": "Leiden moet een stad zijn waar het loont om te werken en waar het leuk is om te ondernemen.",
+      "coverage": "volledig"
+    },
+    "financien": {
+      "summary": "VVD waarschuwt voor oplopende gemeentelijke schuld en wil strakker begroten rond kerntaken. De partij wil transparante financiën, minder uitgaven aan niet-kerntaken en rem op groei van het ambtelijk apparaat. Leges en kosten moeten volgens VVD zoveel mogelijk kostprijsvolgend zijn.",
+      "key_points": [
+        "Schuldquote terugbrengen en schuldenlast beperken",
+        "Focussen op kerntaken van de gemeente",
+        "Transparanter financieel beleid",
+        "Leges en tarieven baseren op werkelijke kosten"
+      ],
+      "quote": "Onder het huidige stadsbestuur stevent de gemeente Leiden af op een schuld van 1 miljard euro.",
+      "coverage": "volledig"
+    },
+    "bestuur": {
+      "summary": "VVD wil een kleinere, snellere en dienstbare gemeente met minder regels en minder bureaucratie. De partij zet in op versimpeling, kortere lijnen en een overheid die faciliteert in plaats van overneemt. Ook wil VVD kritisch zijn op informatie-uitvraag en externe inhuur.",
+      "key_points": [
+        "Gemeente terug naar kerntaken en dienstverlening",
+        "Regels en verplichtingen schrappen waar mogelijk",
+        "Minder bureaucratie en snellere processen",
+        "Rem op groei ambtelijk apparaat"
+      ],
+      "quote": "Leiden verdient een wendbare, betrouwbare gemeente die doet wat nodig is en laat wat niet nodig is.",
+      "coverage": "volledig"
+    },
+    "cultuur": {
+      "summary": "VVD ziet cultuur als onderdeel van een bruisende stad en wil betere zichtbaarheid, toegankelijkheid en werkbare subsidieregels. De partij combineert cultuurbeleid met toerisme, evenementen en binnenstadseconomie. Subsidies worden gezien als middel met duidelijke maatschappelijke doelen, niet als structurele afhankelijkheid.",
+      "key_points": [
+        "Cultuuraanbod toegankelijker voor brede doelgroepen",
+        "Leidse musea en culturele evenementen actiever promoten",
+        "Subsidies koppelen aan maatschappelijke waarde",
+        "Minder bureaucratische beperkingen voor instellingen"
+      ],
+      "quote": "Cultuur wordt voor iedereen toegankelijk gemaakt.",
+      "coverage": "volledig"
+    }
+  }
+}

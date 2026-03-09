@@ -1,0 +1,162 @@
+{
+  "party_id": "sp",
+  "party_name": "SP Leiden",
+  "analyzed_at": "2026-03-08",
+  "source": "pdf",
+  "topics": {
+    "wonen": {
+      "summary": "SP benadert wonen als grondrecht en kiest voor betaalbare, voldoende en gezonde woningen. De partij wil 100% betaalbare huur- en koop bij nieuwbouwambities, streng optreden tegen huisjesmelkers en betere benutting van bestaande woonruimte. Ook doorstroming en bescherming van huurders krijgen veel aandacht.",
+      "key_points": [
+        "Wonen als grondrecht in plaats van marktlogica",
+        "100% betaalbare huur- en koopwoningen bijbouwen",
+        "Strenge aanpak van huisjesmelkers en schimmelwoningen",
+        "Huurteam versterken voor bescherming van huurders"
+      ],
+      "quote": "Wij zeggen: wonen is geen markt, maar een grondrecht.",
+      "coverage": "volledig"
+    },
+    "mobiliteit": {
+      "summary": "SP wil betaalbaar en betrouwbaar vervoer met nadruk op verkeersveiligheid voor fietsers en voetgangers. De partij noemt Leiden nu te onveilig voor fietsers en wil hotspots versneld aanpakken. Ook openbaar vervoer in publieke handen en betere bereikbaarheid tussen wijken en binnenstad zijn speerpunten.",
+      "key_points": [
+        "Van gevaarlijkste naar veiligste fietsstad",
+        "Onveilige verkeerslocaties versneld aanpakken",
+        "Betrouwbaar en betaalbaar openbaar vervoer",
+        "Beter vervoer tussen buitenwijken en binnenstad"
+      ],
+      "quote": "Leiden moet de veiligste fietsstad worden.",
+      "coverage": "volledig"
+    },
+    "parkeren": {
+      "summary": "SP wil het parkeerbeleid opnieuw vormgeven met de stad via co-creatie, omdat baten en lasten nu ongelijk uitpakken. De partij wil parkeren niet als melkkoe gebruiken en ruimte voor maatwerk bij bewoners die afhankelijk zijn van de auto. Ook mantelzorg en bijzondere situaties krijgen aparte aandacht.",
+      "key_points": [
+        "Nieuw parkeerbeleid samen met bewoners opstellen",
+        "Parkeren mag geen melkkoe zijn",
+        "Behoud parkeervergunningen bij sloop/nieuwbouw",
+        "Ontheffingen voor wie niet zonder auto kan"
+      ],
+      "quote": "Parkeren is geen melkkoe.",
+      "coverage": "volledig"
+    },
+    "klimaat": {
+      "summary": "SP koppelt klimaatbeleid aan sociale rechtvaardigheid: verduurzaming moet ongelijkheid verkleinen en energiearmoede bestrijden. De partij wil collectieve isolatieprogramma's, zonnepanelen en energiecooperaties. Klimaatmaatregelen moeten volgens SP financieel voordeel opleveren voor inwoners met de slechtste woningen.",
+      "key_points": [
+        "Collectieve isolatie per wijk, start in slechtste buurten",
+        "Uitrol van zonnepanelen op school- en bedrijfspanden",
+        "Ondersteuning van energiecooperaties en publieke grip",
+        "Energietransitie inzetten tegen energiearmoede"
+      ],
+      "quote": "De SP kiest voor vergroening die voorkomt dat mensen rood staan.",
+      "coverage": "volledig"
+    },
+    "groen": {
+      "summary": "Groen is bij SP een kernonderwerp voor gezondheid, biodiversiteit en leefbaarheid. De partij wil meer groen in alle wijken, bescherming van parken en volkstuinen, en expliciet behoud van de Oostvlietpolder als groen gebied. Ook wijkgerichte vergroening en burgercollectieven worden genoemd.",
+      "key_points": [
+        "Meer groen in alle wijken",
+        "Monumentale bescherming voor parken en volkstuinen",
+        "Extra bomen en wijkgerichte vergroening",
+        "Oostvlietpolder groen houden"
+      ],
+      "quote": "Investeren in meer groen in alle wijken.",
+      "coverage": "volledig"
+    },
+    "veiligheid": {
+      "summary": "SP verbindt veiligheid met sociale zekerheid, verlichting, verkeersveiligheid en inclusie. De partij wil dat iedereen dag en nacht veilig over straat kan, met speciale aandacht voor discriminatie, nachtroutes en preventie. Veiligheid wordt dus breder ingevuld dan alleen handhaving.",
+      "key_points": [
+        "Veilige en verlichte nachtroutes",
+        "Aanpak van discriminatie vanuit artikel 1",
+        "Veiligere verkeerssituaties en fietsinfrastructuur",
+        "Preventieve aanpak in buurten en wijken"
+      ],
+      "quote": "Iedereen moet dag en nacht veilig over straat kunnen.",
+      "coverage": "volledig"
+    },
+    "binnenstad": {
+      "summary": "SP ziet de binnenstad als belangrijk, maar wil investeringen eerlijker verdelen richting wijken. De partij waarschuwt voor een te toeristische eenzijdige economie en wil voorzieningen op loop- en fietsafstand in de hele stad. Binnenstad moet aantrekkelijk blijven zonder dat andere wijken achterblijven.",
+      "key_points": [
+        "Binnenstad aantrekkelijk houden zonder monocultuur",
+        "Meer economische investeringen in wijken naast centrum",
+        "Lokale markten en wijkwinkelcentra versterken",
+        "Openbare toiletten en betaalbaarheid verbeteren"
+      ],
+      "quote": "De binnenstad wordt een steeds aantrekkelijkere plek om in te zijn.",
+      "coverage": "beperkt"
+    },
+    "daklozen": {
+      "summary": "SP werkt dakloosheid uit met een duidelijke Housing First-benadering en koppeling aan zorg en bestaanszekerheid. De partij wil menswaardige opvang en toegang tot basisvoorzieningen, ook voor ongedocumenteerden. Dakloosheid moet structureel worden teruggedrongen in lijn met het Nationaal Actieplan Dakloosheid.",
+      "key_points": [
+        "Niemand meer dakloos via Housing First",
+        "Menswaardige opvang met zorg en begeleiding",
+        "Toegang tot basiszorg, noodopvang en juridische hulp",
+        "Dakloosheidsbeleid koppelen aan armoede- en woonbeleid"
+      ],
+      "quote": "Niemand meer dakloos. We gaan uit van Housing First: eerst een veilige plek om te wonen.",
+      "coverage": "volledig"
+    },
+    "zorg": {
+      "summary": "Zorg is bij SP sterk sociaal georienteerd: minder marktwerking, meer menselijke maat en betere toegankelijkheid. De partij wil kwaliteit boven aanbesteding, versterking van wijkteams en meer steun voor mantelzorgers. Ook mentale gezondheid en preventie worden nadrukkelijk genoemd.",
+      "key_points": [
+        "Regie terug op zorg en welzijn zonder winstoogmerk",
+        "Wijkteams en jeugdhulp versterken",
+        "Mantelzorgers ondersteunen met respijtzorg en regelingen",
+        "Meer aandacht voor mentale gezondheid en preventie"
+      ],
+      "quote": "Zorg op basis van kwaliteit en de menselijke maat, geen aanbestedingen in zorg en welzijn.",
+      "coverage": "volledig"
+    },
+    "onderwijs": {
+      "summary": "SP zet in op gelijke kansen in onderwijs, onder meer via gratis schoolontbijt en ondersteuning van jeugd. De partij koppelt onderwijs aan sociale basisvoorzieningen, gezondheid en toekomstperspectief voor jongeren. Onderwijsbeleid maakt deel uit van de bredere sociale agenda van de partij.",
+      "key_points": [
+        "Jeugd en onderwijs als apart hoofdthema",
+        "Gratis schoolontbijt voor kinderen",
+        "Meer ondersteuning voor gezinnen en jongeren",
+        "Onderwijs verbinden met gelijke kansen"
+      ],
+      "quote": "Jeugd en onderwijs met toekomst.",
+      "coverage": "beperkt"
+    },
+    "economie": {
+      "summary": "SP wil een eerlijke lokale economie waarin werk en ondernemen lonen zonder uitbuiting. De partij benadrukt lokaal inkopen, steun aan wijkwinkels en versterking van cooeperatieve modellen. Economisch beleid moet volgens SP direct bijdragen aan leefbaarheid, werkgelegenheid en sociale samenhang.",
+      "key_points": [
+        "Lokale economie en wijkwinkels versterken",
+        "Gemeentelijk inkopen zoveel mogelijk lokaal",
+        "Ondersteuning van starters en cooeperaties",
+        "Voorkomen dat binnenstad alleen op toerisme drijft"
+      ],
+      "quote": "Eerlijke economie zorgt ervoor dat werken en ondernemen loont.",
+      "coverage": "volledig"
+    },
+    "financien": {
+      "summary": "SP wil de begroting realistischer maken, gesloten reserves heroverwegen en middelen inzetten op sociale prioriteiten. De partij bekritiseert grote projecten met beperkte maatschappelijke opbrengst en wil scherper sturen op uitvoerbaarheid. Financieel beleid moet volgens SP menselijke waardigheid, gelijkwaardigheid en solidariteit versterken.",
+      "key_points": [
+        "Realistischer begroten op uitvoerbaarheid",
+        "Gesloten reserves zoals binnenstadshek heroverwegen",
+        "Kritisch op dure prestige-uitgaven",
+        "Financiën richten op sociale en publieke basis"
+      ],
+      "quote": "Realistisch begroten haalt de begroting van het slot.",
+      "coverage": "volledig"
+    },
+    "bestuur": {
+      "summary": "SP wil een dienstbare, toegankelijke gemeente met echte participatie en transparante besluitvorming. De partij pleit voor vroegtijdige betrokkenheid van bewoners, hogere participatieniveaus bij complexe dossiers en een open bestuursstijl zonder achterkamertjes. Bestuur moet meedenken, niet ontmoedigen.",
+      "key_points": [
+        "Eeen digitaal en fysiek loket in toegankelijke taal",
+        "Participatie op hoger niveau bij grote dossiers",
+        "Open en transparante politiek zonder achterkamertjes",
+        "Bewonersinitiatieven ruimte geven via right to challenge"
+      ],
+      "quote": "De SP kiest voor een menselijke, toegankelijke gemeente die luistert en levert.",
+      "coverage": "volledig"
+    },
+    "cultuur": {
+      "summary": "SP ziet cultuur als basisvoorziening en wil brede toegankelijkheid in alle wijken. De partij pleit voor structurele steun aan makers, podia en wijkcultuurhuizen, met eerlijke beloning en betaalbare toegang. Ook niet-commerciele muziekscene, cultuureducatie en openbare kunst krijgen nadruk.",
+      "key_points": [
+        "Structurele steun voor wijkcultuur en makersplekken",
+        "Meer ruimte voor podia en nieuw muzikaal talent",
+        "Cultuuronderwijs en openbare kunst versterken",
+        "Evenementen en cultuur betaalbaar voor alle Leidenaren"
+      ],
+      "quote": "Cultuur maakt Leiden het waard om in te leven.",
+      "coverage": "volledig"
+    }
+  }
+}

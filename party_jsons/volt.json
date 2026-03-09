@@ -1,0 +1,160 @@
+{
+  "party_id": "volt",
+  "party_name": "Volt Leiden",
+  "analyzed_at": "2026-03-08",
+  "source": "pdf",
+  "topics": {
+    "wonen": {
+      "summary": "Volt wil de woningbouwopgave fors verhogen met 8.800 woningen tot 2030 en daarna nog 5.000 extra tot 2035. De partij legt nadruk op betaalbaarheid, levensloopbestendige woningen en betere doorstroming. Ook wil Volt samenwonen zonder vergunningen eenvoudiger maken en extra studentenkamers realiseren.",
+      "key_points": [
+        "Tot 2030 8.800 woningen en daarna 5.000 extra",
+        "Mix van sociale huur, middenhuur en betaalbare koop",
+        "Samenwonen zonder vergunning makkelijker maken",
+        "Ten minste 1.000 extra studentenkamers"
+      ],
+      "quote": "We willen tot 2030 ten minste 8.800 woningen bijbouwen in Leiden.",
+      "coverage": "volledig"
+    },
+    "mobiliteit": {
+      "summary": "Mobiliteit bij Volt draait om 30 km/u, meer ruimte voor voetgangers en fietsers, en slimme logistiek aan de stadsrand. De partij wil vervoer veiliger en schoner maken, met Europese voorbeelden en financiering als versneller. OV, deelmobiliteit en leefbaarheid worden samen benaderd in de publieke ruimte.",
+      "key_points": [
+        "30 km/u binnen de singels",
+        "Uitbreiding autoluwe zones en logistieke hubs",
+        "Meer ruimte voor voetgangers en fietsers",
+        "Slimme mobiliteitsoplossingen met Europese samenwerking"
+      ],
+      "quote": "We willen 30 km/u invoeren voor de hele stad binnen de singels.",
+      "coverage": "volledig"
+    },
+    "parkeren": {
+      "summary": "Volt beschrijft parkeren als onderdeel van de bredere herinrichting van de publieke ruimte. De partij wil minder ruimtedruk van stilstaande auto's en kiest voor alternatieven zoals logistieke hubs en betere bereikbaarheid zonder de auto dominant te maken. Parkeren wordt daarmee vooral via gebiedsontwerp en mobiliteitstransitie aangepakt.",
+      "key_points": [
+        "Parkeren benaderen als onderdeel van publieke ruimte",
+        "Minder ruimtedruk door stilstaande auto's",
+        "Bereikbaarheid combineren met minder autodominantie"
+      ],
+      "quote": "Onze Leidse auto’s nemen veel plek in.",
+      "coverage": "beperkt"
+    },
+    "klimaat": {
+      "summary": "Volt heeft een ambitieuze klimaatlijn met energieneutraliteit in 2035 en een volledig duurzame economie in 2040. De partij combineert isolatie, energiehubs en wateradaptatie met Europese subsidies en kennisnetwerken. Klimaatbeleid moet volgens Volt sociaal haalbaar en betaalbaar zijn voor wijken met hoge energielasten.",
+      "key_points": [
+        "Energieneutraal in 2035, duurzaam in 2040",
+        "Grote inzet op isolatie en energiebesparing",
+        "Lokale energiehubs en oplossingen voor netcongestie",
+        "Klimaatadaptatie met wadi's, buffers en vergroening"
+      ],
+      "quote": "In 2035 energieneutraal en in 2040 economisch compleet duurzaam.",
+      "coverage": "volledig"
+    },
+    "groen": {
+      "summary": "Volt wil Leiden transformeren van versteende stad naar een groenere en klimaatbestendige leefomgeving. De partij noemt meer bomen, schaduw, groene daken en een grotere groene ring (Singelpark XL). Vergroening wordt gekoppeld aan hitteaanpak, gezondheid en kwaliteit van de openbare ruimte.",
+      "key_points": [
+        "Meer bomen, schaduw en groene daken",
+        "Aanleg van wadi's en regentuinen",
+        "Singelpark XL als grotere groene ring",
+        "Vergroening als middel tegen hittestress"
+      ],
+      "quote": "Leiden moet een groene spons worden, die water opvangt en hittestress tegengaat.",
+      "coverage": "volledig"
+    },
+    "veiligheid": {
+      "summary": "Veiligheid is bij Volt zowel fysiek als digitaal. De partij wil weerbaarheidstrainingen, beter opgeleide handhavers, ondersteuning van wijkteams en een cyberveiligheidsplan. Daarnaast benadrukt Volt sociale cohesie via burgerberaden en verbinding tussen groepen als onderdeel van veiligheidsbeleid.",
+      "key_points": [
+        "Combinatie van fysieke en digitale veiligheid",
+        "Weerbaarheidstrainingen en cyberveiligheidsplan",
+        "Ondersteuning wijkteams en wijkagenten",
+        "Burgerberaden en buurtinitiatieven tegen polarisatie"
+      ],
+      "quote": "Leiden is een gastvrije stad; voor intimidatie, geweld en criminaliteit is hier geen plaats.",
+      "coverage": "volledig"
+    },
+    "binnenstad": {
+      "summary": "Volt wil de binnenstad leefbaarder maken door autoluw beleid, vergroening en betere voetgangers- en fietsruimte. De partij kijkt nadrukkelijk naar Europese voorbeelden, zoals Gent en Barcelona, om bereikbaarheid en kwaliteit te combineren. Binnenstad is voor Volt onderdeel van een bredere visie op inclusieve publieke ruimte.",
+      "key_points": [
+        "Autoluwe binnenstad verder ontwikkelen",
+        "Meer ruimte voor wandelen, fietsen en ontmoeten",
+        "Publieke ruimte klimaatbestendig en inclusief maken",
+        "Europese best practices toepassen in binnenstad"
+      ],
+      "quote": "We gaan daarnaast autoluwe zones uitbreiden, geïnspireerd op het model van Gent (autovrije binnenstad met logistieke ringen).",
+      "coverage": "volledig"
+    },
+    "daklozen": {
+      "summary": "Volt noemt dak- en thuisloosheid vooral binnen zorg en welzijn, onder meer via de Binnenvest en integrale ondersteuning. Het onderwerp is aanwezig, maar niet als zelfstandig groot hoofdstuk met uitgewerkte lokale instrumenten. De dekking is daarom inhoudelijk relevant maar beperkt.",
+      "key_points": [
+        "Dak- en thuisloosheid genoemd in zorghoofdstuk",
+        "Samenwerking met partijen zoals De Binnenvest",
+        "Koppeling met bredere welzijns- en preventieaanpak"
+      ],
+      "quote": "Volt wil volle steun voor de zorgprofessionals. Bijvoorbeeld voor verpleegkundig specialisten in de ouderenzorg, zoals Marente of begeleiders van dak- en thuislozen bij De Binnenvest.",
+      "coverage": "beperkt"
+    },
+    "zorg": {
+      "summary": "Volt wil toegankelijke, betaalbare geestelijke en lichamelijke zorg met sterke nadruk op preventie. De partij wil wachttijden terugdringen, professionals beter ondersteunen en digitale zorg slim inzetten. Daarnaast wordt zorgbeleid verbonden met wonen, mobiliteit en leefomgeving.",
+      "key_points": [
+        "Preventie als leidend zorgprincipe",
+        "Toegankelijke zorg voor verschillende doelgroepen",
+        "Ruimte en ondersteuning voor zorgprofessionals",
+        "Digitale hulpverlening als aanvulling op fysieke zorg"
+      ],
+      "quote": "Volt wil geestelijke en lichamelijke gezondheidszorg die betaalbaar en bereikbaar is voor iedereen.",
+      "coverage": "volledig"
+    },
+    "onderwijs": {
+      "summary": "Onderwijsbeleid van Volt richt zich op gelijke kansen, inclusie en toekomstbestendige schoolgebouwen. De partij wil samenwerking tussen onderwijsniveaus versterken en thuiszitters beter ondersteunen. Ook Europese uitwisseling en democratische betrokkenheid van jongeren krijgen expliciete aandacht.",
+      "key_points": [
+        "Gelijke kansen en inclusiviteit in het onderwijs",
+        "Routekaart voor thuiszitters",
+        "Investeren in gezonde en moderne schoolgebouwen",
+        "Ondersteuning via Erasmus+ en internationale samenwerking"
+      ],
+      "quote": "Onderwijs blijft de sleutel tot gelijke kansen.",
+      "coverage": "volledig"
+    },
+    "economie": {
+      "summary": "Volt positioneert Leiden als kennis- en innovatiestad met regionale samenwerking rond Key Region Leiden. De partij wil ruimte voor MKB, werklandschappen en koppeling tussen onderwijs en bedrijfsleven. Economie wordt nadrukkelijk verbonden met welzijn, duurzaamheid en internationale oriëntatie.",
+      "key_points": [
+        "Doorontwikkeling van de kenniseconomie",
+        "Versterking Key Region Leiden en innovatieclusters",
+        "Ruimte-intensief MKB en werklandschappen ondersteunen",
+        "Koppeling onderwijs, innovatie en lokale banen"
+      ],
+      "quote": "We zetten in op regionale samenwerking ‘Key Region Leiden’, ‘Science for life’ en doorontwikkeling van de kenniseconomie.",
+      "coverage": "volledig"
+    },
+    "financien": {
+      "summary": "Volt kiest voor financieel voorzichtig beleid met stress-tests, heldere stop-/door-momenten en structurele dekking voor structurele uitgaven. De partij wil cofinanciering via regio, Rijk en EU actief benutten. Transparantie richting inwoners via toegankelijke uitleg en infographics is een expliciet onderdeel van de aanpak.",
+      "key_points": [
+        "Elke structurele uitgave vraagt structurele dekking",
+        "Stress-tests bij grote investeringen",
+        "Actieve inzet op Europese en regionale cofinanciering",
+        "Meer financiële transparantie voor inwoners"
+      ],
+      "quote": "Volt staat voor een zorgvuldig financieel beleid. Elke euro telt.",
+      "coverage": "volledig"
+    },
+    "bestuur": {
+      "summary": "Volt wil bestuurlijke vernieuwing via burgerberaden, participatie en een sterke Europese component in het stadsbestuur. De voorgestelde wethouder Europese Zaken moet beleid, subsidies en kennisuitwisseling versterken. Digitale dienstverlening moet mensgericht blijven en democratische betrokkenheid vergroten.",
+      "key_points": [
+        "Invoering van een wethouder Europese Zaken",
+        "Meer burgerberaden en lotingstrajecten",
+        "Bestuur dat actief leert van Europese steden",
+        "Digitale dienstverlening in dienst van mens en democratie"
+      ],
+      "quote": "We willen mensen betrekken bij de invulling van hun stad, door burgerberaden.",
+      "coverage": "volledig"
+    },
+    "cultuur": {
+      "summary": "Volt ziet cultuur als basis voor een open en toegankelijke stad, met focus op talentontwikkeling en brede deelname. De partij wil culturele drempels verlagen en een eerlijker subsidiestelsel met ruimte voor experiment en kleine podia. Cultuurbeleid wordt gekoppeld aan toerisme, economie en internationale positionering.",
+      "key_points": [
+        "Toegankelijke cultuur voor alle inkomens en doelgroepen",
+        "Steun voor jonge makers, ateliers en kleine podia",
+        "Meer samenwerking tussen cultuur en zakelijke partners",
+        "Kwaliteitstoerisme via culturele programmering"
+      ],
+      "quote": "Cultuur moet letterlijk en figuurlijk drempelloos zijn.",
+      "coverage": "volledig"
+    }
+  }
+}

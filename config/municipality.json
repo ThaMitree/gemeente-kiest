@@ -1,0 +1,9 @@
+{
+  "name": "Leiden",
+  "year": 2026,
+  "election_date": "19 maart 2026",
+  "source_programs_url": "https://www.gemeenteraadleiden.nl/actueel/gemeenteraadsverkiezingen-2026/kandidaten-en-verkiezingsprogrammas",
+  "source_programs_label": "gemeente Leiden",
+  "contact_email": "leidenkiest2026@dimitry.cc",
+  "repo_url": "https://github.com/ThaMitree/gemeente-kiest"
+}

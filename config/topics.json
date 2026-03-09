@@ -1,0 +1,16 @@
+[
+  {"id": "wonen",      "label": "Wonen",                  "icon": "🏠"},
+  {"id": "mobiliteit", "label": "Mobiliteit & Verkeer",   "icon": "🚲"},
+  {"id": "parkeren",   "label": "Parkeren",               "icon": "🅿️"},
+  {"id": "klimaat",    "label": "Klimaat & Energie",      "icon": "☀️"},
+  {"id": "groen",      "label": "Groen & Natuur",         "icon": "🌳"},
+  {"id": "veiligheid", "label": "Veiligheid",             "icon": "🏘️"},
+  {"id": "binnenstad", "label": "Binnenstad & Winkels",   "icon": "🏪"},
+  {"id": "daklozen",   "label": "Daklozen & Opvang",      "icon": "🏠"},
+  {"id": "zorg",       "label": "Zorg & Welzijn",         "icon": "🤝"},
+  {"id": "onderwijs",  "label": "Onderwijs",              "icon": "📚"},
+  {"id": "economie",   "label": "Economie & Werk",        "icon": "💼"},
+  {"id": "financien",  "label": "Gemeentefinanciën",      "icon": "💶"},
+  {"id": "bestuur",    "label": "Bestuur & Participatie", "icon": "🗳️"},
+  {"id": "cultuur",    "label": "Cultuur & Evenementen",  "icon": "🎭"}
+]

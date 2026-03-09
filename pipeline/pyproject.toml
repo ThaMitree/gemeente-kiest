@@ -1,0 +1,10 @@
+[project]
+name = "verkiezingen-pipeline"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pdfplumber>=0.11",
+    "requests>=2.32",
+    "beautifulsoup4>=4.12",
+    "playwright>=1.40",
+]

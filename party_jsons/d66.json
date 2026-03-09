@@ -1,0 +1,189 @@
+{
+  "party_id": "d66",
+  "party_name": "D66 Leiden",
+  "analyzed_at": "2026-03-08",
+  "source": "pdf",
+  "topics": {
+    "wonen": {
+      "summary": "D66 wil in 7 jaar 11.000 nieuwe woningen bouwen in Leiden en 30.000 in de regio. Minimaal 2/3 moet betaalbaar zijn: sociale huur, middenhuur en betaalbare koop voor starters. Prioriteitslocaties zijn het stationsgebied, Leiden Bio Science Park, Westerpoort en het Werninkterrein. Elke nieuwe woning wordt energieneutraal gebouwd.",
+      "key_points": [
+        "11.000 nieuwe woningen in Leiden de komende 7 jaar",
+        "Minimaal 2/3 betaalbaar (sociale huur, middenhuur, betaalbare koop), waarvan 1/3 sociale huur",
+        "Stationsgebied en LBSP als woon-werklandschap van de toekomst",
+        "Energieneutrale en natuurinclusieve nieuwbouw als standaard",
+        "Leegstaande panden aanpakken en omzetten naar woningen",
+        "Woningen gebouwd voor de lange termijn, ook voor toekomstige generaties"
+      ],
+      "quote": "Wonen is een sociaal grondrecht. Dat houdt in dat iedereen in een veilige, levendige buurt moet kunnen wonen, met speelplekken, groen, goede voorzieningen en ruimte voor ontmoeting.",
+      "coverage": "volledig"
+    },
+    "mobiliteit": {
+      "summary": "D66 zet in op een lightrailverbinding, uitbreiding van het snelfietsnetwerk en beter openbaar vervoer in de regio. Voetgangers en fietsers krijgen voorrang in de stad. De Hogewoerd wordt een voorrangsweg. Leiden Centraal als uitvalspunt voor OV wordt verbeterd.",
+      "key_points": [
+        "Lightrail en snelfietsverbindingen tussen gemeenten in de Leidse regio",
+        "Voetgangers en fietsers op eerste plek; meer ruimte op straat",
+        "Hogewoerd wordt voorrangsweg voor betere doorstroming",
+        "Verkeersveiligheid voor kinderen verbeteren via schoolroutes",
+        "Investeren in betaalbaar openbaar vervoer via samenwerking Rijk, Provincie, regio",
+        "Laad- en lostijden afstemmen op schooltijden voor verkeersveiligheid"
+      ],
+      "quote": "Goed vervoer zorgt dat je mee kunt doen in de samenleving. Het brengt je naar je werk of de kinderopvang, het zorgt ervoor dat je familie of vrienden altijd dichtbij zijn.",
+      "coverage": "volledig"
+    },
+    "parkeren": {
+      "summary": "D66 wil de autoluwe binnenstad doorzetten: straatparkeren verdwijnt stap voor stap binnen de singels. Nieuwe ondergrondse parkeergarages (bijvoorbeeld onder de Oude Vest of Oude Rijn) vervangen het wegvallende straatparkeren. Bezoekers en toeristen parkeren in garages aan de rand. Er komt een uitgebreide parkeerapp.",
+      "key_points": [
+        "Straatparkeren binnensingels stap voor stap verminderen",
+        "Nieuwe ondergrondse parkeergarages, bijv. onder Oude Vest of Oude Rijn",
+        "Bezoekers en toeristen naar parkeergarages, geen straatparkeren meer",
+        "Verbeterde parkeerapp voor bezoekers- en vergunningenbeheer",
+        "Ruimte voor praktische uitzonderingen: thuiszorg, laden/lossen"
+      ],
+      "quote": "D66 gaat verder met het plan voor een autoluwe binnenstad. Binnen de singels verdwijnt stap voor stap het straatparkeren.",
+      "coverage": "volledig"
+    },
+    "klimaat": {
+      "summary": "D66 wil per wijk met bewoners nagaan welke warmtemix het beste past (restwarmte, aardwarmte, warmte uit water). Energieneutrale nieuwbouw is verplicht. Zonnepanelen op alle gemeentelijke gebouwen. Netcongestie wordt aangepakt door sneller stations te bouwen en aansluitingen te prioriteren voor scholen en ziekenhuizen.",
+      "key_points": [
+        "Per wijk én met bewoners de beste warmtemix bepalen",
+        "Energieneutrale nieuwbouw verplicht, ook bij verbouw gemeentelijke panden",
+        "Zonnepanelen en -boilers op daken gemeentelijke gebouwen",
+        "Netcongestie aanpakken: sneller stations bouwen, prioriteit scholen/ziekenhuizen",
+        "Groene daken, gevels en regenwateropvang als standaard bij nieuwbouw",
+        "Afval als grondstof: 60% scheiding in 2030"
+      ],
+      "quote": "Klimaatverandering vraagt dat we ons voorbereiden op de gevolgen van onstuimiger weer: storm, hitte, droogte en langdurige regenval.",
+      "coverage": "volledig"
+    },
+    "groen": {
+      "summary": "D66 brengt overal meer groen aan: een Groene Kaasmarkt, Groene Beestenmarkt en verbinding van alle groengebieden via het Singelpark. Juist in Noord, Stevenshof en andere verstedelijkte gebieden worden straten en parken groener en beter onderhouden. Er komt een Watervisie voor recreatie, waterkwaliteit en biodiversiteit.",
+      "key_points": [
+        "Groene Kaasmarkt en Groene Beestenmarkt realiseren",
+        "Alle groengebieden verbinden via Singelpark en wandelroutes",
+        "Goed groenbeheer in alle wijken, ook Noord en Stevenshof",
+        "Watervisie voor waterkwaliteit, recreatie en biodiversiteit",
+        "Groene daken, gevels en biodiversiteit als norm bij nieuwbouw",
+        "Onderzoek naar tweede historische haven bij de Meelfabriek"
+      ],
+      "quote": "D66 brengt overal in de stad meer groen aan. Wij willen een Groene Kaasmarkt en Groene Beestenmarkt. Wij verbinden al het groen.",
+      "coverage": "volledig"
+    },
+    "veiligheid": {
+      "summary": "D66 is in beginsel tegen cameratoezicht en preventief fouilleren — alleen bij uitzonderlijke en tijdelijke noodzaak. Buurtbewoners worden actief betrokken bij veiligheidsaanpak. Bij kleine overtredingen krijgt iedereen in eerste instantie een waarschuwing. Nachtboa's waarborgen de veiligheid in het nachtleven. Digitale veiligheid en informatiebeveiliging worden verbeterd.",
+      "key_points": [
+        "In beginsel geen cameratoezicht of preventief fouilleren in Leiden",
+        "Buurtbewoners benoemen zelf de prioritaire veiligheidsproblemen",
+        "Eerste overtreding: waarschuwing, geen boete (gemeente is geen boetemachine)",
+        "Nachtboa's voor veiligheid in het nachtleven",
+        "Digitale veiligheid op orde: gegevens bewoners beschermen",
+        "Gemeente spreekt zich uit tegen online shamen van slachtoffers"
+      ],
+      "quote": "D66 is in beginsel tegen cameratoezicht en preventief fouilleren. Slechts als er een hele duidelijke, dringende en bijzondere noodzaak voordoet, zou D66 kunnen instemmen.",
+      "coverage": "volledig"
+    },
+    "binnenstad": {
+      "summary": "De binnenstad is de 'woonkamer van de regio'. D66 wil de levendigheid vergroten via een evenementenfonds en meer activiteiten in het centrum en wijkwinkelcentra. Toerisme is waardevol maar overtoerisme wordt voorkomen. Er wordt onderzocht of een nachtburgemeester of nachtboa's de veiligheid en levendigheid kunnen versterken.",
+      "key_points": [
+        "Binnenstad als woonkamer van de regio: levendigheid vergroten",
+        "Evenementenfonds voor activiteiten in centrum en wijkwinkelcentra",
+        "Waardevol toerisme stimuleren, maar overtoerisme voorkomen",
+        "Nachtburgemeester en nachtboa's onderzoeken voor veiliger nachtleven",
+        "Plein Luifelbaan verbeteren in samenwerking met ondernemers",
+        "Structureel investeren in citymarketing met alle partners"
+      ],
+      "quote": "De binnenstad is de woonkamer voor de hele Leidse regio. Met ondernemers willen we de levendigheid in het centrum en de wijkwinkelcentra vergroten.",
+      "coverage": "volledig"
+    },
+    "daklozen": {
+      "summary": "D66 signaleert dat een groot deel van de daklozen in Leiden arbeidsmigranten zijn. Regionale aanpak en ondersteuning zijn nodig, met betrokkenheid van werkgevers. Ondersteuning moet snel en laagdrempelig beschikbaar zijn bij werkverlies. D66 steunt de Housing First benadering en wil statushouders een goede nieuwe start bieden.",
+      "key_points": [
+        "Regionale brede aanpak voor dakloze arbeidsmigranten",
+        "Snel en laagdrempelig ondersteunen bij dakloosheid door werkverlies",
+        "Regionaal Werkcentrum als bemiddelaar tussen arbeidsmigranten en ondernemers",
+        "Statushouders en vluchtelingen opvangen conform Spreidingswet",
+        "Taallessen beschikbaar voor arbeidsmigranten en statushouders",
+        "Housing First benadering: woning als eerste stap"
+      ],
+      "quote": "Een groot deel van de daklozen in Leiden zijn arbeidsmigranten. D66 wil een brede regionale aanpak en ondersteuning voor deze doelgroep.",
+      "coverage": "volledig"
+    },
+    "zorg": {
+      "summary": "Gezondheid en preventie zijn de kern van het D66-beleid: gezondheidsparagraaf in elk groot beleidsstuk. Één loket met vaste contactpersoon voor hulpvragen. De Sleutelpas geeft toegang tot sport en cultuur voor lage inkomens. Jeugdhulp met minder formele drempels en meer samenwerking tussen instanties.",
+      "key_points": [
+        "Gezondheidsparagraaf verplicht in alle grote gemeentelijke beleidsstukken",
+        "Één loket met vaste contactpersoon voor hulp bij schulden en zorg",
+        "Sleutelpas uitbreiden voor sport, cultuur en activiteiten voor iedereen tot 130% sociaal minimum",
+        "Jeugdzorg: meer samenwerking, minder formele drempels",
+        "Schuldenpreventie via gratis cursussen en vroege begeleiding",
+        "Zorg op de juiste plek, dichtbij en zonder lange wachtlijsten"
+      ],
+      "quote": "Een gezonde samenleving begint bij gezonde mensen. Als je zorg nodig hebt, wil je die snel en dichtbij, zonder moeilijke regels of lange wachtlijsten.",
+      "coverage": "volledig"
+    },
+    "onderwijs": {
+      "summary": "D66 wil een Rijke Schooldag: meer dan lezen, schrijven en rekenen, met ruimte voor cultuur, sport en talentontwikkeling. Schoolgebouwen worden verduurzaamd en toegankelijk gemaakt. Een Taalakkoord moet laaggeletterdheid terugdringen. MBO-studenten verdienen gelijke rechten als andere studenten.",
+      "key_points": [
+        "Rijke Schooldag: cultuur, bewegen en talentontwikkeling naast kernvakken",
+        "Schoolgebouwen verduurzamen: acht prioriteitsscholen als eerste",
+        "Taalakkoord om laaggeletterdheid te verminderen",
+        "Schoolzwemmen onderzoeken om te herinvoeren",
+        "MBO-studenten: gelijke rechten en eerlijke stagevergoedingen",
+        "Bi- en omscholingsbudget voor werknemers, werkzoekenden en ZZP'ers"
+      ],
+      "quote": "Onderwijs, kunst en cultuur dagen uit en geven iedereen de kans om het maximale uit zichzelf te halen. Ze dragen de belofte van de grote gelijkmaker in zich.",
+      "coverage": "volledig"
+    },
+    "economie": {
+      "summary": "De Leidse regio is een internationaal kenniscentrum in biotech, life sciences, AI en quantumtechnologie. D66 versterkt deze kenniseconomie via Kennisstad en samenwerkingen als Key Region Leiden. Ondernemers (startups, MKB, ZZP) krijgen ruimte en vertrouwen. Asielzoekers worden snel ingezet in werk via de pilot 'Asielzoekers aan het werk'.",
+      "key_points": [
+        "Fors investeren in biotech, life sciences, AI en quantumtechnologie",
+        "Kennisstad-programma en 'Leren met de Stad' doorzetten",
+        "Ruimte en vertrouwen voor startups, scale-ups, MKB en ZZP",
+        "Key Region Leiden als herkenbare eenheid richting Rijk en EU",
+        "Pilot 'Asielzoekers aan het werk' uitbreiden",
+        "Leer- en ontwikkeltrajecten aansluitend op regionale arbeidsmarkt"
+      ],
+      "quote": "De Leidse regio is een internationale kennis- en innovatieregio. We versterken die positie — en zorgen dat iedereen profiteert.",
+      "coverage": "volledig"
+    },
+    "financien": {
+      "summary": "D66 wil een structureel sluitende meerjarenbegroting met reserves voor schokken. Publiek geld heeft een publieke waarde: opbrengsten van deelnemingen gaan naar maatschappelijke doelen. Solidariteit tussen gemeenten in de regio staat centraal. Transparantie en digitale efficiëntie worden structureel verbeterd.",
+      "key_points": [
+        "Structureel sluitende meerjarenbegroting met buffers voor schokken",
+        "Publiek geld = publieke waarde (duurzaamheid, leefbaarheid, sociale zekerheid)",
+        "Solidariteit in de regio: voorzieningen delen en gezamenlijk financieren",
+        "Gemeentelijke belastingen eenvoudiger maandelijks betalen",
+        "Digitale efficiëntie om kosten te besparen",
+        "Transparant financieel beleid met eerlijke keuzes"
+      ],
+      "quote": "Een gezonde financiële huishouding is de basis voor goed lokaal bestuur. Elke euro die de gemeente uitgeeft, moet bijdragen aan een duurzame, leefbare en sociale stad en regio.",
+      "coverage": "volledig"
+    },
+    "bestuur": {
+      "summary": "D66 staat voor een open bestuurscultuur met vroege betrokkenheid van inwoners. Wijkregisseurs en projectleiders zijn herkenbaar en bereikbaar. De gemeente communiceert in begrijpelijke taal en beantwoordt berichten tijdig. Regionale samenwerking in Holland Rijnland wordt versterkt, waarbij lokale identiteit behouden blijft.",
+      "key_points": [
+        "Vroege betrokkenheid van inwoners bij belangrijke beslissingen",
+        "Vaste wijkregisseurs en aanspreekpunten die wijk echt kennen",
+        "Begrijpelijke communicatie: e-mails en brieven tijdig beantwoorden",
+        "Openbare fractievergaderingen in wijken en buurten",
+        "Regionale samenwerking Holland Rijnland versterken",
+        "Raadsleden gaan de wijk in: scholen, ondernemers, sportverenigingen"
+      ],
+      "quote": "D66 wil een gemeente die begrijpelijke taal spreekt, die luistert, die zorgt dat ook jouw belang wordt gezien, eerlijk is over de keuzes die ze maakt.",
+      "coverage": "volledig"
+    },
+    "cultuur": {
+      "summary": "D66 wil het rijke culturele aanbod in de Leidse regio behouden en uitbreiden. Makers krijgen broedplaatsen en betere subsidiemogelijkheden. Een nachtburgemeester en nachtboa's worden overwogen voor een levendiger en veiliger nachtleven. Wekelijkse culturele activiteiten voor jongeren onder de 18. Cultuur en onderwijs worden beter verbonden.",
+      "key_points": [
+        "Culturele basisinfrastructuur behouden en uitbreiden",
+        "Broedplaatsen voor makers in leegstaand vastgoed",
+        "Nachtburgemeester en nachtboa's onderzoeken",
+        "Wekelijkse activiteiten voor jongeren onder de 18",
+        "Scholen ondersteunen bij toegang tot culturele subsidies",
+        "Sleutelpas uitbreiden met cultuuractiviteiten"
+      ],
+      "quote": "Cultuur is het voedsel voor het brein en geeft nieuwe perspectieven op maatschappelijke vraagstukken. Makers in de culturele sector zijn ontzettend belangrijk.",
+      "coverage": "volledig"
+    }
+  }
+}

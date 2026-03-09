@@ -1,0 +1,13 @@
+[
+  {"id": "groenlinks_pvda", "name": "GroenLinks-PvdA Leiden", "abbreviation": "GL-PvdA", "color": "#84BC00", "text_color": "#FFFFFF"},
+  {"id": "d66",             "name": "D66 Leiden",             "abbreviation": "D66",     "color": "#00A562", "text_color": "#FFFFFF"},
+  {"id": "vvd",             "name": "VVD Leiden",             "abbreviation": "VVD",     "color": "#FF6600", "text_color": "#FFFFFF"},
+  {"id": "pvdd",            "name": "PvdD Leiden",            "abbreviation": "PvdD",    "color": "#0A5C36", "text_color": "#FFFFFF"},
+  {"id": "partij_sleutelstad", "name": "Partij Sleutelstad",  "abbreviation": "PS",      "color": "#2B7A8D", "text_color": "#FFFFFF"},
+  {"id": "svl",             "name": "Studenten Voor Leiden",  "abbreviation": "SVL",     "color": "#E8650A", "text_color": "#FFFFFF"},
+  {"id": "cda",             "name": "CDA Leiden",             "abbreviation": "CDA",     "color": "#007B5E", "text_color": "#FFFFFF"},
+  {"id": "sp",              "name": "SP Leiden",              "abbreviation": "SP",      "color": "#E3000F", "text_color": "#FFFFFF"},
+  {"id": "christenunie",    "name": "ChristenUnie Leiden",    "abbreviation": "CU",      "color": "#4A90D9", "text_color": "#FFFFFF"},
+  {"id": "volt",            "name": "Volt Leiden",            "abbreviation": "Volt",    "color": "#502379", "text_color": "#FFFFFF"},
+  {"id": "fvd",             "name": "FvD Leiden",             "abbreviation": "FvD",     "color": "#8B0000", "text_color": "#FFFFFF"}
+]

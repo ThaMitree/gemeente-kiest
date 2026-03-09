@@ -1,0 +1,162 @@
+{
+  "party_id": "svl",
+  "party_name": "Studenten Voor Leiden",
+  "analyzed_at": "2026-03-08",
+  "source": "pdf",
+  "topics": {
+    "wonen": {
+      "summary": "SVL zet wonen centraal voor jongeren, studenten en starters. De partij wil meer verkamering mogelijk maken, opkoopbescherming beter laten aansluiten op de NHG-grens en woningbouw versnellen met oog voor doorstroming. Ook alternatieve woonvormen en bescherming van het traditionele studentenhuis worden sterk benadrukt.",
+      "key_points": [
+        "Verkamering verruimen om meer kamers te realiseren",
+        "Opkoopbescherming automatisch koppelen aan NHG-grens",
+        "Doorstroom stimuleren met passende bouw voor starters en senioren",
+        "Traditionele studentenhuizen beschermen"
+      ],
+      "quote": "SVL wil een toekomstbestendig woonklimaat, met ruimte en aandacht voor jongeren, studenten en starters.",
+      "coverage": "volledig"
+    },
+    "mobiliteit": {
+      "summary": "Mobiliteit valt bij SVL binnen klimaat en omgeving, met inzet op minder autodominantie, deelmobiliteit en veiligere stedelijke routes. De partij wil de binnenstad anders inrichten, met meer ruimte voor voetganger en fiets. Mobiliteitsbeleid wordt nadrukkelijk gekoppeld aan leefkwaliteit en klimaatadaptatie.",
+      "key_points": [
+        "Minder auto's in binnenstad en meer ruimte voor leefbare inrichting",
+        "Stimuleren van deelmobiliteit met duidelijke randvoorwaarden",
+        "Veiligere kruispunten en fietsverbindingen",
+        "Mobiliteit koppelen aan klimaatdoelen"
+      ],
+      "quote": "In het groene Leiden van de toekomst is er geen plek voor auto’s in de binnenstad.",
+      "coverage": "volledig"
+    },
+    "parkeren": {
+      "summary": "SVL ziet parkeerbeleid als sturingsinstrument voor een leefbare en groenere stad. De partij wil minder autoparkeerdruk in het centrum, gecombineerd met investeringen in infrastructuur en alternatieven. In het financiele hoofdstuk kiest SVL voor hogere tarieven voor kort parkeren in de binnenstad en betaalbaar vergunningparkeren buiten de singels.",
+      "key_points": [
+        "Kort parkeren in binnenstad duurder maken",
+        "Vergunningen buiten singels betaalbaar houden",
+        "Parkeerinkomsten inzetten voor infrastructuur",
+        "Parkeerplekken deels omvormen naar groen en verblijf"
+      ],
+      "quote": "Kort parkeren in de binnenstad wordt duurder, maar parkeervergunningen buiten de singels blijven betaalbaar.",
+      "coverage": "volledig"
+    },
+    "klimaat": {
+      "summary": "SVL kiest voor een ambitieuze klimaatkoers met klimaatneutraliteit in 2040 als doel. De partij wil investeren in verduurzaming, isolatie en lokale energie-oplossingen en is kritisch op Warmtelinq. Klimaatmaatregelen moeten volgens SVL praktisch uitvoerbaar zijn en jongerenperspectief meenemen.",
+      "key_points": [
+        "Leiden klimaatneutraal in 2040",
+        "Structureel isolatieoffensief, ook voor moeilijke panden",
+        "Lokale oplossingen voor energie en netcongestie",
+        "Kritisch op grootschalige fossiel-gerelateerde warmtenetroute"
+      ],
+      "quote": "Wat SVL betreft is Leiden in 2040 klimaatneutraal.",
+      "coverage": "volledig"
+    },
+    "groen": {
+      "summary": "Vergroening is een van de expliciete SVL-speerpunten. De partij wil versteende delen van de stad transformeren, met onder meer een groenere binnenstad, meer schaduw en klimaatadaptieve inrichting. Groen wordt gekoppeld aan gezondheid, ontmoetingsruimte en toekomstbestendig stadsontwerp.",
+      "key_points": [
+        "Plan voor vergroening van Breestraat en andere drukke plekken",
+        "Meer schaduw, beplanting en klimaatadaptieve inrichting",
+        "Vergroening koppelen aan verblijfskwaliteit in de stad",
+        "Meetbare doelen voor biodiversiteit en klimaatadaptatie"
+      ],
+      "quote": "Een groene stad is geen luxe, maar noodzaak.",
+      "coverage": "volledig"
+    },
+    "veiligheid": {
+      "summary": "SVL benadrukt sociale veiligheid op straat en in het uitgaansleven, met focus op preventie van straatintimidatie. De partij wil betere ondersteuning, veilige nachtmaatregelen en behoud van demonstratierecht zonder onnodige drempels. Veiligheid wordt ook gekoppeld aan weerbaarheid in crisissituaties.",
+      "key_points": [
+        "Preventieve aanpak van straatintimidatie",
+        "Veilig uitgaan met samenwerking en training",
+        "Demonstratierecht actief faciliteren",
+        "Betere crisis- en weerbaarheidsvoorbereiding"
+      ],
+      "quote": "SVL pleit voor preventief beleid om straatintimidatie tegen te gaan.",
+      "coverage": "volledig"
+    },
+    "binnenstad": {
+      "summary": "Binnenstad krijgt bij SVL veel aandacht als gebied voor vergroening, cultuur en een levendig uitgaansklimaat. De partij wil minder dominantie van verkeer en meer ruimte voor terrassen, evenementen en ontmoeting. Ook de inrichting rond Stations- en Cultuurkwartier en evenementenbeleid speelt hierin mee.",
+      "key_points": [
+        "Groenere en minder versteende binnenstad",
+        "Meer ruimte voor evenementen en uitgaan",
+        "Binnenstad inrichten als verblijfsgebied in plaats van doorgangsruimte",
+        "Combinatie van cultuur, horeca en veiligheid"
+      ],
+      "quote": "SVL kiest voor een bruisende binnenstad en het toejuichen van meer evenementen in de stad past hierbij.",
+      "coverage": "volledig"
+    },
+    "daklozen": {
+      "summary": "SVL benoemt dakloosheid expliciet bij wonen en wil gerichte opvang voor jongeren die dakloos zijn of dat dreigen te worden. De partij verwijst naar kleinschalige woonvormen en jongerenopvang als alternatief voor generieke noodopvang. Daarmee richt SVL zich vooral op preventie en snelle stabilisatie van jongeren.",
+      "key_points": [
+        "Meer aandacht voor dakloosheid onder jongeren",
+        "Jongerenopvang in passende en veilige setting",
+        "Woonvormen zoals Skeave Huse verder uitbouwen",
+        "Vroegtijdige ondersteuning om langdurige dakloosheid te voorkomen"
+      ],
+      "quote": "SVL pleit voor een jongerenopvang naar het model Housing First.",
+      "coverage": "beperkt"
+    },
+    "zorg": {
+      "summary": "Zorg komt bij SVL vooral terug als mentaal en fysiek welzijn, met jeugdzorg als apart onderdeel. De partij wil preventie, betere toegankelijkheid en structurele verbeteringen in jeugdzorg in plaats van tijdelijke noodgrepen. Gezondheid wordt daarnaast gekoppeld aan sport, leefstijl en laagdrempelige voorzieningen.",
+      "key_points": [
+        "Mentaal en fysiek welzijn als kernprioriteit",
+        "Structurele herinrichting van jeugdzorg",
+        "Meer preventie en gezonde leefstijl",
+        "Betere toegang tot laagdrempelige zorgvoorzieningen"
+      ],
+      "quote": "SVL wil een mentaal en fysiek gezond Leiden met gepaste zorg en ondersteuning voor iedereen.",
+      "coverage": "volledig"
+    },
+    "onderwijs": {
+      "summary": "SVL profileert Leiden als onderwijsstad en wil investeren in toegankelijk en vernieuwend onderwijs met gelijke kansen. De partij legt nadruk op lerarentekort, passende schoolgebouwen en actieve jongerenparticipatie in en rond onderwijs. Ook bibliotheken en burgerschapsvorming krijgen expliciete aandacht.",
+      "key_points": [
+        "Aanpak lerarentekort met stedelijke bonus en ondersteuning",
+        "Toekomstbestendige schoolgebouwen en flexibele functies",
+        "Investeren in jongerenparticipatie en democratie-educatie",
+        "Bibliotheken versterken als brede onderwijsvoorziening"
+      ],
+      "quote": "Goed onderwijs begint met voldoende leraren.",
+      "coverage": "volledig"
+    },
+    "economie": {
+      "summary": "SVL ziet jongeren en starters als motor van de Leidse economie en wil ondernemerschap laagdrempeliger maken. De partij zet in op betere informatie over subsidies en vergunningen, versterking van beroepsonderwijsverbindingen en een beter stageklimaat. Economische groei moet aansluiten bij het profiel van Leiden als kennis- en studentenstad.",
+      "key_points": [
+        "Jongeren en starters actief ondersteunen bij ondernemen",
+        "Gemeentelijke informatievoorziening voor ondernemers verbeteren",
+        "Beroepsonderwijs en lokale economie sterker verbinden",
+        "Stageklimaat verbeteren via stagejager en betere vergoedingen"
+      ],
+      "quote": "Jongeren en (jonge) ondernemers tillen de Leidse economie naar een hoger niveau met hun unieke ideeën.",
+      "coverage": "volledig"
+    },
+    "financien": {
+      "summary": "SVL wil financieel degelijke en transparante keuzes met focus op doelmatige besteding van middelen. De partij waarschuwt voor schuldenrisico's en wil inzichtelijke begroting voor inwoners. Belastingen en heffingen moeten kritischer worden bekeken, met aandacht voor betaalbaarheid voor bewoners en studenten.",
+      "key_points": [
+        "Financieel degelijke koers met aandacht voor schulden",
+        "Doelmatig gebruik van publieke middelen",
+        "Begroting toegankelijker maken voor inwoners",
+        "Kritisch kijken naar lokale belastingdruk"
+      ],
+      "quote": "SVL wil daarom transparant beleid waarbij het geld doelmatig wordt besteed.",
+      "coverage": "volledig"
+    },
+    "bestuur": {
+      "summary": "Bestuur en participatie zijn voor SVL sterk gericht op jongereninvloed in Leiden. De partij wil participatie toegankelijker maken, jongerenraad structureel verankeren en nieuwe vormen zoals burgerberaad inzetten. Ook digitalisering van bestuur moet transparanter en beter controleerbaar worden.",
+      "key_points": [
+        "Jongerenparticipatie structureel opnemen in lokaal bestuur",
+        "Democratie071-achtige integrale aanpak voor betrokkenheid",
+        "Burgerberaad en online participatie versterken",
+        "Meer transparantie rond inzet van algoritmes"
+      ],
+      "quote": "SVL staat voor een jonge, sterke en toegankelijke lokale democratie.",
+      "coverage": "volledig"
+    },
+    "cultuur": {
+      "summary": "Cultuur en nachtleven zijn bij SVL een groot, zelfstandig beleidsterrein. De partij wil meer evenementenruimte, versoepelde horecaregels, structurele steun aan makers en hogere cultuurbudgetten. Cultuur wordt gezien als essentieel voor welzijn, economie en de identiteit van Leiden als studentenstad.",
+      "key_points": [
+        "Bruisender dag- en nachtcultuur met meer ruimte voor evenementen",
+        "Vergunningstelsel voor horeca en nachtevenementen versoepelen",
+        "Cultuurbudget verhogen en subsidieaanpak verbeteren",
+        "Makers en podia meer zekerheid en ontwikkelruimte geven"
+      ],
+      "quote": "Cultuur maakt Leiden aantrekkelijk voor jong en oud, stimuleert de economie en is goed voor de mentale gezondheid van alle Leidenaren.",
+      "coverage": "volledig"
+    }
+  }
+}

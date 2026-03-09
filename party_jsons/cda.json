@@ -1,0 +1,174 @@
+{
+  "party_id": "cda",
+  "party_name": "CDA Leiden",
+  "analyzed_at": "2026-03-08",
+  "source": "pdf",
+  "topics": {
+    "wonen": {
+      "summary": "Het CDA wil blijven bouwen met oog voor de wijk en leefomgeving, met nadruk op doorstroming en ontmoeting. Prioriteitslocaties zijn rondom Centraal Station, Willem de Zwijgerlaan en Westerpoort. In elke wijk komt een ouderenhofje voor senioren, zodat woningen vrijkomen voor gezinnen. Koopstarters worden geholpen via een Starters Garantiefonds bij nieuwbouw.",
+      "key_points": [
+        "Bouwen op aangewezen locaties: Centraal Station, Willem de Zwijgerlaan, Westerpoort",
+        "In elke Leidse wijk een ouderenhofje voor doorstroming",
+        "Starters Garantiefonds bij nieuwbouw voor koopstarters",
+        "Hoogbouw passend bij de wijk; wel langs station en hoofdwegen",
+        "Participatie bij bouwprojecten: op voorhand duidelijkheid over wat kan"
+      ],
+      "quote": "Een huis is meer dan een stapel stenen: wij willen wijken waar mensen elkaar kennen, ontmoeten, helpen en waar mensen zich veilig voelen.",
+      "coverage": "volledig"
+    },
+    "mobiliteit": {
+      "summary": "Verkeersveiligheid heeft de hoogste prioriteit bij nieuwe projecten. Het CDA wil schoolzones met 15 km/h bij elke school en duidelijke loop- en fietsroutes vanuit de wijken naar het centrum. Onoverzichtelijke kruispunten zoals bij het station worden aangepakt. Leiden Centraal moet een beter visitekaartje worden.",
+      "key_points": [
+        "Schoolzones met maximaal 15 km/h bij elke school",
+        "Duidelijke loop- en fietsroutes van wijken naar centrum",
+        "Stoppen met onoverzichtelijke kruispunten (station, Hogewoerd/Breestraat)",
+        "1500 publieke oplaadpunten voor elektrische auto's en fietsen",
+        "Verbetering OV en uitstraling Leiden Centraal"
+      ],
+      "quote": "Bij nieuwe projecten in de stad zoals bouwprojecten of openbare ruimte projecten geeft het CDA de grootste prioriteit aan verkeersveiligheid.",
+      "coverage": "volledig"
+    },
+    "parkeren": {
+      "summary": "Het CDA accepteert betaald parkeren als nodig voor leefbaarheid in de wijk, maar wil dat bewoners, visite, werknemers en zorgprofessionals voldoende parkeerrechten houden. Parkeergarages aan de randen van de binnenstad worden gekoesterd. Parkeerbelasting wordt in samenhang met andere gemeentelijke heffingen bekeken.",
+      "key_points": [
+        "Betaald parkeren acceptabel maar bewoners en zorgprofessionals houden vergunning",
+        "Parkeergarages aan randen binnenstad behouden en verbeteren",
+        "Kleine campereigenaren houden hun parkeervergunning",
+        "Parkeerbelasting in samenhang met OZB, riool- en afvalstoffenheffing bekijken",
+        "Bij wijkvernieuwing balans tussen verkeersveiligheid, vergroening en parkeerruimte"
+      ],
+      "quote": "Betaald parkeren is niet leuk maar wel nodig. Door het betaald parkeren wordt de parkeeroverlast teruggedrongen en verbetert de leefbaarheid in de wijk.",
+      "coverage": "volledig"
+    },
+    "klimaat": {
+      "summary": "Het CDA wil verduurzaming combineren met leefbaarheid en gezondheid. Een burgerberaad over de energietransitie (2023) heeft al plaatsgevonden en de meeste adviezen zijn overgenomen. Verdere stappen zijn meer oplaadpunten, faciliteren van zonnestroom via kabelgoottegels en onderzoek naar biobased alternatieven.",
+      "key_points": [
+        "Burgerberaad energietransitie gehouden, adviezen overgenomen",
+        "1500 publieke oplaadpunten voor elektrische voertuigen",
+        "Kabelgoottegels legaliseren zodat bewoners thuis zonnestroom kunnen laden",
+        "Onderzoek naar biobased alternatieven voor traditionele grondstoffen",
+        "Verduurzaming klaslokalen basisonderwijs en voortgezet onderwijs"
+      ],
+      "quote": "In 2023 heeft het eerste Leidse Burgerberaad, een belangrijke belofte uit het programma van 2022, plaatsgevonden over de energietransitie. De meeste adviezen van het Burgerberaad zijn overgenomen.",
+      "coverage": "volledig"
+    },
+    "groen": {
+      "summary": "Vergroening van straten en pleinen is een expliciet speerpunt van het CDA. Bij wijkvernieuwingsprojecten wordt steeds gevraagd om de balans tussen verkeersveiligheid, vergroening en parkeerruimte. Het Cultuurkwartier bij de Beestenmarkt en Lammermarkt verdient een vergroeningsimpuls.",
+      "key_points": [
+        "Vergroenen van straten en pleinen in alle wijken",
+        "Bij wijkvernieuwing expliciet aandacht voor vergroening",
+        "Cultuurkwartier (Beestenmarkt, Lammermarkt) vergroeningsimpuls",
+        "Groene, schone en veilige wijken als kernkwaliteit"
+      ],
+      "quote": "Het CDA kiest voor een leefbaar Leiden. Dat betekent groene, schone en veilige wijken. We blijven ons inzetten op het vergroenen van straten en pleinen.",
+      "coverage": "volledig"
+    },
+    "veiligheid": {
+      "summary": "De handhavingscapaciteit staat onder druk en het CDA wil opnieuw uitbreiden, inclusief vrijwillige handhavers ('stadsreservisten') naar Amsterdams voorbeeld. Cameratoezicht en een digitale wijkagent worden ingezet naast de reguliere wijkagent. Weerbaarheid van de samenleving is een apart aandachtspunt.",
+      "key_points": [
+        "Uitbreiding handhavingscapaciteit (BOA's)",
+        "Vrijwillige handhavers ('stadsreservisten') naar Amsterdams voorbeeld",
+        "Cameratoezicht (vast en mobiel)",
+        "Digitale wijkagent naast wijkagent op straat",
+        "Burgerhulpverleningsorganisatie voor weerbaarheid samenleving"
+      ],
+      "quote": "De handhavingscapaciteit staat nog altijd onder druk. Het CDA wil opnieuw een capaciteitsuitbreiding.",
+      "coverage": "volledig"
+    },
+    "binnenstad": {
+      "summary": "De binnenstad wordt omschreven als 'een juweel dat we moeten koesteren'. Het CDA wil de leefbaarheid en uitstraling verbeteren via snellere vergunningen voor ondernemers, aanpak van glasvezeloverlast en handhaving op zwerfafval en graffiti. Het Cultuurkwartier (station–Meelfabriek) krijgt een kwaliteitsimpuls.",
+      "key_points": [
+        "Snellere vergunningen voor ondernemers (al gerealiseerd, versterken)",
+        "Meldpunt overlast glasvezel aanleggers succesvol, verder aanpakken",
+        "Handhaving zwerfafval en graffiti versterken, o.a. in Lammenschansdriehoek",
+        "Meer openbare prullenbakken en ruimere openingstijden Milieustraat",
+        "Cultuurkwartier (station–Meelfabriek) kwaliteitsimpuls",
+        "Lokale lasten voor ondernemers omlaag (één-na-hoogste van Nederland)"
+      ],
+      "quote": "Onze binnenstad is een juweel waar we zuinig op moeten zijn. Ze is rijk aan erfgoed, cultuur, ondernemers en studenten. De binnenstad moeten we koesteren!",
+      "coverage": "volledig"
+    },
+    "daklozen": {
+      "summary": "Dak- en thuisloosheid is een groeiend probleem dat het CDA erkent. De partij wil het 'Wonen Eerst principe' toepassen, met name voor gezinnen met kinderen: direct een woning toewijzen geeft rust en kans op herstel. In de nieuwbouwwijk Westerpoort worden op initiatief van het CDA speciale voorzieningen opgenomen.",
+      "key_points": [
+        "'Wonen Eerst principe' voor dakloze gezinnen met kinderen",
+        "Direct een woning toewijzen als effectiefste aanpak",
+        "Westerpoort krijgt op CDA-initiatief daklozenvoorzieningen"
+      ],
+      "quote": "Dak- en thuisloosheid is een groeiend probleem, ook in Leiden. Het CDA wil, nu meer sociale huurwoningen beschikbaar zijn, inzetten op het 'Wonen Eerst principe', met name voor gezinnen met kinderen.",
+      "coverage": "beperkt"
+    },
+    "zorg": {
+      "summary": "Het CDA wil een einde aan marktwerking in het sociaal domein: 'zorg is geen markt'. Mantelzorgers verdienen een respijthuis. Wijkteams moeten voldoende ruimte krijgen om echt de wijk in te gaan voor vroegsignalering, zodat instroom in WMO en jeugdzorg wordt geremd. Eenzaamheid is een expliciet aandachtspunt.",
+      "key_points": [
+        "Einde aan aanbesteding in sociaal domein — zorg is geen markt",
+        "Respijthuis voor mantelzorgers",
+        "Wijkteams als oren en ogen in de wijk, met meer bewegingsvrijheid",
+        "Samenwerking jeugdhulp, jongerenwerk, onderwijs en sport per wijk",
+        "Lief & Leed-straten voor sociale samenhang en aanpak eenzaamheid",
+        "Jeugdige mantelzorgers extra ondersteunen"
+      ],
+      "quote": "Het CDA wil een einde aan de aanbesteding in het sociaal domein. De zorg is geen markt.",
+      "coverage": "volledig"
+    },
+    "onderwijs": {
+      "summary": "Leiden ademt onderwijs en onderzoek via het programma Leiden Kennisstad. Het CDA investeerde al in verduurzaming van klaslokalen en wil leraren voorrang geven op een woning. Samenwerking tussen beroepsonderwijs en bedrijfsleven (Smartlabs, Techhubs) wordt actief gestimuleerd.",
+      "key_points": [
+        "Leiden Kennisstad: samenwerking universiteit, hogeschool, mbo en musea",
+        "Leraren krijgen voorrang op een woning in Leiden",
+        "Investeren in renovatie en verduurzaming van klaslokalen",
+        "Smartlabs en Techhubs voor samenwerking studenten en ondernemers",
+        "Aansluiting beroepsonderwijs en bedrijfsleven verbeteren"
+      ],
+      "quote": "Leiden ademt onderwijs en onderzoek. Met het programma Leiden Kennisstad heeft onze stad een goed draaiend voertuig om de samenwerking tussen universiteit, hogeschool, mbo, musea en de stad te versterken.",
+      "coverage": "volledig"
+    },
+    "economie": {
+      "summary": "Leiden heeft de één-na-hoogste lokale lasten voor ondernemers in Nederland; het CDA wil deze in stapjes verlagen. Snellere vergunningverlening is al gerealiseerd en wordt voortgezet. De samenwerking tussen beroepsonderwijs en bedrijfsleven draagt bij aan een sterke kenniseconomie.",
+      "key_points": [
+        "Lokale lasten voor ondernemers verlagen (één-na-hoogste van Nederland)",
+        "Snellere vergunningverlening voor ondernemers continueren",
+        "Samenwerking beroepsonderwijs en bedrijfsleven via Smartlabs en Techhubs",
+        "Leiden Healthy Society Center als brug tussen kennis, beleid en praktijk"
+      ],
+      "quote": "De lokale lasten voor Leidse ondernemers zijn de één-na-hoogste van Nederland. Het CDA wil deze lasten in stapjes omlaag brengen, primair voor het Leidse MKB.",
+      "coverage": "volledig"
+    },
+    "financien": {
+      "summary": "Het CDA verhoogt de OZB niet en wil elk jaar een sluitende begroting zonder tekortfinanciering. Parkeerbelasting, rioolheffing en afvalstoffenheffing moeten kostendekkend blijven en niet hoger. Het weerstandsvermogen is op orde en er komt één risicoreserve voor de hele gemeente.",
+      "key_points": [
+        "OZB niet verhogen — expliciete belofte",
+        "Elk jaar sluitende begroting, geen rekeningen doorschuiven",
+        "Rioolheffing en afvalstoffenheffing kostendekkend en niet hoger",
+        "Gemeentelijke belastingen in samenhang bekijken",
+        "Één risicoreserve voor de hele gemeente"
+      ],
+      "quote": "Het CDA verhoogt de Onroerendzaakbelasting (OZB) niet. In de afgelopen 4 jaar is de OZB niet verhoogd. Dat was een expliciete wens van het CDA.",
+      "coverage": "volledig"
+    },
+    "bestuur": {
+      "summary": "Fatsoenlijk en participatief bestuur is een kernwaarde voor het CDA. De gemeente heeft niet alle oplossingen — inwoners en organisaties worden actief betrokken. Het burgerberaad over de energietransitie is een voorbeeld. Regionale samenwerking wordt gesteund als dat nodig is.",
+      "key_points": [
+        "Participatie bevorderen via aanvullende vormen zoals burgerraden",
+        "Cursus Politiek Actief voor geïnteresseerde inwoners",
+        "Burgerberaad energietransitie als succesvol voorbeeld",
+        "Gemeente toegankelijker maken voor inwoners die bureaucratie niet kennen",
+        "Regionale samenwerking ook via minder vrijblijvende oplossingen mogelijk"
+      ],
+      "quote": "De gemeente heeft niet alle oplossingen. Politici ook niet. Het CDA wil daarom blijven bijdragen aan aanvullende en vernieuwende vormen van participatie.",
+      "coverage": "volledig"
+    },
+    "cultuur": {
+      "summary": "Leiden is een museumstad van wereldformaat met dertien musea en een brede culturele sector. Het CDA wil de culturele basisinfrastructuur vitaal houden, maar subsidies zijn in principe tijdelijk. Het Cultuurkwartier tussen station en Meelfabriek verdient een kwaliteitsimpuls met meer groen en leefbaarheid.",
+      "key_points": [
+        "Leiden heeft 13 musea — culturele sector maakt de stad uniek",
+        "Focus op culturele basisinfrastructuur, niet alles subsidiëren",
+        "Subsidies tijdelijk — nieuwe initiatieven op eigen benen",
+        "Cultuurkwartier (station–Meelfabriek) kwaliteitsimpuls",
+        "Cultuur en erfgoed als tweede pijler van de stad naast kennis"
+      ],
+      "quote": "Met dertien musea is Leiden ook een museumstad van wereldformaat. Het is juist die culturele sector die ons anders maakt dan zoveel andere steden en die bezoekers naar onze stad trekt.",
+      "coverage": "volledig"
+    }
+  }
+}

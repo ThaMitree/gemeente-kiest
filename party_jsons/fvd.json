@@ -1,0 +1,153 @@
+{
+  "party_id": "fvd",
+  "party_name": "FvD Leiden",
+  "analyzed_at": "2026-03-08",
+  "source": "web",
+  "topics": {
+    "wonen": {
+      "summary": "FvD zet op wonen in op lokale voorrang, meer betaalbare koop en minder regels rond bouwen. De partij wil statushouders geen voorrang geven op sociale huur en kiest voor transformatie van leegstand naar woningen. Doorstroming voor ouderen en behoud van herkenbare wijken zijn terugkerende accenten.",
+      "key_points": [
+        "Lokale binding voorrang geven bij sociale huur en betaalbare koop",
+        "Afschaffen voorrangsregelingen voor statushouders",
+        "Meer betaalbare koopwoningen voor starters en gezinnen",
+        "Leegstaande panden transformeren naar woonruimte"
+      ],
+      "quote": "Forum voor Democratie kiest voor bouwen met gezond verstand.",
+      "coverage": "volledig"
+    },
+    "mobiliteit": {
+      "summary": "FvD kiest voor mobiliteitsbeleid waarin automobiliteit expliciet niet wordt ontmoedigd. De partij wil bereikbaarheid en doorstroming verbeteren, geen extra drempels zonder aantoonbaar effect, en beter OV waarborgen. Vrije vervoerskeuze staat centraal in de benadering.",
+      "key_points": [
+        "Autogebruik faciliteren in plaats van ontmoedigen",
+        "Geen extra snelheids- of drempelmaatregelen zonder bewezen effect",
+        "OV-verbindingen betaalbaar en betrouwbaar houden",
+        "Sociale veiligheid in OV en op haltes versterken"
+      ],
+      "quote": "Autogebruik moet daarom nooit worden ontmoedigd of bestraft, maar juist gefaciliteerd waar dat nodig is.",
+      "coverage": "volledig"
+    },
+    "parkeren": {
+      "summary": "Parkeren wordt bij FvD gekoppeld aan bereikbaarheid van wijkcentra en binnenstad. De partij wil parkeerruimte behouden en uitbreiden, en verzet zich tegen beleidsmaatregelen die autobezit indirect beperken. Parkeertarieven worden ook genoemd in het kader van lastenverlichting.",
+      "key_points": [
+        "Parkeerruimte behouden en waar nodig creëren",
+        "Bereikbaarheid van voorzieningen voor automobilisten behouden",
+        "Kritisch op beleid dat parkeren als sturingsinstrument gebruikt"
+      ],
+      "quote": "Wij behouden en creëren parkeerruimte in wijkcentra en rond de binnenstad, zodat winkels en voorzieningen bereikbaar blijven.",
+      "coverage": "volledig"
+    },
+    "klimaat": {
+      "summary": "FvD verwerpt een groot deel van lokaal klimaatbeleid zoals CO2-doelsturing, verplichte energietransitie en grootschalige opwek in de omgeving. De partij wil energiebeleid primair betrouwbaar en betaalbaar houden. Klimaatmaatregelen worden vooral beoordeeld op kosten en direct lokaal nut.",
+      "key_points": [
+        "Stoppen met kostbare klimaatmaatregelen",
+        "Geen windmolens of zonnevelden in beperkt buitengebied",
+        "Vrijheid in energiekeuze, inclusief behoud aardgas",
+        "Isolatie alleen vrijwillig en waar technisch-financieel zinvol"
+      ],
+      "quote": "Forum voor Democratie verzet zich tegen ideologisch gedreven klimaatmaatregelen.",
+      "coverage": "volledig"
+    },
+    "groen": {
+      "summary": "Groen komt bij FvD vooral terug als onderdeel van leefbaarheidsgericht milieubeleid: schone straten, goed onderhoud en openbare ruimte op orde. De partij koppelt milieu minder aan transitiebeleid en meer aan lokale netheid en beheer. Het accent ligt daarmee op beheer in plaats van vergrotingsagenda.",
+      "key_points": [
+        "Groenonderhoud als gemeentelijke basistaak",
+        "Schone openbare ruimte en zwerfafvalbestrijding",
+        "Milieubeleid gericht op directe lokale leefbaarheid"
+      ],
+      "quote": "Milieubeleid betekent aandacht voor groenonderhoud, waterbeheer, het bestrijden van zwerfafval en een schone openbare ruimte.",
+      "coverage": "beperkt"
+    },
+    "veiligheid": {
+      "summary": "Veiligheid is een kernthema: FvD wil zichtbare politie-inzet, hard optreden tegen overlast en gerichte instrumenten zoals gebiedsverboden en tijdelijk cameratoezicht. De partij legt nadruk op handhaving met duidelijke normen en snelle ingreep bij herhaald gedrag. Veiligheid wordt gekoppeld aan leefbaarheid in wijken en binnenstad.",
+      "key_points": [
+        "Meer zichtbare agenten en politieposten",
+        "Two-strikes-aanpak en gebiedsverboden bij overlast",
+        "Preventief fouilleren in risicogebieden",
+        "Duidelijke scheiding tussen politie en BOA-taken"
+      ],
+      "quote": "Forum voor Democratie kiest voor zichtbare, daadkrachtige veiligheid.",
+      "coverage": "volledig"
+    },
+    "binnenstad": {
+      "summary": "Binnenstad wordt door FvD vooral benaderd vanuit bereikbaarheid, lokale economie en leefbaarheid. Winkels, horeca en markten worden gezien als dragers van een levendig stadscentrum. Parkeerruimte en mobiliteitsvrijheid horen in die lijn bij het economisch functioneren van de binnenstad.",
+      "key_points": [
+        "Binnenstad economisch aantrekkelijk houden",
+        "Bereikbaarheid voor winkels en voorzieningen behouden",
+        "Lokale bedrijvigheid en markten ondersteunen"
+      ],
+      "quote": "Winkels, horeca en markten maken de binnenstad en wijkcentra aantrekkelijk en herkenbaar.",
+      "coverage": "beperkt"
+    },
+    "daklozen": {
+      "summary": "In het beschikbare FvD-programma komt dakloosheid niet als zelfstandig gemeentelijk beleidsdomein naar voren. Er zijn wel passages over opvang en overlast in bredere veiligheids- en asielkaders, maar zonder uitgewerkt daklozenbeleid voor Leiden.",
+      "key_points": [],
+      "quote": "",
+      "coverage": "geen"
+    },
+    "zorg": {
+      "summary": "FvD wil zorg dichterbij organiseren met minder bureaucratie en meer directe hulp. De partij benadrukt fysieke toegankelijkheid naast digitale opties en wil gemeentelijke regie in jeugdzorg versterken. Ook ouderenzorg, mantelzorgondersteuning en lokale voorzieningen worden expliciet benoemd.",
+      "key_points": [
+        "Minder administratieve lasten in zorg",
+        "Zorg fysiek en persoonlijk toegankelijk houden",
+        "Gemeentelijke regie terug in jeugdzorg",
+        "Meer aandacht voor waardige ouderenzorg"
+      ],
+      "quote": "Forum voor Democratie kiest voor zorg die dichtbij is, toegankelijk en gericht op directe hulp.",
+      "coverage": "volledig"
+    },
+    "onderwijs": {
+      "summary": "Onderwijs is opgenomen in hetzelfde hoofdstuk als zorg en welzijn. FvD wil ruimte voor nieuwe onderwijsinitiatieven en benadrukt gemeentelijke verantwoordelijkheid voor toegang en ondersteuning. Het onderwerp is aanwezig, maar minder gedetailleerd dan veiligheid, bestuur en wonen.",
+      "key_points": [
+        "Toegang tot goed onderwijs als gemeentelijke opgave",
+        "Ruimte voor nieuwe onderwijsinitiatieven",
+        "Onderwijs koppelen aan lokale behoeften van ouders en kinderen"
+      ],
+      "quote": "De gemeente heeft een belangrijke taak in het bieden van toegang tot goed onderwijs.",
+      "coverage": "beperkt"
+    },
+    "economie": {
+      "summary": "FvD wil lasten verlagen, regeldruk terugdringen en vergunningverlening versnellen om ondernemerschap te stimuleren. De partij positioneert lokale economie als basis voor werkgelegenheid en leefbare centra. Klimaat- en ideologische voorwaarden bij aanbestedingen wil FvD juist schrappen.",
+      "key_points": [
+        "Lagere OZB, heffingen en parkeertarieven",
+        "Snellere en eenvoudiger vergunningen",
+        "Lokale ondernemers en MKB voorrang geven",
+        "Minder beleidsvoorwaarden bij aanbestedingen"
+      ],
+      "quote": "Ondernemerschap moet worden beloond, niet ontmoedigd.",
+      "coverage": "volledig"
+    },
+    "financien": {
+      "summary": "Financieel kiest FvD voor lagere lasten, slankere gemeentelijke organisatie en strengere projectdiscipline. De partij verzet zich tegen prestigeprojecten zonder aantoonbaar publiek nut en wil minder externe inhuur. Financiële meevallers moeten volgens FvD direct vertaald worden in lastenverlichting.",
+      "key_points": [
+        "Geen prestigeprojecten zonder publiek nut",
+        "Minder externe inhuur en advieskosten",
+        "Slankere gemeentelijke organisatie",
+        "Financiële meevallers terug naar inwoners"
+      ],
+      "quote": "Wij stoppen met miljoenenverslindende prestigeprojecten zonder publiek nut en zonder economisch rendement.",
+      "coverage": "volledig"
+    },
+    "bestuur": {
+      "summary": "Bestuur is het meest uitgewerkte FvD-thema. De partij wil bindende referenda, direct gekozen burgemeester, minder coalitiedwang en maximale lokale autonomie tegenover landelijke en regionale druk. Transparantie, kerntaken en een kleiner bestuurlijk apparaat vormen de kern van de bestuursvisie.",
+      "key_points": [
+        "Bindend lokaal referendum invoeren",
+        "Direct gekozen burgemeester",
+        "Akkoorden op hoofdlijnen in plaats van dichtgetimmerde coalities",
+        "Radicaal transparanter gemeentebestuur"
+      ],
+      "quote": "Forum voor Democratie wil de gemeente weer teruggeven aan haar inwoners.",
+      "coverage": "volledig"
+    },
+    "cultuur": {
+      "summary": "Cultuurbeleid van FvD richt zich op lokale identiteit, erfgoed en tradities. De partij wil vergunningen voor lokale evenementen versoepelen en historische symboliek beschermen. Cultuur wordt gepresenteerd als bindmiddel voor gemeenschapszin en stedelijke eigenheid.",
+      "key_points": [
+        "Beschermen van lokale tradities en evenementen",
+        "Behoud van erfgoed, straatnamen en monumenten",
+        "Ruimte voor verenigingen en buurtactiviteiten",
+        "Leidse identiteit expliciet versterken"
+      ],
+      "quote": "Forum voor Democratie staat voor cultuur die gedragen en gewaardeerd wordt door inwoners zelf.",
+      "coverage": "volledig"
+    }
+  }
+}
